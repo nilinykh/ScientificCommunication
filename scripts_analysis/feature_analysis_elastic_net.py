@@ -2,12 +2,13 @@ import argparse
 import numpy as np
 import pandas as pd
 import polars as pl
+import tabulate
 from sklearn.linear_model import LogisticRegressionCV, LogisticRegression
-from sklearn.model_selection import StratifiedKFold, GridSearchCV
+from sklearn.model_selection import StratifiedKFold, GridSearchCV, RandomizedSearchCV
 from sklearn.metrics import roc_auc_score
 from tqdm.auto import tqdm
-from tabulate import tabulate
-from feature_analysis_shap import get_processed_dataframe
+from sklearn.pipeline import make_pipeline, Pipeline
+from sklearn.preprocessing import StandardScaler
 
 
 # ---------------------------------------------------------------------
@@ -30,6 +31,50 @@ def pseudo_r2_measures(y_true, y_pred_proba):
     return r2_mcfadden, r2_nagelkerke
 
 
+def get_clean_feature_df(feature_df, features):
+    """
+    Clean and preprocess the dataframe:
+    - Drop text columns and IDs if present
+    - Remove columns with arrays/lists
+    - Remove columns with all NaNs or one unique value
+    - Replace inf values, fill NaNs (numeric -> mean, bool/int -> 0)
+    """
+    # 1. Drop clearly irrelevant columns
+    columns_to_ignore = {"abstract", "full_text", "title", "text", "acl_id", "after"}
+    df = feature_df.drop(columns=columns_to_ignore.intersection(feature_df.columns), errors="ignore")
+    # only keep features that are in the provided features list
+    df = df[[col for col in df.columns if col in features]]
+
+    # 2. Remove columns containing lists/arrays in any row
+    def is_array_column(series):
+        return series.apply(lambda x: isinstance(x, (list, np.ndarray))).any()
+
+    array_cols = [col for col in df.columns if is_array_column(df[col])]
+    df = df.drop(columns=array_cols, errors="ignore")
+
+    # 3. Drop columns with only NaNs or a single unique value
+    drop_cols = [col for col in df.columns if df[col].isnull().all() or df[col].nunique() <= 1]
+    df = df.drop(columns=drop_cols, errors="ignore")
+    print(f"Dropped {len(array_cols) + len(drop_cols)} columns (arrays/NaNs/constants). Remaining shape: {df.shape}")
+
+    # 4. Replace inf/-inf with NaN
+    df.replace([np.inf, -np.inf], np.nan, inplace=True)
+    # how many NaNs are in the dataframe now?
+    print(f"Dataframe shape after cleaning: {df.shape}. Total NaNs: {df.isna().sum().sum()}")
+
+    # 5. Fill remaining NaNs: numeric -> mean, others -> 0
+    for col in df.columns:
+        if pd.api.types.is_numeric_dtype(df[col]):
+            df[col].fillna(df[col].mean(), inplace=True)
+        else:
+            df[col].fillna(0, inplace=True)
+
+    # 6. Final safety check
+    df.fillna(0, inplace=True)
+
+    return df
+
+
 def robust_feature_selection(X, y, N_OUTER=10, N_INNER=5, SEED=42):
     """
     Perform robust feature selection using nested cross-validation with Elastic Net logistic regression.
@@ -46,29 +91,35 @@ def robust_feature_selection(X, y, N_OUTER=10, N_INNER=5, SEED=42):
     # parameter grid
     Cs = np.logspace(-2, 4, 20)
     l1_ratios = np.linspace(0, 0.25, 3)
-    param_grid = {"C": Cs, "l1_ratio": l1_ratios}
-
+    param_grid = {
+        "logreg__C": Cs,
+        "logreg__l1_ratio": l1_ratios
+    }
     for outer_train_idx, outer_test_idx in tqdm(outer_cv.split(X, y), total=N_OUTER, desc="Outer CV"):
         X_train, X_test = X.iloc[outer_train_idx], X.iloc[outer_test_idx]
         y_train, y_test = y.iloc[outer_train_idx], y.iloc[outer_test_idx]
 
-        logreg = LogisticRegression(
-            penalty="elasticnet",
-            solver="saga",
-            max_iter=1000,
-            tol=1e-3,
-            random_state=SEED
-        )
+        # Define pipeline (scaling inside)
+        pipeline = Pipeline([
+            ('scaler', StandardScaler()),
+            ('logreg', LogisticRegression(
+                penalty="elasticnet",
+                solver="saga",
+                max_iter=1000,
+                tol=1e-3,
+                random_state=SEED
+            ))
+        ])
 
+        # Inner CV for hyperparameter tuning
         inner_cv = StratifiedKFold(n_splits=N_INNER, shuffle=True, random_state=SEED)
         grid = GridSearchCV(
-            estimator=logreg,
+            estimator=pipeline,
             param_grid=param_grid,
             cv=inner_cv,
-           # scoring="neg_log_loss",
-            scoring="roc_auc",
+            scoring="explained_variance",
             n_jobs=-1,
-            verbose=3  # <--- fold-by-fold logs
+            verbose=1
         )
         grid.fit(X_train, y_train)
 
@@ -84,7 +135,9 @@ def robust_feature_selection(X, y, N_OUTER=10, N_INNER=5, SEED=42):
         nagelkerke_scores.append(r2_nag)
 
         # --- Track features ---
-        coefs = best_model.coef_.flatten()
+        # --- Extract coefficients correctly ---
+        logreg_step = best_model.named_steps["logreg"]
+        coefs = logreg_step.coef_.flatten()
         print("coefficients of the best model in this fold:")
         print(pd.Series(coefs, index=features).sort_values(ascending=False).head(10))
 
@@ -109,6 +162,278 @@ def robust_feature_selection(X, y, N_OUTER=10, N_INNER=5, SEED=42):
     print("\n=== Feature Stability Summary ===")
     print(summary.head(20))
     summary.to_csv("feature_stability.csv", index=True)
+
+
+"""
+def robust_feature_selection_fast(X, y, N_OUTER=10, N_INNER=5, SEED=42, n_iter_search=10):
+    
+    Faster robust feature selection using nested cross-validation
+    with Elastic Net logistic regression and RandomizedSearchCV.
+    Stores averaged coefficients and selection frequencies of features,
+    as well as average R² (McFadden & Nagelkerke) and AUC across outer folds.
+    
+
+    features = X.columns.tolist()
+    mcfadden_scores, nagelkerke_scores, auc_scores = [], [], []
+    feature_counts = pd.Series(0, index=features)
+    coef_sums = pd.Series(0.0, index=features)
+
+    outer_cv = StratifiedKFold(n_splits=N_OUTER, shuffle=True, random_state=SEED)
+
+    # --- Parameter ranges ---
+    # Cs = np.logspace(-2, 3, 50)          # broader range for regularization
+    # l1_ratios = np.linspace(0, 1, 20)    # full elastic net range
+    # l1_ratios = np.linspace(0.1, 1.0, 10)
+    # Cs = np.logspace(-4, 3, 30)
+    Cs = np.logspace(-3, 2, 15)  # 0.001 to 100
+    l1_ratios = np.linspace(0.1, 1.0, 10)
+    param_dist = {
+        "logreg__C": Cs,
+        "logreg__l1_ratio": l1_ratios
+    }
+
+    # --- Inner CV setup ---
+    inner_cv = StratifiedKFold(n_splits=N_INNER, shuffle=True, random_state=SEED)
+
+    for outer_train_idx, outer_test_idx in tqdm(outer_cv.split(X, y), total=N_OUTER, desc="Outer CV"):
+        X_train, X_test = X.iloc[outer_train_idx], X.iloc[outer_test_idx]
+        y_train, y_test = y.iloc[outer_train_idx], y.iloc[outer_test_idx]
+
+        pipeline = Pipeline([
+            ('scaler', StandardScaler()),
+            ('logreg', LogisticRegression(
+                penalty="elasticnet",
+                solver="saga",
+                max_iter=2000,
+                tol=1e-3,
+                random_state=SEED
+            ))
+        ])
+
+        # --- Randomized Search instead of Grid Search ---
+        search = RandomizedSearchCV(
+            estimator=pipeline,
+            param_distributions=param_dist,
+            n_iter=n_iter_search,  # number of random combinations
+            cv=inner_cv,
+            scoring="roc_auc",
+            random_state=SEED,
+            n_jobs=-1,
+            verbose=0
+        )
+        search.fit(X_train, y_train)
+        best_model = search.best_estimator_
+
+        # --- Evaluate outer test performance ---
+        y_pred_proba = best_model.predict_proba(X_test)[:, 1]
+        auc = roc_auc_score(y_test, y_pred_proba)
+        auc_scores.append(auc)
+
+        # --- Compute pseudo R² manually (same as before) ---
+        eps = 1e-15
+        y_pred_proba = np.clip(y_pred_proba, eps, 1 - eps)
+        logL_model = np.sum(y_test * np.log(y_pred_proba) + (1 - y_test) * np.log(1 - y_pred_proba))
+        p_mean = np.mean(y_test)
+        logL_null = np.sum(y_test * np.log(p_mean) + (1 - y_test) * np.log(1 - p_mean))
+        mcfadden = 1 - (logL_model / logL_null)
+        nagelkerke = mcfadden / (1 - (logL_null / len(y_test)))
+        mcfadden_scores.append(mcfadden)
+        nagelkerke_scores.append(nagelkerke)
+
+        # --- Track feature selection and coefficients ---
+        coefs = best_model.named_steps["logreg"].coef_.flatten()
+        selected = coefs != 0
+        feature_counts[selected] += 1
+        coef_sums[selected] += coefs[selected]
+
+        # --- Per-fold results logging ---
+        results_df = pd.DataFrame({
+            "Fold_AUC": [auc] * len(features),
+            "Fold_McFadden_R2": [mcfadden] * len(features),
+            "Fold_Nagelkerke_R2": [nagelkerke] * len(features)
+        })
+
+        # Save them for later inspection
+        results_df.to_csv("per_fold_results.csv", index=False)
+
+    # --- Aggregate summary ---
+    print("\n=== Nested CV Results ===")
+    print(f"Mean AUC: {np.mean(auc_scores):.3f} ± {np.std(auc_scores):.3f}")
+    print(f"Mean McFadden R²: {np.mean(mcfadden_scores):.3f} ± {np.std(mcfadden_scores):.3f}")
+    print(f"Mean Nagelkerke R²: {np.mean(nagelkerke_scores):.3f} ± {np.std(nagelkerke_scores):.3f}")
+    # store also the results in a dataframe
+    results_df = pd.DataFrame({
+        "Metric": ["AUC", "McFadden_R2", "Nagelkerke_R2"],
+        "Mean": [np.mean(auc_scores), np.mean(mcfadden_scores), np.mean(nagelkerke_scores)],
+        "Std": [np.std(auc_scores), np.std(mcfadden_scores), np.std(nagelkerke_scores)]
+    })
+    results_df.to_csv("nested_cv_summary.csv", index=False)
+
+    # --- Feature summary ---
+    selection_freq = feature_counts / N_OUTER
+    avg_coefs = coef_sums / feature_counts.replace(0, np.nan)
+    summary = (
+        pd.DataFrame({"Selection_Freq": selection_freq, "Avg_Coef": avg_coefs})
+        .fillna(0)
+        .sort_values("Selection_Freq", ascending=False)
+    )
+
+    print("\n=== Top Stable Features ===")
+    print(summary.head(15))
+
+    # Save feature stability summary
+    summary.to_csv("feature_stability_fast.csv", index=True)
+
+    # --- Return both summaries ---
+    return summary, results_df
+    """
+
+
+def robust_feature_selection_enhanced(
+    X, y,
+    N_OUTER=10, N_INNER=5,
+    SEED=42, n_iter_search=20,
+    n_bootstrap=200, ci_alpha=0.05,
+    save_prefix="robust_results"
+):
+    """
+    Robust feature selection with nested CV Elastic Net Logistic Regression.
+    Includes:
+      - Averaged standardized coefficients
+      - Feature selection frequency & sign consistency
+      - Bootstrapped confidence intervals & p-values
+      - Saves all outputs to CSV
+    """
+    import numpy as np
+    import pandas as pd
+    from sklearn.model_selection import StratifiedKFold, RandomizedSearchCV
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.preprocessing import StandardScaler
+    from sklearn.pipeline import Pipeline
+    from sklearn.metrics import roc_auc_score
+    from tqdm import tqdm
+    from scipy.stats import loguniform
+
+    np.random.seed(SEED)
+    features = X.columns.tolist()
+
+    # --- Containers ---
+    feature_counts = pd.Series(0, index=features)
+    coef_sums = pd.Series(0.0, index=features)
+    sign_consistency = pd.Series(0, index=features)
+    per_fold_results = []
+
+    outer_cv = StratifiedKFold(n_splits=N_OUTER, shuffle=True, random_state=SEED)
+    inner_cv = StratifiedKFold(n_splits=N_INNER, shuffle=True, random_state=SEED)
+
+    param_dist = {
+        "logreg__C": loguniform(1e-4, 1),
+        "logreg__l1_ratio": np.linspace(0.7, 1.0, 6)
+    }
+
+    # === Outer Loop ===
+    for fold, (train_idx, test_idx) in enumerate(
+        tqdm(outer_cv.split(X, y), total=N_OUTER, desc="Outer CV")
+    ):
+        X_train, X_test = X.iloc[train_idx], X.iloc[test_idx]
+        y_train, y_test = y.iloc[train_idx], y.iloc[test_idx]
+
+        pipeline = Pipeline([
+            ("scaler", StandardScaler()),
+            ("logreg", LogisticRegression(
+                penalty="elasticnet", solver="saga",
+                max_iter=3000, tol=1e-4, random_state=SEED
+            ))
+        ])
+
+        search = RandomizedSearchCV(
+            pipeline, param_distributions=param_dist,
+            n_iter=n_iter_search, cv=inner_cv, scoring="roc_auc",
+            random_state=SEED, n_jobs=-1, verbose=0
+        )
+
+        search.fit(X_train, y_train)
+        best_model = search.best_estimator_
+        coefs = best_model.named_steps["logreg"].coef_.flatten()
+        y_pred_proba = best_model.predict_proba(X_test)[:, 1]
+        auc = roc_auc_score(y_test, y_pred_proba)
+
+        # Track results
+        selected = coefs != 0
+        feature_counts[selected] += 1
+        coef_sums[selected] += coefs[selected]
+        sign_consistency += np.sign(coefs)
+
+        per_fold_results.append({
+            "Fold": fold + 1,
+            "AUC": auc,
+            "Best_C": search.best_params_["logreg__C"],
+            "Best_L1_Ratio": search.best_params_["logreg__l1_ratio"]
+        })
+
+    # === Aggregate results ===
+    selection_freq = feature_counts / N_OUTER
+    avg_coefs = coef_sums / feature_counts.replace(0, np.nan)
+    sign_consistency = np.abs(sign_consistency / N_OUTER)
+
+    feature_summary = (
+        pd.DataFrame({
+            "Selection_Freq": selection_freq,
+            "Avg_Std_Coef": avg_coefs.fillna(0),
+            "Sign_Consistency": sign_consistency
+        })
+        .sort_values("Selection_Freq", ascending=False)
+    )
+
+    results_df = pd.DataFrame(per_fold_results)
+    results_df.to_csv(f"{save_prefix}_per_fold_results.csv", index=False)
+
+    # === Bootstrap for CIs & p-values ===
+    print("\nBootstrapping coefficient confidence intervals...")
+    from joblib import Parallel, delayed
+
+    def fit_bootstrap(seed):
+        np.random.seed(seed)
+        idx = np.random.choice(len(y), len(y), replace=True)
+        Xb, yb = X.iloc[idx], y.iloc[idx]
+        pipe = Pipeline([
+            ('scaler', StandardScaler()),
+            ('logreg', LogisticRegression(
+                penalty="elasticnet",
+                solver="saga",
+                C=0.1, l1_ratio=0.9,
+                max_iter=3000,
+                random_state=seed))
+        ])
+        pipe.fit(Xb, yb)
+        return pipe.named_steps['logreg'].coef_.flatten()
+
+    coef_boot = np.array(Parallel(n_jobs=-1)(
+        delayed(fit_bootstrap)(SEED + i) for i in range(n_bootstrap)
+    ))
+
+    ci_lower = np.percentile(coef_boot, 100 * ci_alpha / 2, axis=0)
+    ci_upper = np.percentile(coef_boot, 100 * (1 - ci_alpha / 2), axis=0)
+    p_values = 2 * np.minimum(
+        np.mean(coef_boot > 0, axis=0),
+        np.mean(coef_boot < 0, axis=0)
+    )
+
+    feature_summary["CI_Lower"] = ci_lower
+    feature_summary["CI_Upper"] = ci_upper
+    feature_summary["p_approx"] = p_values
+
+    # === Save outputs ===
+    feature_summary.to_csv(f"{save_prefix}_feature_summary.csv", index=True)
+    results_df.to_csv(f"{save_prefix}_nestedcv_summary.csv", index=False)
+
+    print("\n=== Top Stable Features ===")
+    print(feature_summary.head(15))
+
+    print(f"\nSaved results to:\n- {save_prefix}_feature_summary.csv\n- {save_prefix}_nestedcv_summary.csv\n- {save_prefix}_per_fold_results.csv")
+
+    return feature_summary, results_df
+
 
 
 def find_highly_correlated_features(df1, df2, drop_cols=None, threshold=0.9):
@@ -150,45 +475,200 @@ def find_highly_correlated_features(df1, df2, drop_cols=None, threshold=0.9):
 def main(args):
     df1 = pl.read_parquet(args.input_t1).to_pandas()
     df2 = pl.read_parquet(args.input_t2).to_pandas()
-    df1 = df1.sample(30000)
-    df2 = df2.sample(30000)
+    features = ['n_VERB_VerbForm_Fin',
+                'n_VERB_VerbForm_Inf',
+                'n_VERB_VerbForm_Part',
+                'n_VERB_Mood_Ind',
+                'n_VERB_Number_Sing',
+                'n_NOUN_Number_Plur',
+                'n_PRON_PronType_Art',
+                'n_PRON_PronType_Dem',
+                'n_PRON_PronType_Ind',
+                'n_PRON_PronType_Rel',
+                'n_PRON_Reflex_Yes',
+                'n_PRON_Gender_Fem',
+                'n_PRON_Gender_Masc',
+                'n_PRON_Gender_Neut',
+                'n_ADJ_Degree_Cmp',
+                'n_ADJ_Degree_Sup',
+                'n_DET_Number_Plur',
+                'n_DET_Number_Sing',
+                'n_DET_Definite_Def',
+                'n_DET_Definite_Ind',
+                'n_NUM_Number_Sing',
+                'n_ADV_Degree_Cmp',
+                'n_ADV_Degree_Pos',
+                'n_ADV_Degree_Sup',
+                'n_PROPN_Number_Plur',
+                'n_PUNCT_PunctType_Brck',
+                'n_PUNCT_PunctType_Comm',
+                'n_PUNCT_PunctType_Dash',
+                'n_PUNCT_PunctType_Peri',
+                'n_PUNCT_PunctType_Quot',
+                'n_CCONJ_ConjType_Cmp',
+                'n_dependency_acl',
+                'n_dependency_acomp',
+                'n_dependency_advcl',
+                'n_dependency_agent',
+                'n_dependency_attr',
+                'n_dependency_aux',
+                'n_dependency_case',
+                'n_dependency_compound',
+                'n_dependency_conj',
+                'n_dependency_csubj',
+                'n_dependency_csubjpass',
+                'n_dependency_dative',
+                'n_dependency_dep',
+                'n_dependency_dobj',
+                'n_dependency_expl',
+                'n_dependency_intj',
+                'n_dependency_meta',
+                'n_dependency_neg',
+                'n_dependency_nsubj',
+                'n_dependency_nsubjpass',
+                'n_dependency_nummod',
+                'n_dependency_oprd',
+                'n_dependency_parataxis',
+                'n_dependency_pcomp',
+                'n_dependency_poss',
+                'n_dependency_preconj',
+                'n_dependency_prt',
+                'n_dependency_quantmod',
+                'n_dependency_relcl',
+                'n_dependency_xcomp',
+                'n_high_Auditory_sensorimotor',
+                'n_high_Gustatory_sensorimotor',
+                'n_high_Haptic_sensorimotor',
+                'n_high_Interoceptive_sensorimotor',
+                'n_high_Olfactory_sensorimotor',
+                'n_high_Visual_sensorimotor',
+                'n_high_Foot_leg_sensorimotor',
+                'n_high_Hand_arm_sensorimotor',
+                'n_high_Head_sensorimotor',
+                'n_high_Mouth_sensorimotor',
+                'n_high_Torso_sensorimotor',
+                'avg_word_length',
+                't_stopword',
+                'gunning_fog',
+                'compressibility',
+                'avg_aoa',
+                'n_high_arousal',
+                'n_negative_sentiment',
+                'n_positive_sentiment',
+                'n_high_intensity_anger',
+                'n_high_intensity_anticipation',
+                'n_high_intensity_disgust',
+                'n_high_intensity_joy',
+                'n_high_intensity_sadness',
+                'n_high_intensity_surprise',
+                'n_high_intensity_trust',
+                'avg_concreteness',
+                'n_high_concreteness',
+                'avg_prevalence',
+                'tree_width',
+                'tree_depth',
+                'tree_branching',
+                'cttr',
+                'simpsons_d',
+                'entropy',
+                'mtld',
+                'mattr',
+                'n_global_lemma_hapax_dislegomena',
+                'corr_adj_var',
+                'corr_adp_var',
+                'corr_aux_var',
+                'corr_cconj_var',
+                'corr_det_var',
+                'corr_intj_var',
+                'corr_noun_var',
+                'corr_num_var',
+                'corr_part_var',
+                'corr_pron_var',
+                'corr_propn_var',
+                'corr_punct_var',
+                'corr_sconj_var',
+                'corr_sym_var',
+                'corr_verb_var',
+                'corr_space_var',
+                'n_adj',
+                'n_adv',
+                'n_aux',
+                'n_intj',
+                'n_noun',
+                'n_num',
+                'n_part',
+                'n_pron',
+                'n_propn',
+                'n_sconj',
+                'n_sym',
+                'n_x',
+                'n_hedges',
+                'n_org',
+                'n_cardinal',
+                'n_date',
+                'n_gpe',
+                'n_person',
+                'n_money',
+                'n_product',
+                'n_time',
+                'n_percent',
+                'n_quantity',
+                'n_norp',
+                'n_loc',
+                'n_event',
+                'n_ordinal',
+                'n_fac',
+                'n_law',
+                'n_language']
+    # df1 = df1.sample(30000)
+    # df2 = df2.sample(30000)
     print("size of T1 dataframe: ", df1.shape)
     print("size of T2 dataframe: ", df2.shape)
+    print("type of T1 dataframe: ", type(df1))
+    print("type of T2 dataframe: ", type(df2))
 
-    feature_df1 = get_processed_dataframe(df1).drop(columns=["acl_id", "ID"], errors="ignore")
-    feature_df2 = get_processed_dataframe(df2).drop(columns=["acl_id", "ID"], errors="ignore")
+    df1["after"] = 0
+    df2["after"] = 1
 
-    feature_df1["after"] = 0
-    feature_df2["after"] = 1
-
-    feature_df = pd.concat([feature_df1, feature_df2], axis=0)
-    #print(tabulate(feature_df.head(), headers='keys', tablefmt='psql'))
+    feature_df = pd.concat([df1, df2], axis=0)
+    # print(tabulate(feature_df.head(), headers='keys', tablefmt='psql'))
     print("target distribution:")
     print(feature_df.after.value_counts())
 
-    # Drop constants & NaNs
-    constant_columns = feature_df.columns[feature_df.nunique() <= 1]
-    feature_df = feature_df.drop(columns=constant_columns, errors="ignore")
-    print(f"Dropped {len(constant_columns)} constant columns.")
-
-    nan_columns = feature_df.columns[feature_df.isna().any()]
-    feature_df = feature_df.drop(columns=nan_columns, errors="ignore")
-    print(f"Dropped {len(nan_columns)} NaN columns.")
-    """
-    # Drop highly correlated
-    correlated_sets1, correlated_sets2 = find_highly_correlated_features(
-        feature_df1, feature_df2, drop_cols=["after"], threshold=0.9
-    )
-    to_drop = {col for s in correlated_sets1 + correlated_sets2 for col in list(s)[1:]}
-    feature_df = feature_df.drop(columns=to_drop, errors="ignore")
-    print(f"Dropped {len(to_drop)} highly correlated columns.")
-    """
     target = feature_df["after"]
     feature_df = feature_df.drop(columns=["after"], errors="ignore")
+    # only select features that are in the predefined features list
+    feature_df = feature_df[[col for col in feature_df.columns if col in features]]
+    # feature_df = get_clean_feature_df(feature_df, features)
+
+    # only keep columns that have "dependency" in their name
+    #    feature_df = feature_df[[col for col in feature_df.columns if "dependency" in col]]
+    print(f"Final feature set size: {feature_df.shape[1]} features.")
+    # how many NaNs per column?
+    print("NaN counts per column:")
+    r = feature_df.isna().sum()
+    # check which columns have NaNs
+    print(r[r > 0])
+    # print(tabulate.tabulate(r[r > 0], headers=['Column', 'NaN Count'], tablefmt='psql'))
+
     print("value counts of the target variable:")
     print(target.value_counts())
+    columns_to_ignore = {"abstract", "full_text", "title", "text", "acl_id", "after"}
+    feature_df = feature_df.drop(columns=columns_to_ignore.intersection(feature_df.columns), errors="ignore")
 
-    robust_feature_selection(feature_df, target, N_OUTER=args.outer, N_INNER=args.inner, SEED=args.seed)
+    # 2. Remove columns containing lists/arrays in any row
+    def is_array_column(series):
+        return series.apply(lambda x: isinstance(x, (list, np.ndarray))).any()
+
+    array_cols = [col for col in feature_df.columns if is_array_column(feature_df[col])]
+    feature_df = feature_df.drop(columns=array_cols, errors="ignore")
+    print(f"Dropped {len(array_cols)} array columns. Remaining shape: {feature_df.shape}")
+    # check if all columns have the same length
+    lengths = feature_df.apply(len)
+    print("Column lengths:")
+    print(lengths.value_counts())
+
+    robust_feature_selection_enhanced(feature_df, target, N_OUTER=args.outer, N_INNER=args.inner, SEED=args.seed)
 
 
 if __name__ == "__main__":
