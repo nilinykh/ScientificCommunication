@@ -8,5 +8,5 @@ The files contain the feature values of the originally selected 145 features, th
 
 ### original
 This folder contains the original data used for the analysis. There are two files:
-- cacl_t1_reliable_features.parquet: contains the data of the 24 final features for the realistic dataset (cacl_t1).
-- cacl_t2_reliable_features.parquet: contains the data of the 24 final features for the synthetic dataset (cacl_t2).
+- cacl_t1_reliable_features.parquet: contains the data of the 24 final features for the realistic dataset (cacl_t1). --> t1 = time period before release of chatGPT 
+- cacl_t2_reliable_features.parquet: contains the data of the 24 final features for the synthetic dataset (cacl_t2). --> t2 = time period after release of chatGPT
