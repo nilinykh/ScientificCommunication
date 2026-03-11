@@ -1,10 +1,8 @@
 import argparse
 
-import polars as pl
 import spacy
 import polars as pl
 import lftk
-from tqdm import tqdm
 
 if __name__ == '__main__':
     argumentparser = argparse.ArgumentParser()
