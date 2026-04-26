@@ -7,11 +7,11 @@ import pandas as pd
 import torch
 from collections import defaultdict
 from sklearn.cluster import KMeans
-from scipy.spatial.distance import cosine, jensenshannon
+from scipy.spatial.distance import cosine
 from transformers import AutoTokenizer, AutoModel
 
 MODEL = 'answerdotai/ModernBERT-base'
-CACHE = '/resources/models/huggingface/hub/'
+CACHE = '/' # path to the directory where you want to cache the model
 
 
 def load_inputs(lemmatized_path: str, tokenized_path: str,
