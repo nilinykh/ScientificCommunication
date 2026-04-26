@@ -23,17 +23,22 @@ python get_missing_papers.py missing_papers.txt --pdf-dirs $pdf_dir --out-dir $p
 # Convert PDFs into XML files
 # Start Docker container for GROBID server in detached mode
 docker run -d --name grobid --rm --init --ulimit core=0 -p 8070:8070 lfoppiano/grobid:0.8.1
-# TODO: Test if there needs to be forced wait/sleep time for GROBID server to come on
+
+# Give GROBID time to get running
+echo "Waiting for GROBID service to initialize..."
+until curl -s http://localhost:8070/health; do
+  sleep 2
+done
+echo "Ready."
+
 # Run PDF to XML conversion
 python get_xml_from_pdf.py $pdf_dir $xml_dir 2> $log_file
+
 # Stop GROBID container
 docker stop grobid
 
 # Convert XML into Pandas dataframe
 python parse_grobid_extraction.py $xml_dir $dfs_dir/papers_content.parquet
 
-# Add metadata to new corpus
-# TODO
-
-# Merge corpus dataframes and update Semantic Scholar info
-# TODO
+# Add metadata and write out new corpus
+python get_metadata.py $dfs_dir/papers_content.parquet $dfs_dir/corpus_update.parquet

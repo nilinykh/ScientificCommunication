@@ -41,7 +41,7 @@ def main():
         pdf_file = os.path.join(args.in_dir, pdf_file)
         process_pdf(pdf_file, args.out_dir, client)
         if i % 100 == 0:
-            logging.info(f'Processed {i} files.')
+            logging.info(f'Processed {i+1} files.')
 
     logging.info(f'PDF to XML conversion done.')
 
