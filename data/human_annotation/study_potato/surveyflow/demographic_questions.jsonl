@@ -1,3 +1,0 @@
-{"id":"1","text":"Is English your first (native) language?","schema": "radio", "choices": ["Yes", "No"], "label_requirement": {"required":true}}
-{"id":"2","text":"What is your highest level of research experience?","schema": "radio", "choices": ["Student (undergraduate or master's)", "PhD student", "PhD or above (postdoc, faculty, researcher)"],"label_requirement": {"required":true}}
-{"id":"3","text":"How often do you use LLMs (like ChatGPT) for everyday tasks or interactions?","schema": "radio", "choices": ["Never", "Sometimes", "Most days"],"label_requirement": {"required":true}}
