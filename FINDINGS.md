@@ -6,7 +6,7 @@ Data sources used:
 - qwen3vl-4b role-conditioned narratives (n=20 each): `qwen_writer`, `qwen_journalist`, `qwen_advisor`  → [outputs_models/](outputs_models/)
 - Pairwise log-likelihood: [outputs_lexical/](outputs_lexical/) (human-vs-human) and [outputs_lexical_models/](outputs_lexical_models/) (model-vs-model and model-vs-human)
 
-> Caveat for everything below: human_human is ~83 tokens/doc (short captions), the qwen role outputs are ~400 tokens/doc, and the 4 domain corpora are 100 docs. Length differences explain a lot of the "raw count" gaps. Always look at *_pw (per-word) or corr_*_var (length-robust) versions first.
+> Always look at *_pw (per-word) or corr_*_var (length-robust) versions first.
 
 ---
 
@@ -57,7 +57,7 @@ From [outputs_lexical_models/*.parquet](outputs_lexical_models/), top content-wo
 
 **Read this:** qwen invariably leans on a tight vocabulary of *embodied scene description* — `eye / face / hand / room / light / moment / gaze / tension / silent / suggest`. Across all 3 system roles. The role tag barely changes this. Humans, regardless of domain, use more *deictic / temporal / propositional* verbs: `say, have, year, make, time, then, take, show`.
 
-> "qwen role" is essentially "qwen scene-describer with thesaurus settings". The role hint reshuffles adjectives, not content type.
+> "qwen role" is essentially "qwen scene-describer with some vocab/domain-vocab knowledge". The role hint reshuffles (?) adjectives, not content type.
 
 ---
 
