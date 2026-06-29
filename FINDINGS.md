@@ -14,7 +14,7 @@ Data sources used:
 
 Means table (subset, key features) — full file at [outputs_models/summary_all_lftk_means.csv](outputs_models/summary_all_lftk_means.csv):
 
-| feature | arxiv | politics | wp_stories | wsj | hh_stories | qwen_writer | qwen_journalist | qwen_advisor |
+| feature | arxiv-human | politics-human | rwp-human | wsj-human | vwp-human | vwp-qwen_writer | vwp-qwen_journalist | vwp-qwen_advisor |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | t_word (length) | 155 | 286 | 613 | 554 | 83 | 390 | 422 | 398 |
 | t_punct / word | .112 | .145 | .157 | .135 | .090 | .161 | .158 | .157 |
