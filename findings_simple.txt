@@ -1,5 +1,5 @@
-QWEN vs HUMAN — simple findings
-================================
+QWEN vs HUMAN — short notes
+===========================
 
 what the data is
 - human_human = 20 short image captions (~83 words each)
@@ -25,10 +25,10 @@ main findings
    structural features. biggest role gap is only ~10%, while between human
    domains it is hundreds of percent.
 
-3. qwen uses a very rich vocabulary of nouns and adjectives. corr_noun_var ~4.7
-   and corr_adj_var ~3.0. higher than the short human stories (1.9 and 1.2) and
-   on par with or above the richest human domain (wp_stories at 4.7 and 3.1).
-   takeaway: qwen is lexically diverse, almost over-diverse.
+3. qwen uses a wide range of nouns and adjectives. corr_noun_var ~4.7
+   and corr_adj_var ~3.0. that is higher than the short human stories (1.9 and 1.2)
+   and close to, or above, the richest human domain (wp_stories at 4.7 and 3.1).
+   the main point is that qwen is lexically rich, maybe a bit too uniformly so.
 
 4. qwen never uses interjections (oh, wow, hey). human stories do (corr_intj_var
    0.61 in wp_stories). this is a clear missing feature.
@@ -40,7 +40,7 @@ main findings
 
 7. qwen recycles fewer determiners than humans. corr_det_var 0.33 in qwen vs
    0.80 in human_human. qwen reaches for more determiner types (every, each,
-   those, neither...). reads more formal.
+   those, neither...). this makes it read slightly more formal.
 
 8. qwen sits in the MIDDLE of the human range for subordinators and adverbs.
    it does not commit to one register. it is neither chatty-story nor terse-news.
@@ -58,10 +58,10 @@ main findings
     make, time, day).
 
 bottom line
-- qwen produces ONE register: atmospheric scene narrative, ~400 words, lexically
-  rich, no register markers.
+- qwen mostly produces one register: atmospheric scene narrative, around 400 words,
+   lexically rich, with weak domain-specific markers.
 - changing the system role (writer / journalist / advisor) does not change the
-  register meaningfully.
-- the things qwen is MISSING (interjections, symbols, reporting verbs, varied
-  document length) are the same things that distinguish human domains from each
-  other. these are the knobs to turn if you want qwen to feel domain-specific.
+   register much.
+- the things qwen is missing, especially interjections, symbols, reporting verbs,
+   and more varied document length, are also the features that separate the human
+   domains most clearly.
