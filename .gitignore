@@ -1,0 +1,9 @@
+# Generated data artifacts and large binary tables
+*.parquet
+
+# Local Python cache files
+__pycache__/
+*.pyc
+
+# Local LFS setup file; keep it out unless you intentionally want LFS in the repo
+.gitattributes

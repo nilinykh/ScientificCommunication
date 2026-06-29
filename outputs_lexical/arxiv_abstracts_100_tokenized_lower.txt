@@ -1,0 +1,567 @@
+we show that the transverse double spin asymmetry ( dsa ) in the drell - yan process contributed only from the sivers functions can be picked out by the weighting function .
+the asymmetry is proportional to the product of two sivers functions from each hadron .
+using two sets of sivers functions extracted from the semi - inclusive deeply elastic scattering data at hermes , we estimate this asymmetry in the drell - yan process which is possible to be performed in hesr at gsi .
+the prediction of dsa in the drell - yan process contributed by the function , which can be extracted by the weighting function , is also given at gsi .
+by considering the -dependence of , , , , , , , hadron productions in charged lepton semi - inclusive deep inelastic scattering off nuclear target ( using fe as an example ) and deuteron d target , % at gev , we find that and are ideal to figure out the nuclear sea content , which is predicted to be different by different models accounting for the nuclear emc effect .
+using the n=4 superspace approach in one dimension ( time ) , we construct general n=8 supersymmetric mechanics actions for the multiplets ( b,8,8 - b ) classified in hep - th/0406015 , with the main focus on the previously unexplored cases of ( 8,8,0 ) , ( 7,8,1 ) and ( 6,8,2 ) , as well as on ( 5,8,3 ) for completeness .
+n=8 supersymmetry of the action amounts to a harmonicity condition for the lagrangian with respect to its superfield arguments .
+we derive the generic off - shell component action for the ` ` root '' multiplet ( 8,8,0 ) , prove that the actions for all other multiplets follow from it through automorphic dualities and argue that this hierarchical structure is universal .
+the bosonic target geometry in all cases is conformally flat , with a unique scalar potential ( except for the root multiplet ) .
+we show that the n=4 superfield constraints respect the full r - symmetry and find the explicit realization of its quotient over the manifest r - symmetry on superfields and component fields .
+several r - symmetric n=4 superfield lagrangians with n=8 supersymmetry are either newly found or reproduced by a simple universal method .
+we present a new realization of inverted neutrino mass hierarchy based on flavor symmetry .
+in this scenario , the deviation of the solar oscillation angle from is correlated with the value of , as they are both induced by a common mixing angle in the charged lepton sector .
+we find several interesting predictions : , , and for the neutrino oscillation parameters and for the effective neutrino mass in neutrino - less double -decay .
+we show that our scenario can also explain naturally the observed baryon asymmetry of the universe via resonant leptogenesis .
+the masses of the decaying right -- handed neutrinos can be in the range gev , which would avoid the generic gravitino problem of supersymmetric models .
+when a solid plate is withdrawn from a liquid bath , a receding contact line is formed where solid , liquid , and gas meet .
+above a critical speed , a stationary contact line can no longer exist and the solid will eventually be covered completely by a liquid film .
+here we show that the bifurcation diagram of this coating transition changes qualitatively , from discontinuous to continuous , when decreasing the inclination angle of the plate .
+we show that this effect is governed by the presence of capillary waves , illustrating that the large scale flow strongly effects the maximum speed of dewetting .
+for an ideal d - dimensional fermi gas under generic external confinement we derive the correcting coefficient of the von weizsacker term in the kinetic energy density .
+to obtain this coefficient we use the kirzhnits semiclassical expansion of the number operator up to the second order in the planck constant .
+within this simple and direct approach we determine the differential equation of the density profile and the density functional of the fermi gas .
+in the case d=2 we find that the kirzhnits gradient corrections vanish to all order in .
+the mechanical properties of the so - called ` super ' carbon nanotubes ( sts ) are investigated using classical molecular dynamics simulations .
+the sts are built from single walled carbon nanotubes ( swcnts ) connected by y - like junctions forming an ordered carbon nanotube network that is then rolled into a seamless cylinder .
+we observed that the st behavior under tensile tests is similar to the one presented by fishing nets .
+this interesting behavior provides a way to vary the accessible channels to the inner parts of sts by applying external mechanical load .
+the young 's modulus is dependent on the st chirality and it inversely varies with the st radius .
+smaller reduction of breaking strain values due to temperature increase is predicted for zigzag sts compared to swcnts .
+the results show that , for sts with radius ~ 5 nm , the junctions between the constituent swcnts play an important role on the fracture process .
+the young 's modulus and tensile strength were estimated for hierarchical higher - order sts using scaling laws related to the st fractal dimension .
+the obtained mechanical properties suggest that sts may be used in the development of new porous , flexible , and high - strength materials .
+we study the orbital structure of a self - consistent n - body equilibrium configuration of a barred galaxy constructed from cosmological initial conditions .
+the value of its spin parameter l is near the observed value of our galaxy l=0.22 .
+we classify the orbits in regular and chaotic using a combination of two different methods and find 60 % of them to be chaotic .
+we examine the phase space using projections of the 4d surfaces of section for test particles as well as for real n - body particles .
+the real particles are not uniformly distributed in the whole phase space but they avoid orbits that do not support the bar .
+we use frequency analysis for the regular orbits as well as for the chaotic ones to classify certain types of orbits of our self - consistent system .
+we find the main resonant orbits and their statistical weight in supporting the shape of the bar and we emphasize the role of weakly chaotic orbits in supporting the boxiness at the end of the bar .
+low temperature specific heat has been investigated in a novel ternary superconductor la_{3}pd_{4}ge_{4 } with an u_{3}ni_{4}si_{4}-type structure consisting of the alternating baal_{4 } ( thcr_{2}si_{2})- and alb -type layers .
+a comparative study with the related thcr_{2}si_{2}-type superconductor lapd_{2}ge_{2 } , one of the layers in la_{3}pd_{4}ge_{4 } , is also presented .
+from the normal state specific heat , the sommerfeld coefficient mj / mol k^2 and the debye temperature = 256 k are derived for the la_{3}pd_{4}ge_{4 } , while those for the lapd_{2}ge_{2 } are mj / mol k^2 and = 291 k.
+the la_{3}pd_{4}ge_{4 } has moderately high electronic density of state at the fermi level .
+electronic contribution on the specific heat , , in each compound is well described by the bcs behavior , suggesting that both of the la_{3}pd_{4}ge_{4 } and the lapd_{2}ge_{2 } have fully opened isotropic gap in the superconducting state .
+let a be a noetherian commutative ring .
+assume that projective modules of rank r over polynomial extensions of a are extended from a. then projective modules of rank r over discrete hodge a - algebras are also extended from a.
+this result extends a result of t. vorst .
+we have studied the annealing effect in transport properties of high temperature josephson junctions ( htc jj ) made by ion irradiation .
+low temperature annealing ( 80 degrees celsius ) increases the jj transition temperature ( tj ) and the ic .
+rn product , where ic is the critical current and rn the normal resistance .
+we found that the spread in jj characteristics can be lowered by sufficient long annealing times .
+using random walk numerical simulations , we showed that the characteristic annealing time and the evolution of the spread in jj characteristics can be explained by a vacancy - interstitial annihilation process rather than by an oxygen diffusion one .
+we present a method to integrate the equations of motion that govern bound , accelerated orbits in schwarzschild spacetime .
+at each instant the true worldline is assumed to lie tangent to a reference geodesic , called an osculating orbit , such that the worldline evolves smoothly from one such geodesic to the next .
+because a geodesic is uniquely identified by a set of constant orbital elements , the transition between osculating orbits corresponds to an evolution of the elements .
+in this paper we derive the evolution equations for a convenient set of orbital elements , assuming that the force acts only within the orbital plane ; this is the only restriction that we impose on the formalism , and we do not assume that the force must be small .
+as an application of our method , we analyze the relative motion of two massive bodies , assuming that one body is much smaller than the other .
+using the hybrid schwarzschild / post - newtonian equations of motion formulated by kidder , will , and wiseman , we treat the unperturbed motion as geodesic in a schwarzschild spacetime whose mass parameter is equal to the system 's total mass .
+the force then consists of terms that depend on the system 's reduced mass .
+we highlight the importance of conservative terms in this force , which cause significant long - term changes in the time - dependence and phase of the relative orbit .
+from our results we infer some general limitations of the radiative approximation to the gravitational self - force , which uses only the dissipative terms in the force .
+this article surveys some of the recent work in verification of temporal epistemic logic via symbolic model checking , focusing on obdd - based and sat - based approaches for epistemic logics built on discrete and real - time branching time temporal logics .
+dynamical models for 17 coma early - type galaxies are presented .
+the galaxy sample consists of flattened , rotating as well as non - rotating early - types including cd and s0 galaxies with luminosities between m=-18.79 and m=-22.56 .
+kinematical long - slit observations cover at least the major and minor axis and extend to 1 - 4 effective radii .
+axisymmetric schwarzschild models are used to derive stellar mass - to - light ratios and dark halo parameters .
+in every galaxy models with a dark matter halo match the data better than models without .
+the statistical significance is over 95 percent for 8 galaxies , around 90 percent for 5 galaxies and for four galaxies it is not significant .
+for the highly significant cases systematic deviations between observed and modelled kinematics are clearly seen ; for the remaining galaxies differences are more statistical in nature .
+best - fit models contain 10 - 50 percent dark matter inside the half - light radius .
+the central dark matter density is at least one order of magnitude lower than the luminous mass density .
+the central phase - space density of dark matter is often orders of magnitude lower than in the luminous component , especially when the halo core radius is large .
+the orbital system of the stars along the major - axis is slightly dominated by radial motions .
+some galaxies show tangential anisotropy along the minor - axis , which is correlated with the minor - axis gauss - hermite coefficient h4 .
+changing the balance between data - fit and regularisation constraints does not change the reconstructed mass structure significantly .
+model anisotropies tend to strengthen if the weight on regularisation is reduced , but the general property of a galaxy to be radially or tangentially anisotropic , respectively , does not change .
+( abridged )
+we give an algebraic characterization of the tree languages that are defined by logical formulas using certain lindstr\"om quantifiers .
+an important instance of our result concerns first - order definable tree languages .
+our characterization relies on the usage of preclones , an algebraic structure introduced by the authors in a previous paper , and of the block product operation on preclones .
+our results generalize analogous results on finite word languages , but it must be noted that , as they stand , they do not yield an algorithm to decide whether a given regular tree language is first - order definable .
+we report the serendipitous detection of the planetary nebula ngc 5315 by the chandra x - ray observatory .
+the chandra imaging spectroscopy results indicate that the x - rays from this pn , which harbors a wolf - rayet ( wr ) central star , emanate from a t_x ~ 2.5x10 ^ 6 k plasma generated via the same wind - wind collisions that have cleared a compact ( ~8000 au radius ) central cavity within the nebula .
+the inferred x - ray luminosity of ngc 5315 is ~2.5x10^{32 } erg s^{-1 } ( 0.3 - 2.0 kev ) , placing this object among the most luminous such ` ` hot bubble '' x - ray sources yet detected within pne .
+with the x - ray detection of ngc 5315 , objects with wr - type central stars now constitute a clear majority of known examples of diffuse x - ray sources among pne ; all such ` ` hot bubble ''
+pn x - ray sources display well - defined , quasi - continuous optical rims .
+we therefore assert that x - ray - luminous hot bubbles are characteristic of young pne with large central star wind kinetic energies and closed bubble morphologies .
+however , the evidence at hand also suggests that processes such as wind and bubble temporal evolution , as well as heat conduction and/or mixing of hot bubble and nebular gas , ultimately govern the luminosity and temperature of superheated plasma within pne .
+moments of the generalized parton distributions of the nucleon , calculated with a mixed action of domain wall valence quarks and asqtad staggered sea quarks , are presented for pion masses extending down to 359 mev. results for the moments of the unpolarized , helicity , and transversity distributions are given and compared to the available experimental measurements .
+additionally , a selection of the generalized form factors are shown and the implications for the spin decomposition and transverse structure of the nucleon are discussed .
+particular emphasis is placed on understanding systematic errors in the lattice calculation and exploring a variety of chiral extrapolations .
+in gravitational higgs mechanism graviton components acquire mass via spontaneous diffeomorphism breaking by scalar vacuum expectation values .
+we point out that in the massless limit the resulting theory is not einstein - hilbert gravity ( ehg ) but constrained gravity ( cg ) .
+consequently , massive solutions in the massless limit must be compared to those in cg ( as opposed to ehg ) .
+we discuss spherically symmetric solutions in this context .
+the schwarzschild solution in ehg can be coordinate - transformed such that it is also a solution in cg .
+the resulting solutions are non - perturbative in the asymptotic regime , and are reproduced in the massless limit of asymptotic massive solutions , hence no van dam - veltman - zakharov discontinuity .
+we point out that higher curvature terms must be included to obtain non - singular spherically symmetric massive solutions and discuss a suitable framework .
+grover 's database search algorithm is the optimal algorithm for finding a desired object from an unsorted collection of items .
+although it was discovered in the context of quantum computation , it is simple and versatile enough to be implemented using any physical system that allows superposition of states , and several proposals have been made in the literature .
+i study a mechanical realisation of the algorithm using coupled simple harmonic oscillators , and construct its physical model for the simplest case of four identical oscillators .
+the identification oracle is implemented as an elastic reflection of the desired oscillator , and the overrelaxation operation is realised as evolution of the system by half an oscillation period .
+i derive the equations of motion , and solve them both analytically and by computer simulation .
+i extend the ideal case analysis and explore the sensitivity of the algorithm to changes in the initial conditions , masses of springs and damping .
+the amplitude amplification provided by the algorithm enhances the energy of the desired oscillator , while running the algorithm backwards spreads out the energy of the perturbed oscillator among its partners .
+the former ( efficient focusing of energy into a specific oscillator ) can have interesting applications in processes that need crossing of an energy threshold for completion , and can be useful in nanotechnological devices and catalysis .
+the latter ( efficient redistribution of energy ) can be useful in processes requiring rapid dissipation of energy , such as shock - absorbers and vibrational shielding .
+i present some tentative proposals .
+high - energy photons are a powerful probe for astrophysics and for fundamental physics under extreme conditions .
+during the recent years , our knowledge of the most violent phenomena in the universe has impressively progressed thanks to the advent of new detectors for high - energy gamma - rays .
+observation of gamma - rays gives an exciting view of the high - energy universe thanks to satellite - based telescopes ( agile , glast ) and to ground - based detectors like the cherenkov telescopes ( h.e.s.s. and magic in particular ) , which recently discovered more than 60 new very - high - energy sources .
+the progress achieved with the last generation of cherenkov telescopes is comparable to the one drawn by egret with respect to the previous gamma - ray satellite detectors .
+this article reviews the present status of high - energy gamma astrophysics , with emphasis on the recent results and on the experimental developments .
+studying the geometry generated by gaussian and gaussian- related random fields via their excursion sets is now a well developed and well understood subject .
+the purely non - gaussian scenario has , however , not been studied at all .
+in this paper we look at three classes of stable random fields , and obtain asymptotic formulae for the mean values of various geometric characteristics of their excursion sets over high levels .
+while the formulae are asymptotic , they contain enough information to show that not only do stable random fields exhibit geometric behaviour very different from that of gaussian fields , but they also differ significantly among themselves .
+in the framework of a chiral constituent quark model , considering the contributions of annihilation and one - gluon annihilation , the proton - antiproton -wave elastic scattering cross section experimental data can be reproduced by adjusting properly one - gluon annihilation coupling constant .
+meanwhile , using the fixed model parameter , we do a dynamical calculation for all possible -wave nucleon - antinucleon states , the results show that , there is no -wave bound state as indicated by a strong enhancement at threshold of in and decays .
+the author reviews a model for the emission of high energy cosmic rays , gamma - rays and neutrinos from agn ( active galactic nuclei ) that he has proposed since 1985 .
+further discussion of the knee energy phenomenon of the cosmic ray energy spectrum requires the existence of a heavy particle with mass in the knee energy range .
+a possible method of detecting such a particle in the pierre auger project is suggested .
+also presented is a relation between the spectra of neutrinos and gamma - rays emitted from agn .
+this relation can be tested by high energy neutrino detectors such as icecube , the mediterranean sea detector and possibly by the pierre auger project .
+we present the results of our photometric and spectroscopic observations of nova sco 2007 n.1 ( v1280 sco ) .
+the photometric data was represented by a single data point in the light curve since the observation was carried out only for one night .
+the spectra cover two different phases of the object 's evolution during the outburst , i.e. pre - maximum and post - maximum .
+measurements of the p - cygni profile on na i ' d ' line ( 5889 \aa ) was derived as the velocity of shell expansion , yielding km s.
+we conclude that v1280 sco is a fast fe ii - type nova .
+the influence of a stationary shear flow on the crystallization in a glassy system is studied by means of molecular dynamics simulations and subsequent cluster analysis .
+the results reveal two opposite effects of the shear flow on the processes of topological ordering in the system .
+shear promotes the formation of separated crystallites and suppresses the appearance of the large clusters .
+the shear - induced ordering proceeds in two stages , where the first stage is related mainly with the growth of crystallites , whereas the second stage is due to an adjustment of the created clusters and a progressive alignment of their lattice directions .
+the influence of strain and shear rate on the crystallization is also investigated .
+in particular , we find two plausible phenomenological relations between the shear rate and the characteristic time scale needed for ordering of the amorphous system under shear .
+we present a theoretical calibration of the rr lyrae period - luminosity - color and period - color - color relations in the multiband uvby stroemgren photometric system .
+our theoretical work is based on calculations of synthetic horizontal branches ( hbs ) for four different metallicities , fully taking into account evolutionary effects for a wide range in metallicities and hb morphologies .
+while our results show that " pure " period - luminosity and period - color relations do not exist in the stroemgren system , which is due to the large scatter that is brought about by evolutionary effects when the uvby bandpasses are used , they also reveal that such scatter can be almost completely taken into account by incorporating stroemgren pseudo - color [ c_0 = ( u - v)_0 - ( v - b)_0 ] terms into those equations , thus leading to tight period - luminosity-{\em pseudo}-color ( plpsc ) and period - color-{\em pseudo}-color ( pcpsc ) relations .
+we provide the latter in the form of analytical fits , so that they can be applied with high precision even in the case of field stars .
+in view of the very small sensitivity of c_0 to interstellar reddening , our plpsc and pcpsc relations should be especially useful for the derivation of high - precision distance and reddening values .
+in this sense , we carry out a first application of our relations to field rr lyrae stars , finding evidence that the stars rr lyr , su dra , and ss leo -- but not sv hya -- are somewhat overluminous ( by amounts ranging from ~0.05 to 0.20 mag in y , and thus v ) with respect to the average for other rr lyrae stars of similar metallicity .
+we provide an overview of the robotic super - lotis ( livermore optical transient imaging system ) telescope and present results from gamma - ray burst ( grb ) afterglow observations using super - lotis and other steward observatory telescopes .
+the 0.6 - m super - lotis telescope is a fully robotic system dedicated to the measurement of prompt and early time optical emission from grbs .
+the system began routine operations from its steward observatory site atop kitt peak in april 2000 and currently operates every clear night .
+the telescope is instrumented with an optical ccd camera and a four position filter wheel .
+it is capable of observing swift burst alert telescope ( bat ) error boxes as early or earlier than the swift uv / optical telescope ( uvot ) .
+super - lotis complements the uvot observations by providing early r- and i - band imaging .
+we also use the suite of steward observatory telescopes including the 1.6 - m kuiper , the 2.3 - m bok , the 6.5 - m mmt , and the 8.4 - m large binocular telescope to perform follow - up optical and near infrared observations of grb afterglows .
+these follow - up observations have traditionally required human intervention but we are currently working to automate the 1.6 - m kuiper telescope to minimize its response time .
+de sitter spacetime and bunch - davies vacuum are a solution to the semiclassical einstein - schroedinger equations describing the evolution of spacetime geometry and a massive scalar quantum field with arbitrary coupling to curvature .
+the stability of this solution is proven by calculating the renormalized energy momentum tensor expectation value for small spatially homogeneous deviations from the de sitter - bunch - davies system and solving the linearized backreaction problem .
+a renormalization scheme is developed .
+all momentum integrations are carried out analytically .
+the general solution is given in terms of its laplace transform .
+it contains only two artificial instabilities : a constant gauge mode and an instability on the planck time scale lying outside of the scope of our semiclassical theory .
+we study an extension of the mssm by an anomalous abelian vector multiplet and a st\"uckelberg multiplet .
+the anomalies are cancelled by the green - schwarz mechanism and the addition of chern - simons terms .
+the advantage of this choice over the standard one is that it allows for arbitrary values of the quantum numbers of the extra u(1 ) .
+as a first step towards the study of hadron annihilations producing four leptons in the final state ( a clean signal which might be studied at lhc ) we then compute the decays
+and .
+we find that the largest values of the decay rate is gev , while the expected number of events per year at lhc is at most of the order of 10 .
+the study of associativity of the commutator operation in groups goes back to some work of levi in 1942 .
+in the 1960 's richard j. thompson created a group f whose elements are representatives of the generalized associative law for an arbitrary binary operation .
+in 2006 , geoghegan and guzman proved that a group g is solvable if and only if the commutator operation in g eventually satisfies all instances of the associative law , and also showed that many non - solvable groups do not satisfy any instance of the generalized associative law .
+we will address the question : is there a non - solvable group which satisfies some instance of the generalized associative law ?
+for finite groups , we prove that the answer is no .
+dirichlet proves the general convergence of fourier series , after pointing out errors in an earlier attempt by cauchy .
+we transcribed from crelle 's journal ( 1829 ) with numerous typographical corrections , and added a completed bibliography .
+dirichlet prouve la convergence g\'en\'erale de la s\'eries de fourier , apr\`es avoir montr\'e des erreurs dans un essai par cauchy .
+nous avons transcrit de crelle 's journal ( 1829 ) avec de nombreuses corrections typographiques , et avons ajout\'e une bibliographie compl\`ete .
+the extended de finetti theorem characterizes exchangeable infinite random sequences as conditionally i.i.d .
+and shows that the apparently weaker distributional symmetry of spreadability is equivalent to exchangeability .
+our main result is a noncommutative version of this theorem .
+in contrast to the classical result of ryll - nadzewski , exchangeability turns out to be stronger than spreadability for infinite noncommutative random sequences .
+out of our investigations emerges noncommutative conditional independence in terms of a von neumann algebraic structure closely related to popa 's notion of commuting squares and k\"ummerer 's generalized bernoulli shifts .
+our main result is applicable to classical probability , quantum probability , in particular free probability , braid group representations and jones subfactors .
+the structure of the divergences for transverse theories of gravity is studied to one - loop order .
+these theories are invariant only under those diffeomorphisms that enjoy unit jacobian determinant ( tdiff ) , so that the determinant of the metric transforms as a true scalar instead of a density .
+generically , the models include an additional scalar degree of freedom contained in the metric besides the usual spin two component .
+when the cosmological constant is fine tuned to zero , there are only two theories which are on shell finite , namely the one in which the symmetry is enhanced to the full group of diffeomorphisms , i.e. einstein 's gravity , and another one denoted by wtdiff which enjoys local weyl invariance .
+both of them are free from the additional scalar .
+we first investigate the geometry of orbits of the isotropy action on a semi - simple pseudo - riemannian symmetric space by investigating the complexified action .
+next we investigate the geometry of the orbits of hermann type actions on the symmetric spaces .
+by considering two special hermann type actions on the symmetric space , we recognize an interesting structure of the symmetric space .
+long duration gamma ray bursts ( grbs ) and x - ray flashes ( xrfs ) are produced by highly- relativistic jets ejected in core - collapse supernova explosions .
+the origin of short hard gamma - ray bursts ( shbs ) has not been established .
+they may be produced by highly relativistic jets ejected in various processes : mergers of compact stellar objects ; large - mass accretion episodes onto compact stars in close binaries or onto intermediate - mass black holes in dense stellar regions ; phase transition of compact stars .
+natural environments of such events are the dense cores of globular clusters , superstar clusters and young supernova remnants .
+we have used the cannonball model of grbs to analyze all swift shbs with a well - sampled x - ray afterglow .
+we show that their prompt gamma - ray emission can be explained by inverse compton scattering ( ics ) of the progenitor 's glory light , and their extended soft emission component by ics of high density light or synchrotron radiation ( sr ) in a high density interstellar medium within the cluster .
+the mechanism generating the afterglow is synchrotron radiation outside the cluster .
+no associated supernova could be detected in the low luminosity nearby grbs 060614 and 060505 .
+we interpret them as shbs seen relatively far off axis .
+first principles electronic structure calculations have been carried out on ordered double perovskites sr_2b'b"o_6 ( for b ' = cr or fe and b " 4d and 5d transition metal elements ) with increasing number of valence electrons at the b - sites , and on ba_2mnreo_6 as well as ba_2femoo_6 .
+the curie temperatures are estimated ab initio from the electronic structures obtained with the local spin - density functional approximation , full - potential generalized gradient approximation and/or the lda+u method ( u - hubbard parameter ) .
+frozen spin - spirals are used to model the excited states needed to evaluate the spherical approximation for the curie temperatures .
+in cases , where the induced moments on the oxygen was found to be large , the determination of the curie temperature is improved by additional exchange functions between the oxygen atoms and between oxygen and b ' and b " atoms .
+a pronounced systematics can be found among the experimental and/or calculated curie temperatures and the total valence electrons of the transition metal elements .
+the thesis divides into three parts .
+the first is devoted to a careful study of very convenient superspace conventions which are a basic tool for the second part .
+a theorem is formulated that gives a clear statement about when the signs of a superspace calculation can be omitted .
+the second part describes the type ii superstring using berkovits ' pure spinor formalism .
+the derivation of the supergravity constraints from classical brst invariance of berkovits and howe is carefully reviewed and new aspects are added .
+the present derivation uses a covariant variation principle and stays throughout in the lagrangian formalism .
+a new result is the explicit form of the brst transformation of the worldsheet fields for type ii .
+by further deriving the form of the local supersymmetry transformations of the fermionic fields , a connection is established to the starting point of those supergravity calculations , which derive generalized calabi yau conditions from effective four - dimensional supersymmetry .
+generalized complex geometry is in turn the motivation for the last part , which is based on the author 's paper on derived brackets from sigma models and the relation to integrability of generalized complex structures .
+finally there are detailed appendices on geometric brackets , generalized complex geometry , noether 's theorem , bianchi identities , supergauge transformations and the wz gauge , gamma - matrices and on some aspects of structure group connections .
+we calculate very long low- and high - temperature series for the susceptibility of the square lattice ising model as well as very long series for the five - particle contribution and six - particle contribution .
+these calculations have been made possible by the use of highly optimized polynomial time modular algorithms and a total of more than 150000 cpu hours on computer clusters .
+for 10000 terms of the series are calculated { \it modulo } a single prime , and have been used to find the linear ode satisfied by { \it modulo } a prime .
+a diff - pad\'e analysis of 2000 terms series for and confirms to a very high degree of confidence previous conjectures about the location and strength of the singularities of the -particle components of the susceptibility , up to a small set of ` ` additional '' singularities .
+we find the presence of singularities at for the linear ode of , and for the ode of , which are { \it not } singularities of the ` ` physical '' and that is to say the series - solutions of the ode 's which are analytic at .
+furthermore , analysis of the long series for ( and ) combined with the corresponding long series for the full susceptibility yields previously conjectured singularities in some , .
+we also present a mechanism of resummation of the logarithmic singularities of the leading to the known power - law critical behaviour occurring in the full , and perform a power spectrum analysis giving strong arguments in favor of the existence of a natural boundary for the full susceptibility .
+in this work we discuss the simplicial program for topological field theories for the case of non - abelian bf theory .
+discrete bf theory with finite - dimensional space of fields is constructed for a triangulated manifold ( or for a manifold equipped with cubical cell decomposition ) , that is in a sense equivalent to the topological bf theory on manifold .
+this discrete version allows one to calculate interesting quantities from the bf theory , like the effective action on cohomology , in terms of finite - dimensional integrals instead of functional integrals , as demonstrated in a series of explicit examples .
+we also discuss the interpretation of discrete bf action as the generating function for structure ( certain " one - loop version " of ordinary algebra ) on the cell cochains of triangulation , related to the de rham algebra of the underlying manifold by homotopy transfer procedure .
+this work is a refinement of older text hep - th/0610326 .
+we discuss various aspects of multi - instanton configurations in generic multi - cut matrix models .
+explicit formulae are presented in the two - cut case and , in particular , we obtain general formulae for multi - instanton amplitudes in the one - cut matrix model case as a degeneration of the two - cut case .
+these formulae show that the instanton gas is ultra - dilute , due to the repulsion among the matrix model eigenvalues .
+we exemplify and test our general results in the cubic matrix model , where multi - instanton amplitudes can be also computed with orthogonal polynomials .
+as an application , we derive general expressions for multi - instanton contributions in two - dimensional quantum gravity , verifying them by computing the instanton corrections to the string equation .
+the resulting amplitudes can be interpreted as regularized partition functions for multiple zz - branes , which take into full account their back - reaction on the target geometry .
+finally , we also derive structural properties of the trans - series solution to the painleve i equation .
+simulations of stochastically forced shear - flow turbulence in a shearing - periodic domain are used to study the spontaneous generation of large - scale flow patterns in the direction perpendicular to the plane of the shear .
+based on an analysis of the resulting large - scale velocity correlations it is argued that the mechanism behind this phenomenon could be the mean - vorticity dynamo effect pioneered by elperin , kleeorin , and rogachevskii in 2003 ( phys .
+rev. e 68 , 016311 ) .
+this effect is based on the anisotropy of the eddy viscosity tensor .
+one of its components may be able to replenish cross - stream mean flows by acting upon the streamwise component of the mean flow .
+shear , in turn , closes the loop by acting upon the cross - stream mean flow to produce stronger streamwise mean flows .
+the diagonal component of the eddy viscosity is found to be of the order of the rms turbulent velocity divided by the wavenumber of the energy - carrying eddies .
+for an arbitrary integer n that is at least 2 , this paper gives a construction of a strictly stationary , n - tuplewise independent sequence of ( non - degenerate ) bounded random variables such that the central limit theorem fails to hold .
+the sequence is in part an adaptation of a non - stationary example with similar properties constructed by one of the authors ( arp ) in a paper published in 1998 .
+the aim of this note is to discuss resolution theorems that are useful in the study of semi log canonical varieties .
+we study an instability of thin liquid - vapor layers bounded by rigid parallel walls from both below and above .
+in this system , the interfacial instability is induced by lateral vapor pressure fluctuation , which is in turn attributed to the effect of phase change : evaporation occurs at a hotter portion of the interface and condensation at a colder one .
+the high vapor pressure pushes the interface downward and the low one pulls it upward .
+a set of equations describing the temporal evolution of the interface of the liquid - vapor layers is derived .
+this model neglects the effect of mass loss or gain at the interface and guarantees the mass conservation of the liquid layer .
+the result of linear stability analysis of the model shows that the presence of the pressure dependence of the local saturation temperature mitigates the growth of long - wave disturbances .
+the thinner vapor layer enhances the vapor pressure effect .
+we find the stability criterion , which suggests that only slight temperature gradients are sufficient to overcome the gravitational effect for a water / vapor system .
+the same holds for the rayleigh - taylor unstable case , with a possibility that the vapor pressure effect may be weakened if the accommodation coefficient is below a certain critical value .
+( abridged ) we measure the fraction of galaxies undergoing disk - disk major mergers ( f_m ) at intermediate redshifts ( 0.35 < = z < 0.85 ) by studying the asymmetry index a of galaxy images .
+results are provided for b- and ks - band absolute magnitude selected samples from the groth strip in the goya photometric survey .
+three sources of systematic error are carefully addressed : ( i ) we avoid morphological k - corrections , ( ii ) we measure asymmetries in artificially redshifted to z_d
+= 0.75 galaxies to lead with loss of morphological information with redshift , and ( iii ) we take into account the observational errors in z and a , that tend to overestimate the merger fraction , by maximum likelihood techniques .
+we find : ( i ) our data allow for a robust merger fraction to be provided for a single redshift bin centered at z=0.6 .
+( ii ) merger fractions have low values : f_m
+= 0.045 for m_b < = -20 galaxies , and f_m
+= 0.031 for m_ks < = -23.5 galaxies .
+and , ( iii ) failure to address the effects of the observational errors leads to overestimating f_m by factors of 10%-60 % .
+combining our results with those on literature , and parameterizing the merger fraction evolution as f_m(z ) = f_m(0)(1+z)^m , we obtain that m = 2.9 + - 0.8 , and f_m(0 ) = 0.012 + - 0.004$. assuming a ks - band mass - to - light ratio not varying with luminosity , we infer that the merger rate of galaxies with stellar mass m > = 3.5x10 ^ 10 m_sun is r_m = 1.6x10 ^ -4 mpc^-3 gyr^-1 .
+when we compare with previous studies at similar redshifts , we find that the merger rate decreases when mass increases .
+we report a measurement of the cp - odd fraction and the time - dependent cp violation in b0 to d*+d*- decays , using 657.10 ^ 6 bbbar events collected at the upsilon(4s ) resonance with the belle detector at the kekb asymmetric - energy e+e- collider .
+we measure a cp - odd fraction of rperp=0.125+/-0.043(stat)+/-0.023(syst ) .
+from the distributions of the proper - time intervals between a b0to d*+d*- decay and the other b meson in the event , we obtain evidence of cp violation with measured parameters ad*+d*-=0.15+/-0.13(stat)+/-0.04(syst ) and sd*+d*-=-0.96+/-0.25(stat)-0.16 + 0.13(syst ) .
+we consider the three dimensional gravitational vlasov - poisson ( gvp ) system in both classical and relativistic cases .
+the classical problem is subcritical in the natural energy space and the stability of a large class of ground states has been derived by various authors .
+the relativistic problem is critical and displays finite time blow up solutions .
+using standard concentration compactness techniques , we however show that the breaking of the scaling symmetry allows the existence of stable relativistic ground states .
+a new feature in our analysis which applies both to the classical and relativistic problem is that the orbital stability of the ground states does not rely as usual on an argument of uniqueness of suitable minimizers --which is mostly unknown-- but on strong rigidity properties of the transport flow , and this extends the class of minimizers for which orbital stability is now proved .
+one of the most tantalizing questions in astronomy and astrophysics , namely the origin and the evolution of the cosmic accelerators that produce the highest energy cosmic rays ( uhecr ) , may be best addressed through the observation of ultra high energy ( uhe ) cosmogenic neutrinos .
+neutrinos travel from their source undeflected by magnetic fields and unimpeded by interactions with the cosmic microwave background .
+at high energies , neutrinos could be detected in dense , radio frequency ( rf ) transparent media via the askaryan effect .
+the abundant cold ice covering the geographic south pole , with its exceptional rf clarity , has been host to several pioneering efforts to develop this approach , including rice and anita .
+building on the expertise gained in these efforts , and the infrastructure developed in the construction of the icecube optical cherenkov observatory , a low - cost array of radio frequency antenna stations could be deployed near the pole to efficiently detect a significant number of uhe neutrinos with degree scale angular resolution within the next decade .
+such an array , if installed in close proximity to icecube , could allow cross - calibration on a small but invaluable subset of neutrino events detected by both the optical and radio methods .
+in addition to providing critical information in the identification of the source of uhecrs , such an observatory could also provide a unique probe of long baseline high energy neutrino interactions unattainable in any man - made neutrino beam .
+although coherent large - scale structures such as filaments and walls are apparent to the eye in galaxy redshift surveys , they have so far proven difficult to characterize with computer algorithms .
+this paper presents a procedure that uses the eigenvalues and eigenvectors of the hessian matrix of the galaxy density field to characterize the morphology of large - scale structure .
+by analysing the smoothed density field and its hessian matrix , we can determine the types of structure - walls , filaments , or clumps - that dominate the large - scale distribution of galaxies as a function of scale .
+we have run the algorithm on mock galaxy distributions in a lcdm cosmological n - body simulation and the observed galaxy distributions in the sloan digital sky survey .
+the morphology of structure is similar between the two catalogues , both being filament - dominated on 10 - 20 h^{-1 } mpc smoothing scales and clump - dominated on 5 h^{-1 } mpc scales .
+there is evidence for walls in both distributions , but walls are not the dominant structures on scales smaller than ~25 h^{-1 } mpc .
+analysis of the simulation suggests that , on a given comoving smoothing scale , structures evolve with time from walls to filaments to clumps , where those found on smaller smoothing scales are further in this progression at a given time .
+we study a two - lane model of two - species of particles that perform biased diffusion .
+extensive numerical simulations show that when bias q is strong enough oppositely drifting particles form some clusters that block each other .
+coarsening of such clusters is very slow and their size increases logarithmically in time .
+for smaller q particles collapse essentially on a single cluster whose size seems to diverge at a certain value of q = q_c .
+simulations show that despite slow coarsening , the model has rather large power - law cooling - rate effects .
+it makes its dynamics different from glassy systems , but similar to some three - dimensional ising - type models ( gonihedric models ) .
+we investigate the relationship between mass and spin of quark anti - quark bound state in non - commutative gauge theory with n=4 supersymmetry .
+in the large n and large ' t hooft coupling limit , these bound states correspond to rotating open strings ending on a d - brane embedded into the supergravity background dual of the non - commutative field theory .
+although the physical configuration of the open strings are drastically deformed by the non - commutativity , we find that the relation between the energy and the angular momentum of the bound state is unaffected by the non - commutativity parameter .
+we also clarify the holographic interpretation of quark anti - quark potential in non - commutative gauge theories .
+pks j2310 - 437 is an agn with bright x - ray emission relative to its weak radio emission and optical continuum .
+it is believed that its jet lies far enough from the line of sight that it is not highly relativistically beamed .
+it thus provides an extreme test of agn models .
+we present new observations aimed at refining the measurement of the source 's properties .
+in optical photometry with the ntt we measure a central excess with relatively steep spectrum lying above the bright elliptical galaxy emission , and we associate the excess wholly or in part with the agn .
+a new full - track radio observation with the atca finds that the core 8.64ghz emission has varied by about 20 per cent over 38 months , and improves the mapping of the weak jet .
+with chandra we measure a well - constrained power - law spectral index for the x - ray core , uncontaminated by extended emission from the cluster environment , with a negligible level of intrinsic absorption .
+weak x - ray emission from the resolved radio jet is also measured .
+our analysis suggests that the optical continuum in this radio galaxy has varied by at least a factor of four over a timescale of about two years , something that should be testable with further observations .
+we conclude that the most likely explanation for the bright central x - ray emission is synchrotron radiation from high - energy electrons .
+in the present work we characterized full operators and we showed some properties that have nonfull injectives operators .
+with the results developed for full operators , we affirmatively respond two questions formulated by bravo and feintuch on when the inverse of an operator can be weakly approximated by polynomials in the operator
+unparticle behavior is shown to be realized in the randall - sundrum 2 ( rs 2 ) and the lykken - randall ( lr ) brane scenarios when brane - localized standard model currents are coupled to a massive vector field living in the five - dimensional warped background of the rs 2 model .
+by the ads / cft dictionary these backgrounds exhibit certain properties of the unparticle cft at large n_c and strong ' t hooft coupling .
+within the rs 2 model we also examine and contrast in detail the scalar and vector position - space correlators at intermediate and large distances .
+unitarity of brane - to - brane scattering amplitudes is seen to imply a necessary and sufficient condition on the positivity of the bulk mass , which leads to the well - known unitarity bound on vector operators in a cft .
+we show that hausdorff dimension may be used to distinguish different dynamics of therelaxation in hierarchical systems .
+we examine the hierarchical systems following the temperature - dependent power - law decay and the kohlrausch law .
+for our purposes , we consider a l\'evy stochastic processes on p - adic integer numbers .
+in this talk notes we expose the possibility to induce the cosmological constant from extra dimensions , in a geometrical framework where our four - dimensional riemannian space - time is embedded into a five - dimensional weyl integrable space .
+in particular following the approach of the induced matter theory , we show that when go down from five to four dimensions , we may recover in the context of the general theory of relativity , the induced energy momentum tensor of the induced matter theory plus a cosmological constant term , that is determined by the presence of the weyl scalar field on the bulk .
+we introduce and study invariant ( weighted ) transport - kernels balancing stationary random measures on a locally compact abelian group .
+the first main result is an associated fundamental invariance property of palm measures , derived from a generalization of neveu 's exchange formula .
+the second main result is a simple sufficient and necessary criterion for the existence of balancing invariant transport - kernels .
+we then introduce ( in a nonstationary setting ) the concept of mass - stationarity with respect to a random measure , formalizing the intuitive idea that the origin is a typical location in the mass .
+the third main result of the paper is that a measure is a palm measure if and only if it is mass - stationary .
+we define a theory of gravity by constructing a gravitational holonomy operator in twistor space .
+the theory is a gauge theory whose chan - paton factor is given by a trace over elements of poincar\'{e } algebra and iwahori - hecke algebra .
+this corresponds to a fact that , in a spinor - momenta formalism , gravitational theories are invariant under spacetime translations and diffeomorphism .
+the former symmetry is embedded in tangent spaces of frame fields while the latter is realized by a braid trace .
+we make a detailed analysis on the gravitational chan - paton factor and show that an s - matrix functional for graviton amplitudes can be expressed in terms of a supersymmetric version of the holonomy operator .
+this formulation will shed a new light on studies of quantum gravity and cosmology in four dimensions .
+most theoretical investigations of particle acceleration during solar flares can not be applied to observations for detailed study of the time evolution .
+we propose a phenomenological model for turbulence evolution and stochastic particle acceleration that links observations to the energy release and particle acceleration through two coefficients characterizing particle interactions with turbulent electromagnetic fields .
+in the linear regime the particle distribution does not affect the turbulence energy cascade .
+it is shown that electron acceleration critically depends on the intensity of small - scale turbulence and an impulsive non - thermal component only appears near the peak of the gradually evolving turbulence intensity .
+the model naturally reproduces the soft - hard - soft pattern of hard x - ray pulses , and we attribute the observed change in flux and spectral index correlation from the rise to decay phase of some pulses to changes in the background plasma .
+detailed modeling of well - observed individual events will probe the energy release processes .
+traditionally , the single - band approximation for interacting many - body systems is done with pre - determined single - particle wannier functions , ignoring the dependence of the wannier function on interaction .
+we show that the single - band approximation has to be done self - consistently to properly account the interaction effect on the wannier functions .
+this self - consistent single - band approximation leads to a nonlinear equation for wannier functions , which can be recast into a set of nonlinear equations for bloch functions .
+these equations are simplified for two special cases , the superfluid regime and deep in the mott insulator regime .
+a simple example with double - well potential is used to illustrate our results .
+during embryonic development , differentiating cells respond via gene expression to positional cues from morphogen gradients .
+while gene expression is often highly erratic , embryonic development is precise .
+we show by theory and simulations that diffusion of the expressed protein can enhance the precision of its expression domain .
+while diffusion lessens the sharpness of the expression boundary , it also reduces super - poissonian noise by washing out bursts of gene expression .
+balancing these effects yields an optimal diffusion constant maximizing the precision of the expression domain .
+we present measurements of the anomalous wwgamma and wwz trilinear gauge couplings from a combination of four diboson production and decay channels using data collected by the d0 detector at the fermilab tevatron collider .
+these results represent the first high statistics combination of limits across different diboson production processes at the tevatron and use data corresponding to an integrated luminosity of approximately 1 fb^-1 .
+when respecting su(2)_l x u(1)_y symmetry , we measure central values and 68 % c.l. allowed intervals of kappa_gamma=1.07^+0.16_-0.20 , lambda = 0.00^+0.05_-0.04 and g_1^z=1.05 + /- 0.06 .
+we present the most stringent measurements to date for the w boson magnetic dipole and electromagnetic quadrupole moments of mu_w=2.02^+0.08_-0.09 ( e/2m_w ) and q_w=-1.00 + /- 0.09 ( e / m^2_w ) , respectively .
+active galactic nuclei present continuum and line emission .
+the former is produced by the accretion disk and the jets , whereas the latter is originated by gas located close to the super - massive black hole .
+the small region where the broad lines are emitted is called the broad - line region .
+the structure of this region is not well known , although it has been proposed that it may be formed by small and dense ionized clouds surrounding the supermassive black - hole .
+in this work , we study the interaction of one cloud from the broad line region with the jet of the active galactic nuclei .
+we explore the high - energy emission produced by this interaction close to the base of the jet .
+the resulting radiation may be detectable for nearby non - blazar sources as well as for powerful quasars , and its detection could give important information on the broad line region and the jet itself .
+context .
+the corot short runs give us the opportunity to observe a large variety of late - type stars through their solar - like oscillations .
+we report observations of the star hd175726 that lasted for 27 days during the first short run of the mission .
+the time series reveals a high - activity signal and the power spectrum presents an excess due to solar - like oscillations with a low signal - to - noise ratio .
+aims .
+our aim is to identify the most efficient tools to extract as much information as possible from the power density spectrum .
+methods .
+the most productive method appears to be the autocorrelation of the time series , calculated as the spectrum of the filtered spectrum .
+this method is efficient , very rapid computationally , and will be useful for the analysis of other targets , observed with corot or with forthcoming missions such as kepler and plato .
+results .
+the mean large separation has been measured to be 97.2 + -0.5 microhz , slightly below the expected value determined from solar scaling laws .
+we also show strong evidence for variation of the large separation with frequency .
+the bolometric mode amplitude is only 1.7 + -0.25 ppm for radial modes , which is 1.7 times less than expected .
+due to the low signal - to - noise ratio , mode identification is not possible for the available data set of hd175726 . conclusions .
+this study shows the possibility of extracting a seismic signal despite a signal - to - noise ratio of only 0.37 .
+the observation of such a target shows the efficiency of the corot data , and the potential benefit of longer observing runs .
+the intent of the h.264 avc project was to create a standard capable of providing good video quality at substantially lower bit rates than previous standards without increasing the complexity of design so much that it would be impractical or excessively expensive to implement .
+an additional goal was to provide enough flexibility to allow the standard to be applied to a wide variety of applications .
+to achieve better coding efficiency , h.264 avc uses several techniques such as inter mode and intra mode prediction with variable size motion compensation , which adopts rate distortion optimization ( rdo ) .
+this increases the computational complexity of the encoder especially for devices with lower processing capabilities such as mobile and other handheld devices .
+in this paper , we propose an algorithm to reduce the number of mode and sub mode evaluations in inter mode prediction .
+experimental results show that this fast intra mode selection algorithm can lessen about 75 percent encoding time with little loss of bit rate and visual quality .
+we study correlation functions of parafermionic currents and disorder fields in the z(n ) symmetric conformal field theory perturbed by the first thermal operator .
+following the ideas of al .
+zamolodchikov , we develop for the correlation functions the conformal perturbation theory at small scales and the form factors spectral decomposition at large ones .
+for all n there is an agreement between the data at the intermediate distances .
+we consider the problems arising in the description of the space of scaling fields in perturbed models , such as null vector relations , equations of motion and a consistent treatment of fields related by a resonance condition .
+we present a brief review of the non - abelian tensor gauge field theory and analyze its free field equations for lower rank gauge fields when the interaction coupling constant tends to zero .
+the free field equations are written in terms of the first order derivatives of extended field strength tensors similar to the electrodynamics and non - abelian gauge theories .
+we determine the particle content of the free field equations and count the propagating modes which they describe .
+in four - dimensional space - time the rank-2 gauge field describes propagating modes of helicity two and zero .
+we show that the rank-3 gauge field describes propagating modes of helicity - three and a doublet of helicity - one gauge bosons .
+only four - dimensional space - time is physically acceptable , because in five- and higher - dimensional space - time the equation has solutions with negative norm states .
+we discuss the structure of the particle spectrum for higher rank gauge fields .
+( abridged ) we have performed a comprehensive multiwavelength analysis of a sample of 20 starburst galaxies that show the presence of a substantial population of very young massive stars .
+in this paper , the second of the series , we present the results of the analysis of long - slit intermediate - resolution spectroscopy of star - formation bursts for 16 galaxies of our sample .
+we study the spatial localization of the wr stars in each galaxy .
+we analyze the excitation mechanism and derive the reddening coefficient , physical conditions and chemical abundances of the ionized gas .
+we study the kinematics of the ionized gas to check the rotation / turbulence pattern of each system .
+when possible , tentative estimates of the keplerian mass of the galaxies have been calculated .
+our analysis has revealed that a substantial fraction of the galaxies show evidences of perturbed kinematics .
+with respect to the results found in individual galaxies , we remark the detection of objects with different metallicity and decoupled kinematics in haro 15 and mkn 1199 , the finding of evidences of tidal streams in iras 08208 + 2816 , tol 9 and perhaps in sbs 1319 + 579 , and the development of a merging process in sbs 0926 + 606 a and in tol 1457 - 262 .
+all these results reinforce the hypothesis that interactions with or between dwarf objects is a very important mechanism in the triggering of massive star formation in starburst galaxies , specially in dwarf ones .
+it must be highlighted that only deep and very detailed observationscan provide clear evidences that these subtle interaction processes are taking place .
+we construct a new family of simply connected minimal complex surfaces with , , and using a -gorenstein smoothing theory .
+we have performed low temperature scanning tunneling spectroscopy measurements on exfoliated bilayer graphene on sio2 .
+by varying the back gate voltage we observed a linear shift of the dirac point and an opening of a band gap due to the perpendicular electric field .
+in addition to observing a shift in the dirac point , we also measured its spatial dependence using spatially resolved scanning tunneling spectroscopy .
+the spatial variation of the dirac point was not correlated with topographic features and therefore we attribute its shift to random charged impurities .
+this paper is devoted to the study of algebraic structures leading to link homology theories .
+the originally used structures of frobenius algebra and/or tqft are modified in two directions .
+first , we refine 2 - dimensional cobordisms by taking into account their embedding into the three space .
+secondly , we extend the underlying cobordism category to a 2 - category , where the usual relations hold up to 2 - isomorphisms .
+the corresponding abelian 2 - functor is called an extended quantum field theory ( eqft ) .
+we show that the khovanov homology , the nested khovanov homology , extracted by stroppel and webster from seidel - smith construction , and the odd khovanov homology fit into this setting .
+moreover , we prove that any eqft based on a z_2 - extension of the embedded cobordism category which coincides with khovanov after reducing the coefficients modulo 2 , gives rise to a link invariant homology theory isomorphic to those of khovanov .
+in this paper , a linear system of equations with crisp coefficients and fuzzy right - hand sides is investigated .
+all possible cases pertaining to the number of variables , n , and the number of equations , m , are dealt with .
+a solution is sought not as a fuzzy vector , as usual , but as a fuzzy set of vectors .
+each vector in the solution set solves the given fuzzy linear system with a certain possibility .
+assuming that the coefficient matrix is a full rank matrix , three cases are considered : for m = n ( square system ) , the solution set is shown to be a parallelepiped in coordinate space and is expressed by an explicit formula .
+for m > n ( overdetermined system ) , the solution set is proved to be a convex polyhedron and a novel geometric method is proposed to compute it .
+for m < n ( underdetermined system ) , by determining the contribution of free variables , general solution is computed .
+from the results of three cases mentioned above , a method is proposed to handle the general case , in which the coefficient matrix is not necessarily a full rank matrix .
+comprehensive examples are provided and investigated in depth to illustrate each case and suggested method .
+we compute the reduced cosmic shear up to second order in the gravitational potential without relying on the small angle or thin - lens approximation .
+this is obtained by solving the sachs equation which describes the deformation of the infinitesimal cross - section of light bundle in the optical limit , and maps galaxy intrinsic shapes into their angular images .
+the calculation is done in the poisson gauge without a specific matter content , including vector and tensor perturbations generated at second order and taking account of the inhomogeneities of a fixed redshift source plane .
+our final result is expressed in terms of spin-2 operators on the sphere and is valid on the full sky .
+beside the well known lens - lens and born corrections that dominate on small angular scales , we find new non - linear couplings .
+these are a purely general relativistic intrinsic contribution , a coupling between the gravitational potential at the source with the lens , couplings between the time delay with the lens , couplings between two photon deflections , as well as non - linear couplings due to the second - order vector and tensor components .
+the inhomogeneity in the redshift of the source induces a coupling between the photon redshift with the lens .
+all these corrections become important on large angular scales and should thus be included when computing higher - order observables such as the bispectrum , in full or partially full - sky surveys .
+we investigate the binding surface along the bain path and phonon dispersion relations for the cubic phase of the ferromagnetic binary alloys fe3x ( x = ni , pd , pt ) for l12 and do22 ordered phases from first principles by means of density functional theory .
+the phonon dispersion relations exhibit a softening of the transverse acoustic mode at the m - point in the l12 - phase in accordance with experiments for ordered fe3pt .
+this instability can be associated with a rotational movement of the fe - atoms around the ni - group element in the neighboring layers and is accompanied by an extensive reconstruction of the fermi surface .
+in addition , we find an incomplete softening in [ 111 ] direction which is strongest for fe3 ni .
+we conclude that besides the valence electron density also the specific fe - content and the masses of the alloying partners should be considered as parameters for the design of fe - based functional magnetic materials .
+we propose a new solution to the origin of dark energy .
+we suggest that it was created dynamically from the condensate of a singlet neutrino at a late epoch of the early universe through its effective self interaction .
+this singlet neutrino is also the dirac partner of one of the three observed neutrinos , hence dark energy is related to neutrino mass .
+the onset of this condensate formation in the early universe is also related to matter density and offers an explanation of the coincidence problem of why dark energy ( 70 % ) and total matter ( 30 % ) are comparable at the present time .
+we demonstrate this idea in a model of neutrino mass with ( right - handed ) singlet neutrinos and a singlet scalar .
+real - time heuristic search algorithms are suitable for situated agents that need to make their decisions in constant time .
+since the original work by korf nearly two decades ago , numerous extensions have been suggested .
+one of the most intriguing extensions is the idea of backtracking wherein the agent decides to return to a previously visited state as opposed to moving forward greedily .
+this idea has been empirically shown to have a significant impact on various performance measures .
+the studies have been carried out in particular empirical testbeds with specific real - time search algorithms that use backtracking .
+consequently , the extent to which the trends observed are characteristic of backtracking in general is unclear .
+in this paper , we present the first entirely theoretical study of backtracking in real - time heuristic search .
+in particular , we present upper bounds on the solution cost exponential and linear in a parameter regulating the amount of backtracking .
+the results hold for a wide class of real - time heuristic search algorithms that includes many existing algorithms as a small subclass .
+massive and massless vector particles , in the framework of generalized weinberg - tucker - hammer equations , are considered in the petiau - duffin - kemmer formalism .
+we obtain solutions of equations in the form of matrix - dyads .
+the lagrangian is defined in the matrix form and the conserved electric current and the energy - momentum tensor are obtained .
+the canonical quantization is performed and the propagator of massive fields is found in the formalism considered .
+we study the diffusion front for a natural two - dimensional model where many particles starting at the origin diffuse independently .
+it turns out that this model can be described using properties of near - critical percolation , and provides a natural example where critical fractal geometries spontaneously arise .
+the origin of the solar wind is one of the most important unresolved prob- lems in space and solar physics .
+we report here the first spectroscopic signatures of the nascent fast solar wind on the basis of observations made by the euv imaging spectrometer ( eis ) on hinode in a polar coronal hole , in which patches of blueshift are clearly present on dopplergrams of coronal emission lines with a formation temperature of lg(t / k)=6.0 .
+the corresponding upflow is associated with open field lines in the coronal hole , and seems to start in the solar transition region and becomes more prominent with increasing temperature .
+this temperature - dependent plasma outflow is interpreted as evidence of the nascent fast solar wind in the polar coronal hole .
+the patches with significant upflows are still isolated in the upper transition region but merge in the corona , in agreement with the scenario of solar wind outflow being guided by expanding magnetic funnels .
+spectral properties of coupled cavity arrays in one dimension are investigated by means of the variational cluster approach .
+coupled cavity arrays consist of two distinct " particles , " namely , photons and atomiclike excitations .
+spectral functions are evaluated and discussed for both particle types .
+in addition , densities of states , momentum distributions and spatial correlation functions are presented .
+based on this information , polariton " quasiparticles " are introduced as appropriate , wave vector and filling dependent linear combinations of photon and atomiclike particles .
+spectral functions and densities of states are evaluated for the polariton quasiparticles , and the weights of their components are analyzed .
+we analyze the asymptotic behaviour of the heat kernel defined by a stochastically perturbed geodesic flow on the cotangent bundle of a riemannian manifold for small time and small diffusion parameter .
+this extends wkb - type methods to a particular case of a degenerate hamiltonian .
+we derive uniform bounds for the solution of the degenerate hamiltonian boundary value problem for small time .
+from this equivalence of solutions of the hamiltonian equations and the corresponding hamilton jacobi equation follows .
+the results are exploited to derive two sided estimates and multiplicative asymptotics for the heat kernel and the trace .
+recently , traversable wormhole geometries were constructed in the context of f(r ) gravity .
+the latter is equivalent to a brans - dicke theory with a coupling parameter w=0 , which is apparently excluded from the narrow interval , -3/2 < w<-4/3 , extensively considered in the literature of static wormhole solutions in vacuum brans - dicke theory .
+however , this latter interval is only valid for a specific choice of an integration constant of the field equations derived on the basis of a post - newtonian weak field approximation , and there is no reason for it to hold in the presence of compact objects with strong gravitational fields .
+in this context , we construct a general class of vacuum brans - dicke wormholes that include the value of w=0 .
+furthermore , we present the general condition for the existence of vacuum brans - dicke wormhole geometries , and show that the presence of effective negative energy densities is a generic feature of these vacuum solutions .
+the spatially resolved broad - band spectroscopy with very long baseline interferometry ( vlbi ) is one of the few methods that can probe the physical conditions inside blazar jets .
+we report on measurements of the magnetic field strength in parsec - scale radio structures of selected bright fermi blazars , based on fitting the synchrotron spectrum to vlba images made at seven frequencies in a 4.6 -- 43.2 ghz range .
+upper limits of b < = 10 ^ -2 -- 10 ^ 2 g ( observer 's frame ) could be placed on the magnetic field strength in 13 sources .
+hard radio spectra ( -0.5 < = a < = +0.1 , s_nu ~ nu^a ) observed above the synchrotron peak may either be an indication of a hard energy spectrum of the emitting electron population or result from a significant inhomogeneity of the emitting region .
+we propose a theory of adiabaticity in quantum markovian dynamics based on a decomposition of the hilbert space induced by the asymptotic behavior of the lindblad semigroup .
+a central idea of our approach is that the natural generalization of the concept of eigenspace of the hamiltonian in the case of markovian dynamics is a noiseless subsystem with a minimal noisy cofactor .
+unlike previous attempts to define adiabaticity for open systems , our approach deals exclusively with physical entities and provides a simple , intuitive picture at the underlying hilbert - space level , linking the notion of adiabaticity to the theory of noiseless subsystems .
+as an application of our theory , we propose a framework for decoherence - assisted computation in noiseless codes under general markovian noise .
+we also formulate a dissipation - driven approach to holonomic computation based on adiabatic dragging of subsystems that is generally not achievable by non - dissipative means .
+let t be takagi 's continuous but nowhere - differentiable function .
+using a representation in terms of rademacher series due to n. kono , we give a complete characterization of those points where t has a left - sided , right - sided , or two - sided infinite derivative .
+this characterization is illustrated by several examples .
+a consequence of the main result is that the sets of points where t'(x ) is infinite have hausdorff dimension one .
+as a byproduct of the method of proof , some exact results concerning the modulus of continuity of t are also obtained .
+we fit every emission line in the high - resolution chandra grating spectrum of zeta pup with an empirical line profile model that accounts for the effects of doppler broadening and attenuation by the bulk wind .
+for each of sixteen lines or line complexes that can be reliably measured , we determine a best - fitting fiducial optical depth , tau _ * = kappa*mdot/4{pi}r_{\ast}v_{\infty } , and place confidence limits on this parameter .
+these sixteen lines include seven that have not previously been reported on in the literature .
+the extended wavelength range of these lines allows us to infer , for the first time , a clear increase in tau _ * with line wavelength , as expected from the wavelength increase of bound - free absorption opacity .
+the small overall values of tau _ * , reflected in the rather modest asymmetry in the line profiles , can moreover all be fit simultaneously by simply assuming a moderate mass - loss rate of 3.5 \pm 0.3 \times 10^{-6 } msun / yr , without any need to invoke porosity effects in the wind .
+the quoted uncertainty is statistical , but the largest source of uncertainty in the derived mass - loss rate is due to the uncertainty in the elemental abundances of zeta pup , which affects the continuum opacity of the wind , and which we estimate to be a factor of two .
+even so , the mass - loss rate we find is significantly below the most recent smooth - wind h - alpha mass - loss rate determinations for zeta pup , but is in line with newer determinations that account for small - scale wind clumping .
+if zeta pup is representative of other massive stars , these results will have important implications for stellar and galactic evolution .
+the no - hair theorem , which postulates that all black holes can be completely characterized by only three externally observable parameters : mass , electric charge , and angular momentum , sets constraints on both the maximal angular momentum and maximal electric charge .
+in this work , we would explore the consequence of these for the formation of primordial black holes in the early universe and also the formation of black holes due to collapse of dark matter configurations and how this could be used to probe the conditions in the very early universe and constrain the epoch when baryon asymmetry was established .
+an o - operator is a relative version of a rota - baxter operator and , in the lie algebra context , is originated from the operator form of the classical yang - baxter equation .
+we generalize the well - known construction of dendriform dialgebras and trialgebras from rota - baxter algebras to a construction from o - operators .
+we then show that this construction from o - operators gives all dendriform dialgebras and trialgebras .
+furthermore there are bijections between certain equivalence classes of invertible o - operators and certain equivalence classes of dendriform dialgebras and trialgebras .
+let a , b , s be categories , let f : a-->s and g : b-->s be functors .
+we assume that for " many " objects a in a , there exists an object b in b such that f(a ) is isomorphic to g(b ) .
+we establish a general framework under which it is possible to transfer this statement to diagrams of a.
+these diagrams are all indexed by posets in which every principal ideal is a join - semilattice and the set of all upper bounds of any finite subset is a finitely generated upper subset .
+various consequences follow , in particular : ( 1 ) the gr\"atzer - schmidt theorem , which states that every algebraic lattice is isomorphic to the congruence lattice of some algebra , can be extended to finite poset - indexed diagrams of algebraic lattices and compactness - preserving complete join - homomorphisms ( and no finiteness restriction if there are large enough cardinals ) .
+( 2 ) in a host of situations , the relative critical point between two locally finite quasivarieties is either less than aleph omega or equal to infinity .
+( 3 ) a lattice of cardinality aleph 1 may not have any congruence - permutable , congruence - preserving extension .
+we investigate the singular limit , as , of the fisher equation in the whole space .
+we consider initial data with compact support plus perturbations with { \it slow exponential decay } .
+we prove that the sharp interface limit moves by a constant speed , which dramatically depends on the tails of the initial data .
+by performing a fine analysis of both the generation and motion of interface , we provide a new estimate of the thickness of the transition layers .
+context .
+the solar irradiance is known to change on time scales of minutes to decades , and it is suspected that its substantial fluctua- tions are partially responsible for climate variations .
+aims .
+we are developing a solar atmosphere code that allows the physical modeling of the entire solar spectrum composed of quiet sun and active regions .
+this code is a tool for modeling the variability of the solar irradiance and understanding its influence on earth .
+methods .
+we exploit further development of the radiative transfer code cosi that now incorporates the calculation of molecular lines .
+we validated cosi under the conditions of local thermodynamic equilibrium ( lte ) against the synthetic spectra calculated with the atlas code .
+the synthetic solar spectra were also calculated in non - local thermodynamic equilibrium ( nlte ) and compared to the available measured spectra .
+in doing so we have defined the main problems of the modeling , e.g. , the lack of opacity in the uv part of the spectrum and the inconsistency in the calculations of the visible continuum level , and we describe a solution to these problems .
+results .
+the improved version of cosi allows us to reach good agreement between the calculated and observed solar spectra as measured by solstice and sim onboard the sorce satellite and atlas 3 mission operated from the space shuttle .
+we find that nlte effects are very important for the modeling of the solar spectrum even in the visual part of the spectrum and for its variability over the entire solar spectrum .
+in addition to the strong effect on the uv part of the spectrum , nlte effects influence the concentration of the negative ion of hydrogen , which results in a significant change of the visible continuum level and the irradiance variability .
+although they are but a small fraction of the mass ejected in core - collapse supernovae , neutrino - driven winds ( ndws ) from nascent proto - neutron stars ( pnss ) have the potential to contribute significantly to supernova nucleosynthesis .
+in previous works , the ndw has been implicated as a possible source of r - process and light p - process isotopes .
+in this paper we present time - dependent hydrodynamic calculations of nucleosynthesis in the ndw which include accurate weak interaction physics coupled to a full nuclear reaction network .
+using two published models of pns neutrino luminosities , we predict the contribution of the ndw to the integrated nucleosynthetic yield of the entire supernova .
+for the neutrino luminosity histories considered , no true r - process occurs in the most basic scenario .
+the wind driven from an older model for a pns is moderately neutron - rich at late times however , and produces rb , sr , y , and zr in near solar proportions relative to oxygen .
+the wind from a more recently studied pns is proton - rich throughout its entire evolution and does not contribute significantly to the abundance of any element .
+it thus seems very unlikely that the simplest model of the ndw can produce the r - process .
+at most , it contributes to the production of the n = 50 closed shell elements and some light p - nuclei .
+in doing so , it may have left a distinctive signature on the abundances in metal poor stars , but the results are sensitive to both uncertain models for the explosion and the masses of the neutron stars involved .
+we revisit flavour effects in soft leptogenesis relaxing the assumption of universality for the soft supersymmetry breaking terms .
+we find that with respect to the case in which the heavy sneutrinos decay with equal rates and equal cp asymmetries for all lepton flavours , hierarchical flavour configurations can enhance the efficiency by more than two orders of magnitude .
+this translates in more than three order of magnitude with respect to the one - flavour approximation .
+we verify that lepton flavour equilibration effects related to off - diagonal soft slepton masses are ineffective for damping these large enhancements .
+we show that soft leptogenesis can be successful for unusual values of the relevant parameters , allowing for and for values of the washout parameter up to .
+eight decades ago , arthur holmes introducted the idea of mantle convection as a mechanism for continental drift .
+five decades ago , continental drift was modified to become plate tectonics theory , which included mantle convection as an absolutely critical component .
+using the submarine design and operation concept of " neutral buoyancy " , which follows from archimedes ' discoveries , the concept of mantle convection is proven to be incorrect , concomitantly refuting plate tectonics , refuting all mantle convection models , and refuting all models that depend upon mantle convection .
+let be an affine quartic which does not intersect transversely with the line at infinity .
+in this paper , we show the existence of a torus decomposition of the defining polynomial of and its uniqueness except for one class .
+making use of detailed classical monte carlo simulations , we study the critical properties of a two dimensional planar spin model on a square lattice composed by weakly interacting helimagnetic chains .
+we find a large temperature window where the vector chirality order parameter , < k_{jk}>=<s_j x s_k > , the key quantity in multiferroic systems , takes nonzero value in absence of long - range order or quasi - long - range order , so that , our model is the first example where , at finite temperatures , a vector chiral spin liquid phase in absence of geometrical frustration is explicitly reported .
+we also show that the strength of interchain interaction is fundamental in order to obtain the vector chiral spin liquid phase .
+the relevance of our results for three - dimensional models is also discussed .
+we present a proposal for testing the prediction of non - equilibrium quantum field theory below the schwinger limit .
+the proposed experiments should be able to detect a measurable number of gamma rays resulting from the annihilation of pairs in the focal spot of two opposing high intensity laser beams .
+we discuss the dependence of the expected number of gamma rays with the laser parameters and compare with the estimated background level of gamma hits for realistic laser conditions .
+the coat proteins of many viruses spontaneously form icosahedral capsids around nucleic acids or other polymers .
+elucidating the role of the packaged polymer in capsid formation could promote biomedical efforts to block viral replication and enable use of capsids in nanomaterials applications .
+to this end , we perform brownian dynamics on a coarse - grained model that describes the dynamics of icosahedral capsid assembly around a flexible polymer .
+we identify several mechanisms by which the polymer plays an active role in its encapsulation , including cooperative polymer - protein motions .
+these mechanisms are related to experimentally controllable parameters such as polymer length , protein concentration , and solution conditions .
+furthermore , the simulations demonstrate that assembly mechanisms are correlated to encapsulation efficiency , and we present a phase diagram that predicts assembly outcomes as a function of experimental parameters .
+we anticipate that our simulation results will provide a framework for designing in vitro assembly experiments on single - stranded rna virus capsids .
+we present the discovery of short grb 080905a , its optical afterglow and host galaxy .
+initially discovered by swift , our deep optical observations enabled the identification of a faint optical afterglow , and subsequently a face - on spiral host galaxy underlying the grb position , with a chance alignment probability of < 1 % .
+there is no supernova component present in the afterglow to deep limits .
+spectroscopy of the galaxy provides a redshift of z=0.1218 , the lowest redshift yet observed for a short grb .
+the grb lies offset from the host galaxy centre by ~18.5 kpc , in the northern spiral arm which exhibits an older stellar population than the southern arm .
+no emission lines are visible directly under the burst position , implying little ongoing star formation at the burst location .
+these properties would naturally be explained were the progenitor of grb 080905a a compact binary merger .
+thin films of ( 1 - x)bifeo < sub>3</sub>-xpbtio < sub>3</sub > ( bf - xpt ) with x ~ 0.60 were fabricated on pt / si substrates by chemical solution deposition of precursor bf and pt layers alternately in three different multilayer configurations .
+these multilayer deposited precursor films upon annealing at 700{\deg}c in nitrogen show pure perovskite phase formation .
+in contrast to the equilibrium tetragonal structure for the overall molar composition of bf : pt::40:60 , we find monoclinic structured bf - xpt phase of m < sub > a</sub > type .
+piezo - force microscopy confirmed ferroelectric switching in the films and revealed different normal and lateral domain distributions in the samples .
+room temperature electrical measurements show good quality ferroelectric hysteresis loops with remanent polarization , pr , of up to 18 { \mu}c / cm < sup>2</sup > and leakage currents as low as 10 < sup>-7</sup > a / cm < sup>2</sup > .

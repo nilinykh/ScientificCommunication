@@ -1,0 +1,236 @@
+{
+  "port": 9001,
+
+  "server_name": "potato annotator",
+
+  "annotation_task_name": "Simple Pairwise Comparison Example",
+
+  # Potato will write the annotation file for all annotations to this
+  # directory, as well as per-annotator output files and state information
+  # necessary to restart annotation.
+  "output_annotation_dir": "annotation_output/main_study/",
+
+  # The output format for the all-annotator data. Allowed formats are:
+  # * jsonl
+  # * json (same output as jsonl)
+  # * csv
+  # * tsv
+  #
+  "output_annotation_format": "json",
+
+  # If annotators are using a codebook, this will be linked at the top to the
+  # instance for easy access
+  "annotation_codebook_url": "",
+
+  "data_files": [
+    "data/annotation_data.json"
+  ],
+
+  "item_properties": {
+    "id_key": "id",
+    "text_key": "text"
+  },
+
+  #list_as_text is used when the input text is actually a list of texts, usually used for best-worst-scaling
+  "list_as_text": {
+    "text_list_prefix_type": 'alphabet'
+  },
+
+  "user_config": {
+
+    "allow_all_users": True,
+
+    "users": [ ],
+  },
+
+  "login": {
+    "type": 'url_direct',    #can be 'password' or 'url_direct'
+    "url_argument": 'PROLIFIC_PID' # when the login type is set to 'url_direct', 'url_argument' must be setup for a direct url argument login
+  },
+
+
+  #the jumping-to-id function will be disabled if "jumping_to_id_disabled" is True
+  "jumping_to_id_disabled": True,
+
+  # define the surveyflow of the system, set up the pages before and after the data annotation page
+  "surveyflow": {
+    "on": true,
+    "order": [ "pre_annotation","post_annotation" ],
+    "pre_annotation": [
+      { file: 'surveyflow/intro.jsonl', text: "Introduction" },
+      { file: 'surveyflow/consent.jsonl', text: "Consent" },
+    ],
+    "post_annotation": [
+      { file: 'surveyflow/demographic_questions.jsonl', text: "Background Infromation" },
+      { file: 'surveyflow/end.jsonl' , text: "Finish Study" },
+    ],
+  },
+
+
+  "automatic_assignment": {
+    #whether do automatic task assignment for annotators, default False.
+    "on": True,
+    "output_filename": 'task_assignment.json',
+    "sampling_strategy": 'ordered',
+    "labels_per_instance": 1,
+    "instance_per_annotator": 20,
+    "test_question_per_annotator": 0, # you must set up the test question in surveyflow to use this function
+
+    "users": [ ],
+  },
+
+
+  # How many seconds do you want the annotators spend on each instance, after
+  # that, an alert will be sent per alert_time_each_instance seconds.
+  "alert_time_each_instance": 10000000,
+
+  "horizontal_key_bindings": True,
+
+  "annotation_schemes":
+    [
+      {
+        "annotation_type": "likert",
+        "name": "clarity_1",
+        "description": "I read this text smoothly and fluently.",
+        "size": 4,
+        "min_label": "strongly A",
+        "max_label": "strongly B",
+        "value2tooltips": {
+          "1": "Choose 'strongly A' if paragraph A reads much more smoothly and fluently.",
+          "2": "Choose 'slightly A' if paragraph A reads somewhat more smoothly and fluently.",
+          "3": "Choose 'slightly B' if paragraph B reads somewhat more smoothly and fluently.",
+          "4": "Choose 'strongly B' if paragraph B reads much more smoothly and fluently."
+        },
+        "label_requirement": { "required": true }
+      },
+      {
+        "annotation_type": "likert",
+        "name": "clarity_2",
+        "description": "I was able to understand the paragraph without difficulty.",
+        "size": 4,
+        "min_label": "strongly A",
+        "max_label": "strongly B",
+        "value2tooltips": {
+          "1": "Choose 'strongly A' if paragraph A was much easier to understand.",
+          "2": "Choose 'slightly A' if paragraph A was somewhat easier to understand.",
+          "3": "Choose 'slightly B' if paragraph B was somewhat easier to understand.",
+          "4": "Choose 'strongly B' if paragraph B was much easier to understand."
+        },
+        "label_requirement": { "required": true }
+      },
+      {
+        "annotation_type": "likert",
+        "name": "authenticity_1",
+        "description": "I felt a sense of connection with the researchers through their writing.",
+        "size": 4,
+        "min_label": "strongly A",
+        "max_label": "strongly B",
+        "value2tooltips": {
+          "1": "Choose 'strongly A' if paragraph A feels much more personally engaging or authentic.",
+          "2": "Choose 'slightly A' if paragraph A feels somewhat more engaging or authentic.",
+          "3": "Choose 'slightly B' if paragraph B feels somewhat more engaging or authentic.",
+          "4": "Choose 'strongly B' if paragraph B feels much more personally engaging or authentic."
+        },
+        "label_requirement": { "required": true }
+      },
+      {
+        "annotation_type": "likert",
+        "name": "authenticity_2",
+        "description": "The authors are genuinely engaged with the topic they studied.",
+        "size": 4,
+        "min_label": "strongly A",
+        "max_label": "strongly B",
+        "value2tooltips": {
+          "1": "Choose 'strongly A' if paragraph A feels much more sincere or committed to the topic.",
+          "2": "Choose 'slightly A' if paragraph A feels somewhat more sincere or committed.",
+          "3": "Choose 'slightly B' if paragraph B feels somewhat more sincere or committed.",
+          "4": "Choose 'strongly B' if paragraph B feels much more sincere or committed."
+        },
+        "label_requirement": { "required": true }
+      },
+      {
+        "annotation_type": "likert",
+        "name": "convincingness_1",
+        "description": "The authors appeared competent and trustworthy.",
+        "size": 4,
+        "min_label": "strongly A",
+        "max_label": "strongly B",
+        "value2tooltips": {
+          "1": "Choose 'strongly A' if paragraph A sounds much more credible or convincing.",
+          "2": "Choose 'slightly A' if paragraph A sounds somewhat more credible or convincing.",
+          "3": "Choose 'slightly B' if paragraph B sounds somewhat more credible or convincing.",
+          "4": "Choose 'strongly B' if paragraph B sounds much more credible or convincing."
+        },
+        "label_requirement": { "required": true }
+      },
+      {
+        "annotation_type": "likert",
+        "name": "convincingness_2",
+        "description": "I remained critical of the authors’ arguments while reading.",
+        "size": 4,
+        "min_label": "strongly A",
+        "max_label": "strongly B",
+        "value2tooltips": {
+          "1": "Choose 'strongly A' if paragraph A made you less critical or more persuaded.",
+          "2": "Choose 'slightly A' if paragraph A made you somewhat less critical.",
+          "3": "Choose 'slightly B' if paragraph B made you somewhat less critical.",
+          "4": "Choose 'strongly B' if paragraph B made you much less critical or more persuaded."
+        },
+        "label_requirement": { "required": true }
+      },
+      {
+        "annotation_type": "likert",
+        "name": "excitement_1",
+        "description": "I am excited to read this paper in more depth.",
+        "size": 4,
+        "min_label": "strongly A",
+        "max_label": "strongly B",
+        "value2tooltips": {
+          "1": "Choose 'strongly A' if paragraph A makes you much more eager to read further.",
+          "2": "Choose 'slightly A' if paragraph A makes you somewhat more eager to read further.",
+          "3": "Choose 'slightly B' if paragraph B makes you somewhat more eager to read further.",
+          "4": "Choose 'strongly B' if paragraph B makes you much more eager to read further."
+        },
+        "label_requirement": { "required": true }
+      },
+      {
+        "annotation_type": "likert",
+        "name": "excitement_2",
+        "description": "I found the text enjoyable to read.",
+        "size": 4,
+        "min_label": "strongly A",
+        "max_label": "strongly B",
+        "value2tooltips": {
+          "1": "Choose 'strongly A' if paragraph A was much more enjoyable to read.",
+          "2": "Choose 'slightly A' if paragraph A was somewhat more enjoyable to read.",
+          "3": "Choose 'slightly B' if paragraph B was somewhat more enjoyable to read.",
+          "4": "Choose 'strongly B' if paragraph B was much more enjoyable to read."
+        },
+        "label_requirement": { "required": true }
+      }
+
+
+    ],
+
+  # The html that changes the visualiztation for your task. Change this file
+  # to influence the layout and description of your task. This is not a full
+  # HTML page, just the piece that does lays out your task's pieces
+  # you may use templates in our lib, if you want to use your own template,
+  # please replace the string as a path to the template
+
+  # The core UI files for Potato. You should not need to change these normally.
+  #
+  # Exceptions to this might include:
+  # 1) You want to add custom CSS/fonts to style your task
+  # 2) Your layout requires additional JS/assets to render
+  # 3) You want to support additional keybinding magic
+  #
+  # if you want to use your own template,
+  # please replace the string as a path to the template
+  "html_layout": "templates/layout.html",
+  "base_html_template": "default",
+  "header_file": "templates/header.html",
+  "surveyflow_html_layout": "default",
+  "site_dir": "default"
+
+}

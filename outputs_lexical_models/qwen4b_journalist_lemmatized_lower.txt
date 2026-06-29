@@ -1,0 +1,410 @@
+the:DET dim:ADJ glow:NOUN of:ADP candlelight:NOUN flicker:NOUN across:ADP the:DET opulent:ADJ room:NOUN as:SCONJ jeremy:PROPN lean:VERB in:ADV ,:PUNCT his:PRON voice:NOUN low:ADJ and:CCONJ urgent:ADJ ,:PUNCT his:PRON eye:NOUN lock:VERB on:ADP the:DET old:ADJ man:NOUN across:ADP the:DET table:NOUN .:PUNCT
+behind:ADP he:PRON ,:PUNCT christian:PROPN watch:VERB with:ADP quiet:ADJ intensity:NOUN ,:PUNCT his:PRON gold:NOUN -:PUNCT rim:VERB glass:NOUN reflect:VERB the:DET warm:ADJ amber:NOUN glow:NOUN of:ADP the:DET lamp:NOUN .:PUNCT
+the:DET tension:NOUN be:AUX palpable:ADJ ,:PUNCT thick:ADJ as:ADP the:DET champagne:NOUN flute:NOUN on:ADP the:DET table:NOUN .:PUNCT
+jeremy:PROPN ':PUNCT s:PART word:NOUN seem:VERB to:PART carry:VERB weight:NOUN ,:PUNCT each:DET syllable:NOUN a:DET blade:NOUN slicing:NOUN through:ADP the:DET silence:NOUN .:PUNCT
+christian:PROPN ':PUNCT s:PART gaze:NOUN never:ADV leave:VERB jeremy:PROPN ':PUNCT s:PART face:NOUN ,:PUNCT his:PRON expression:NOUN unreadable:ADJ beneath:ADP the:DET glass:NOUN .:PUNCT
+he:PRON ':PUNCT s:AUX not:PART just:ADV listen:VERB —:PUNCT he:PRON ':PUNCT s:AUX analyze:VERB ,:PUNCT calculate:VERB ,:PUNCT perhaps:ADV prepare:VERB to:PART strike:VERB .:PUNCT
+the:DET room:NOUN breathe:VERB around:ADP they:PRON ,:PUNCT the:DET ornate:ADJ wallpaper:NOUN and:CCONJ gild:VERB furniture:NOUN a:DET silent:ADJ witness:NOUN to:ADP this:DET clandestine:ADJ exchange:NOUN .:PUNCT
+the:DET air:NOUN hum:NOUN with:ADP unspoken:ADJ threat:NOUN and:CCONJ secret:NOUN .:PUNCT
+the:DET camera:NOUN linger:VERB on:ADP the:DET old:ADJ man:NOUN ':PUNCT s:PART face:NOUN —:PUNCT his:PRON line:NOUN etch:VERB with:ADP experience:NOUN ,:PUNCT his:PRON gaze:NOUN steady:ADJ and:CCONJ unyielde:VERB .:PUNCT
+he:PRON doesn:VERB ':PUNCT t:NOUN flinch:NOUN as:SCONJ jeremy:PROPN speak:VERB ,:PUNCT his:PRON hand:NOUN rest:VERB on:ADP the:DET table:NOUN ,:PUNCT a:DET silent:ADJ anchor:NOUN in:ADP the:DET storm:NOUN of:ADP word:NOUN .:PUNCT
+the:DET champagne:NOUN glass:NOUN beside:ADP he:PRON be:AUX untouched:ADJ ,:PUNCT a:DET symbol:NOUN of:ADP the:DET pause:NOUN before:ADP the:DET inevitable:ADJ next:ADJ move:NOUN .:PUNCT
+suddenly:ADV ,:PUNCT the:DET scene:NOUN shift:NOUN to:ADP a:DET different:ADJ part:NOUN of:ADP the:DET room:NOUN .:PUNCT
+jennifer:PROPN ,:PUNCT her:PRON blonde:ADJ hair:NOUN pin:VERB elegantly:ADV ,:PUNCT turn:VERB her:PRON head:NOUN ,:PUNCT her:PRON lip:NOUN part:VERB as:SCONJ if:SCONJ catch:VERB mid:NOUN -:NOUN sentence:NOUN .:PUNCT
+her:PRON eye:NOUN ,:PUNCT wide:ADJ and:CCONJ curious:ADJ ,:PUNCT betray:VERB the:DET depth:NOUN of:ADP the:DET conversation:NOUN unfold:VERB around:ADP she:PRON .:PUNCT
+she:PRON ':PUNCT s:VERB not:PART part:NOUN of:ADP the:DET main:ADJ exchange:NOUN ,:PUNCT but:CCONJ she:PRON ':PUNCT s:VERB a:DET witness:NOUN to:ADP the:DET drama:NOUN ,:PUNCT her:PRON presence:NOUN add:VERB a:DET layer:NOUN of:ADP intrigue:NOUN .:PUNCT
+the:DET final:ADJ shot:NOUN pull:VERB back:ADV to:PART reveal:VERB amy:PROPN and:CCONJ jack:PROPN seat:VERB on:ADP the:DET ornate:ADJ sofa:NOUN ,:PUNCT their:PRON posture:NOUN relax:VERB yet:ADV alert:ADJ .:PUNCT
+amy:PROPN ':PUNCT s:PART hand:NOUN rest:VERB near:ADP her:PRON glass:NOUN ,:PUNCT her:PRON expression:NOUN one:NUM of:ADP quiet:ADJ amusement:NOUN ,:PUNCT while:SCONJ jack:PROPN lean:VERB forward:ADV slightly:ADV ,:PUNCT his:PRON attention:NOUN fix:VERB on:ADP the:DET unfold:VERB drama:NOUN .:PUNCT
+they:PRON ':PUNCT re:ADP not:PART the:DET center:NOUN of:ADP the:DET action:NOUN ,:PUNCT but:CCONJ they:PRON ':PUNCT re:ADP part:NOUN of:ADP the:DET tapestry:NOUN of:ADP this:DET high:ADJ -:PUNCT stake:NOUN evening:NOUN .:PUNCT
+the:DET room:NOUN be:AUX alive:ADJ with:ADP the:DET unspoken:ADJ tension:NOUN ,:PUNCT the:DET glance:NOUN ,:PUNCT the:DET silence:NOUN ,:PUNCT and:CCONJ the:DET whisper:VERB secret:NOUN .:PUNCT
+the:DET night:NOUN be:AUX far:ADV from:ADP over:ADV .:PUNCT
+under:ADP the:DET wide:ADJ ,:PUNCT sun:NOUN -:PUNCT bake:VERB sky:NOUN of:ADP the:DET open:ADJ range:NOUN ,:PUNCT barry:PROPN rid:VERB his:PRON pale:ADJ horse:NOUN with:ADP quiet:ADJ determination:NOUN ,:PUNCT rifle:NOUN aim:VERB ,:PUNCT scan:VERB the:DET horizon:NOUN .:PUNCT
+the:DET dust:NOUN swirl:VERB beneath:ADP his:PRON hoof:NOUN as:SCONJ he:PRON move:VERB toward:ADP the:DET distant:ADJ cliffside:NOUN ,:PUNCT where:SCONJ the:DET forest:VERB slope:NOUN loom:VERB like:ADP ancient:ADJ sentinel:NOUN .:PUNCT
+his:PRON hat:NOUN cast:VERB a:DET shadow:NOUN over:ADP his:PRON face:NOUN ,:PUNCT but:CCONJ his:PRON eye:NOUN be:AUX sharp:ADJ ,:PUNCT alert:ADJ for:ADP danger:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART alone:ADJ .:PUNCT
+jeff:PROPN ,:PUNCT mount:VERB on:ADP a:DET powerful:ADJ chestnut:ADJ horse:NOUN ,:PUNCT rid:VERB with:ADP a:DET swagger:NOUN that:PRON belie:VERB the:DET tension:NOUN .:PUNCT
+his:PRON hand:NOUN grip:VERB his:PRON pistol:NOUN high:ADJ ,:PUNCT arm:NOUN raise:VERB in:ADP a:DET defiant:ADJ gesture:NOUN ,:PUNCT as:SCONJ if:SCONJ challenge:VERB the:DET sky:NOUN or:CCONJ the:DET unseen:ADJ foe:NOUN .:PUNCT
+the:DET wind:NOUN carry:VERB the:DET scent:NOUN of:ADP pine:NOUN and:CCONJ earth:NOUN ,:PUNCT and:CCONJ the:DET landscape:NOUN feel:VERB alive:ADJ with:ADP the:DET promise:NOUN of:ADP conflict:NOUN .:PUNCT
+barry:PROPN ':PUNCT s:VERB focus:NOUN shift:NOUN to:ADP the:DET approach:VERB figure:NOUN .:PUNCT
+he:PRON lower:VERB his:PRON rifle:NOUN slightly:ADV ,:PUNCT eye:NOUN narrow:VERB as:SCONJ he:PRON track:VERB jeff:PROPN ':PUNCT s:PART movement:NOUN .:PUNCT
+the:DET terrain:NOUN open:VERB up:ADP before:ADP they:PRON ,:PUNCT the:DET dust:NOUN kick:VERB up:ADP by:ADP their:PRON horse:NOUN swirl:VERB in:ADP the:DET air:NOUN like:ADP a:DET silent:ADJ storm:NOUN .:PUNCT
+barry:PROPN ':PUNCT s:PART horse:NOUN step:NOUN forward:ADV with:ADP steady:ADJ confidence:NOUN ,:PUNCT as:SCONJ if:SCONJ he:PRON know:VERB this:DET path:NOUN well:ADV than:ADP anyone:PRON .:PUNCT
+the:DET dust:NOUN cloud:VERB part:NOUN as:SCONJ jeff:PROPN ':PUNCT s:PART horse:NOUN lunge:NOUN forward:ADV ,:PUNCT gallop:VERB with:ADP a:DET burst:NOUN of:ADP energy:NOUN .:PUNCT
+barry:PROPN ':PUNCT s:PART horse:NOUN respond:VERB with:ADP equal:ADJ vigor:NOUN ,:PUNCT their:PRON rider:NOUN close:VERB the:DET distance:NOUN .:PUNCT
+the:DET camera:NOUN capture:VERB the:DET moment:NOUN of:ADP impact:NOUN —:PUNCT a:DET blur:NOUN of:ADP motion:NOUN ,:PUNCT the:DET horse:NOUN ':PUNCT hoof:NOUN kick:VERB up:ADP dirt:NOUN ,:PUNCT and:CCONJ the:DET tension:NOUN in:ADP the:DET air:NOUN thickening:NOUN with:ADP anticipation:NOUN .:PUNCT
+jeff:PROPN ':PUNCT s:PART horse:NOUN kick:VERB up:ADP a:DET cloud:NOUN of:ADP dust:NOUN as:SCONJ he:PRON lean:VERB into:ADP the:DET turn:NOUN ,:PUNCT his:PRON body:NOUN tense:ADJ with:ADP adrenaline:NOUN .:PUNCT
+barry:PROPN watch:VERB ,:PUNCT his:PRON expression:NOUN unreadable:ADJ ,:PUNCT but:CCONJ his:PRON posture:NOUN speak:VERB volume:NOUN —:PUNCT ready:ADJ ,:PUNCT focused:ADJ ,:PUNCT and:CCONJ prepare:VERB for:ADP whatever:PRON come:VERB next:ADV .:PUNCT
+the:DET landscape:NOUN stretch:VERB out:ADP behind:ADP they:PRON ,:PUNCT a:DET vast:ADJ ,:PUNCT wild:ADJ expanse:NOUN that:PRON hold:VERB secret:NOUN and:CCONJ danger:NOUN .:PUNCT
+barry:PROPN rid:VERB forward:ADV ,:PUNCT his:PRON horse:NOUN a:DET steady:ADJ presence:NOUN ,:PUNCT as:SCONJ he:PRON move:VERB through:ADP the:DET open:ADJ field:NOUN .:PUNCT
+the:DET forest:VERB hillside:NOUN loom:VERB behind:ADP he:PRON ,:PUNCT a:DET silent:ADJ witness:NOUN to:ADP the:DET duel:NOUN unfolding:NOUN before:ADP they:PRON .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART afraid:ADJ —:PUNCT he:PRON ':PUNCT s:VERB prepare:VERB .:PUNCT
+the:DET sun:NOUN hang:VERB low:ADV ,:PUNCT cast:VERB long:ADJ shadow:NOUN ,:PUNCT and:CCONJ the:DET wind:NOUN whisper:VERB through:ADP the:DET pine:NOUN ,:PUNCT add:VERB to:ADP the:DET drama:NOUN of:ADP the:DET scene:NOUN .:PUNCT
+barry:PROPN ':PUNCT s:PART horse:NOUN slow:VERB as:SCONJ he:PRON approach:VERB the:DET edge:NOUN of:ADP the:DET field:NOUN ,:PUNCT where:SCONJ the:DET tree:NOUN begin:VERB to:PART thin:VERB .:PUNCT
+he:PRON rid:VERB with:ADP purpose:NOUN ,:PUNCT his:PRON gaze:NOUN fix:VERB ahead:ADV .:PUNCT
+the:DET dust:NOUN settle:VERB around:ADP he:PRON ,:PUNCT but:CCONJ the:DET tension:NOUN remain:VERB —:PUNCT the:DET air:NOUN be:AUX thick:ADJ with:ADP the:DET promise:NOUN of:ADP what:PRON ':PUNCT s:VERB to:PART come:VERB .:PUNCT
+he:PRON ':PUNCT s:AUX not:PART just:ADV rid:VERB ;:PUNCT he:PRON ':PUNCT s:AUX prepare:VERB for:ADP the:DET storm:NOUN .:PUNCT
+the:DET dimly:ADV light:VERB room:NOUN hold:VERB a:DET tense:ADJ atmosphere:NOUN as:SCONJ shia:PROPN sit:VERB ,:PUNCT his:PRON expression:NOUN grave:NOUN ,:PUNCT his:PRON mouth:NOUN slightly:ADV agape:ADV as:SCONJ if:SCONJ catch:VERB mid:NOUN -:NOUN sentence:NOUN or:CCONJ in:ADP the:DET midst:NOUN of:ADP a:DET silent:ADJ confrontation:NOUN .:PUNCT
+the:DET stark:ADJ lighting:NOUN cast:VERB deep:ADJ shadow:NOUN ,:PUNCT emphasize:VERB the:DET gravity:NOUN of:ADP the:DET moment:NOUN .:PUNCT
+across:ADP from:ADP he:PRON ,:PUNCT billy:PROPN ,:PUNCT in:ADP his:PRON dark:ADJ suit:NOUN and:CCONJ glass:NOUN ,:PUNCT gesture:NOUN emphatically:ADV with:ADP both:CCONJ hand:NOUN ,:PUNCT his:PRON face:NOUN contort:VERB in:ADP what:PRON appear:VERB to:PART be:AUX a:DET passionate:ADJ or:CCONJ furious:ADJ explanation:NOUN .:PUNCT
+the:DET tension:NOUN between:ADP they:PRON be:AUX palpable:ADJ ,:PUNCT as:SCONJ if:SCONJ the:DET weight:NOUN of:ADP an:DET unresolved:ADJ issue:NOUN hang:VERB in:ADP the:DET air:NOUN .:PUNCT
+shia:PROPN ':PUNCT s:PART posture:NOUN shift:NOUN subtly:ADV as:SCONJ he:PRON listen:VERB ,:PUNCT his:PRON gaze:NOUN fix:VERB on:ADP billy:PROPN ,:PUNCT his:PRON hand:NOUN rest:VERB on:ADP the:DET table:NOUN ,:PUNCT suggest:VERB a:DET mix:NOUN of:ADP resignation:NOUN and:CCONJ determination:NOUN .:PUNCT
+the:DET scene:NOUN feel:VERB like:ADP a:DET pivotal:ADJ moment:NOUN in:ADP a:DET large:ADJ narrative:NOUN ,:PUNCT one:NUM that:PRON demand:VERB resolution:NOUN .:PUNCT
+the:DET mood:NOUN shift:NOUN abruptly:ADV as:ADP the:DET camera:NOUN pan:NOUN to:ADP a:DET dimly:ADV light:VERB bar:NOUN ,:PUNCT where:SCONJ a:DET group:NOUN of:ADP woman:NOUN be:AUX gather:VERB ,:PUNCT their:PRON face:NOUN illuminate:VERB by:ADP the:DET warm:ADJ glow:NOUN of:ADP the:DET bar:NOUN ':PUNCT s:PART light:NOUN .:PUNCT
+their:PRON laughter:NOUN and:CCONJ conversation:NOUN contrast:NOUN sharply:ADV with:ADP the:DET early:ADJ tension:NOUN ,:PUNCT hint:VERB at:ADP a:DET different:ADJ world:NOUN beyond:ADP the:DET interrogation:NOUN room:NOUN .:PUNCT
+a:DET bartender:NOUN ,:PUNCT a:DET woman:NOUN with:ADP blonde:ADJ hair:NOUN ,:PUNCT serve:VERB drink:NOUN to:ADP the:DET woman:NOUN ,:PUNCT her:PRON movement:NOUN fluid:NOUN and:CCONJ practice:VERB .:PUNCT
+the:DET bar:NOUN be:AUX alive:ADJ with:ADP the:DET clinking:NOUN of:ADP glass:NOUN and:CCONJ the:DET murmur:ADJ of:ADP conversation:NOUN ,:PUNCT offer:VERB a:DET stark:ADJ contrast:NOUN to:ADP the:DET cold:ADJ ,:PUNCT sterile:ADJ room:NOUN where:SCONJ shia:PROPN and:CCONJ billy:PROPN have:AUX be:AUX .:PUNCT
+the:DET scene:NOUN suggest:VERB a:DET world:NOUN of:ADP social:ADJ connection:NOUN and:CCONJ distraction:NOUN ,:PUNCT a:DET place:NOUN where:SCONJ the:DET weight:NOUN of:ADP the:DET previous:ADJ moment:NOUN can:AUX be:AUX momentarily:ADV forget:VERB .:PUNCT
+shia:PROPN ':PUNCT s:PART expression:NOUN remain:VERB serious:ADJ as:SCONJ he:PRON sit:VERB ,:PUNCT his:PRON gaze:NOUN fix:VERB on:ADP something:PRON beyond:ADP the:DET frame:NOUN ,:PUNCT perhaps:ADV lose:VERB in:ADP thought:NOUN or:CCONJ wait:VERB for:ADP something:PRON to:PART happen:VERB .:PUNCT
+billy:ADV ':PUNCT s:PART hand:NOUN be:AUX still:ADV raise:VERB ,:PUNCT his:PRON expression:NOUN one:NUM of:ADP intense:ADJ focus:NOUN ,:PUNCT as:SCONJ if:SCONJ he:PRON ’:AUX s:AUX try:VERB to:PART convey:VERB something:PRON crucial:ADJ .:PUNCT
+michelle:PROPN ,:PUNCT with:ADP her:PRON dark:ADJ hair:NOUN and:CCONJ gold:NOUN earring:NOUN ,:PUNCT be:AUX see:VERB in:ADP profile:NOUN ,:PUNCT her:PRON expression:NOUN serene:NOUN ,:PUNCT suggest:VERB she:PRON ':PUNCT s:AUX catch:VERB up:ADP in:ADP her:PRON own:ADJ thought:NOUN or:CCONJ perhaps:ADV enjoy:VERB the:DET moment:NOUN away:ADV from:ADP the:DET tension:NOUN .:PUNCT
+the:DET scene:NOUN unfold:VERB in:ADP a:DET warmly:ADV light:VERB ,:PUNCT slightly:ADV cluttered:ADJ dining:NOUN room:NOUN ,:PUNCT where:SCONJ chaos:NOUN have:AUX just:ADV strike:VERB .:PUNCT
+jonah:PROPN ,:PUNCT sprawl:VERB on:ADP the:DET tile:VERB floor:NOUN ,:PUNCT clutch:VERB his:PRON chest:NOUN as:SCONJ if:SCONJ in:ADP mortal:ADJ peril:NOUN ,:PUNCT be:AUX the:DET immediate:ADJ focus:NOUN .:PUNCT
+his:PRON eye:NOUN ,:PUNCT wide:ADJ with:ADP shock:NOUN ,:PUNCT betray:VERB a:DET man:NOUN catch:VERB in:ADP the:DET midst:NOUN of:ADP an:DET unexpected:ADJ disaster:NOUN .:PUNCT
+a:DET stack:NOUN of:ADP plate:NOUN lie:VERB nearby:ADV ,:PUNCT hint:VERB at:ADP a:DET recent:ADJ meal:NOUN that:PRON have:AUX now:ADV become:VERB a:DET casualty:NOUN of:ADP the:DET unfold:VERB drama:NOUN .:PUNCT
+the:DET camera:NOUN pull:VERB back:ADV ,:PUNCT reveal:VERB the:DET full:ADJ scope:NOUN of:ADP the:DET room:NOUN .:PUNCT
+a:DET woman:NOUN ,:PUNCT margot:PROPN ,:PUNCT stride:NOUN purposefully:ADV down:ADP the:DET hallway:NOUN ,:PUNCT her:PRON dark:ADJ dress:NOUN flow:VERB as:SCONJ she:PRON move:VERB .:PUNCT
+her:PRON expression:NOUN be:AUX one:NUM of:ADP focus:VERB determination:NOUN ,:PUNCT suggest:VERB she:PRON ':PUNCT s:VERB not:PART merely:ADV a:DET bystander:NOUN but:CCONJ an:DET active:ADJ participant:NOUN in:ADP the:DET unfold:VERB event:NOUN .:PUNCT
+behind:ADP she:PRON ,:PUNCT another:DET figure:NOUN ,:PUNCT leonardo:PROPN ,:PUNCT lie:VERB motionless:NOUN on:ADP the:DET floor:NOUN ,:PUNCT his:PRON blue:ADJ shirt:NOUN and:CCONJ jean:VERB a:DET stark:ADJ contrast:NOUN to:ADP the:DET warm:ADJ tone:NOUN of:ADP the:DET room:NOUN .:PUNCT
+jonah:PROPN ':PUNCT s:PART eye:NOUN widen:VERB far:ADV as:SCONJ he:PRON look:VERB up:ADP ,:PUNCT his:PRON hand:NOUN clutch:VERB his:PRON throat:NOUN .:PUNCT
+the:DET plate:NOUN still:ADV rest:VERB near:ADP he:PRON ,:PUNCT now:ADV a:DET silent:ADJ witness:NOUN to:ADP the:DET chaos:NOUN .:PUNCT
+his:PRON glass:NOUN be:AUX askew:ADJ ,:PUNCT and:CCONJ his:PRON face:NOUN be:AUX a:DET tableau:NOUN of:ADP disbelief:NOUN and:CCONJ panic:NOUN .:PUNCT
+he:PRON ':PUNCT s:AUX not:PART just:ADV lie:VERB on:ADP the:DET floor:NOUN —:PUNCT he:PRON ':PUNCT s:VERB in:ADP the:DET middle:NOUN of:ADP a:DET surreal:ADJ ,:PUNCT comedic:ADJ disaster:NOUN .:PUNCT
+leonardo:PROPN ,:PUNCT though:SCONJ still:ADV on:ADP the:DET floor:NOUN ,:PUNCT begin:VERB to:PART stir:VERB .:PUNCT
+his:PRON hand:NOUN reach:VERB out:ADP ,:PUNCT finger:NOUN brush:VERB against:ADP the:DET edge:NOUN of:ADP a:DET drawer:NOUN as:SCONJ he:PRON try:VERB to:PART regain:VERB his:PRON footing:NOUN .:PUNCT
+a:DET phone:NOUN lie:NOUN discard:VERB nearby:ADV ,:PUNCT its:PRON cord:NOUN tangle:VERB ,:PUNCT suggest:VERB a:DET frantic:ADJ scramble:NOUN to:PART escape:VERB or:CCONJ to:PART call:VERB for:ADP help:NOUN .:PUNCT
+the:DET room:NOUN feel:VERB alive:ADJ with:ADP tension:NOUN ,:PUNCT even:ADV as:SCONJ the:DET character:NOUN remain:VERB frozen:ADJ in:ADP their:PRON position:NOUN .:PUNCT
+margot:PROPN ,:PUNCT now:ADV close:ADV to:ADP the:DET scene:NOUN ,:PUNCT pause:VERB as:SCONJ if:SCONJ to:PART assess:VERB the:DET situation:NOUN .:PUNCT
+her:PRON hand:NOUN rest:VERB on:ADP her:PRON hip:NOUN ,:PUNCT and:CCONJ her:PRON gaze:NOUN sweep:VERB over:ADP jonah:PROPN and:CCONJ leonardo:PROPN ,:PUNCT as:SCONJ if:SCONJ weigh:VERB the:DET gravity:NOUN of:ADP their:PRON predicament:NOUN .:PUNCT
+the:DET room:NOUN ,:PUNCT though:SCONJ fill:VERB with:ADP chaos:NOUN ,:PUNCT hold:VERB a:DET strange:ADJ ,:PUNCT almost:ADV theatrical:ADJ stillness:NOUN ,:PUNCT as:SCONJ if:SCONJ this:DET moment:NOUN be:AUX the:DET climax:NOUN of:ADP a:DET long:ADJ ,:PUNCT surreal:ADJ narrative:NOUN .:PUNCT
+the:DET character:NOUN be:AUX catch:VERB in:ADP a:DET moment:NOUN that:PRON feel:VERB both:CCONJ absurd:ADJ and:CCONJ deeply:ADV human:ADJ ,:PUNCT a:DET scene:NOUN that:PRON will:AUX linger:VERB in:ADP the:DET memory:NOUN of:ADP anyone:PRON who:PRON witness:VERB it:PRON .:PUNCT
+the:DET dim:ADJ glow:NOUN of:ADP stain:VERB glass:NOUN filter:NOUN through:ADP the:DET heavy:ADJ curtain:NOUN as:ADP a:DET shadowy:ADJ figure:NOUN stand:VERB at:ADP the:DET window:NOUN ,:PUNCT lose:VERB in:ADP thought:NOUN .:PUNCT
+the:DET room:NOUN be:AUX hush:VERB ,:PUNCT the:DET air:NOUN thick:ADJ with:ADP the:DET weight:NOUN of:ADP secret:NOUN .:PUNCT
+inside:ADV ,:PUNCT scarlett:PROPN sit:VERB upright:ADJ in:ADP bed:NOUN ,:PUNCT her:PRON braid:VERB hair:NOUN frame:VERB a:DET face:NOUN etch:VERB with:ADP concern:NOUN ,:PUNCT while:SCONJ natalie:PROPN watch:VERB from:ADP the:DET doorway:NOUN ,:PUNCT her:PRON gaze:NOUN sharp:ADJ and:CCONJ unreadable:ADJ .:PUNCT
+eric:PROPN ,:PUNCT dress:VERB in:ADP dark:ADJ ,:PUNCT period:NOUN -:PUNCT appropriate:ADJ attire:NOUN ,:PUNCT enter:VERB the:DET chamber:NOUN ,:PUNCT clutch:VERB a:DET book:NOUN —:PUNCT a:DET relic:NOUN of:ADP knowledge:NOUN he:PRON carry:VERB like:ADP a:DET shield:NOUN .:PUNCT
+his:PRON presence:NOUN be:AUX both:PRON impose:VERB and:CCONJ solemn:ADJ .:PUNCT
+he:PRON move:VERB with:ADP quiet:ADJ purpose:NOUN ,:PUNCT glance:VERB toward:ADP the:DET door:NOUN as:SCONJ if:SCONJ anticipate:VERB someone:PRON ':PUNCT s:PART arrival:NOUN or:CCONJ the:DET sound:NOUN of:ADP footstep:NOUN .:PUNCT
+the:DET scene:NOUN shift:NOUN to:ADP a:DET moment:NOUN of:ADP quiet:ADJ tension:NOUN ::PUNCT scarlett:PROPN ,:PUNCT now:ADV in:ADP her:PRON blue:ADJ gown:NOUN ,:PUNCT lean:VERB forward:ADV ,:PUNCT her:PRON expression:NOUN a:DET blend:NOUN of:ADP sorrow:NOUN and:CCONJ resolve:NOUN ,:PUNCT while:SCONJ natalie:PROPN ,:PUNCT ever:ADV observant:ADJ ,:PUNCT seem:VERB to:PART sense:VERB the:DET turning:NOUN point:NOUN .:PUNCT
+a:DET single:ADJ ,:PUNCT soft:ADJ light:NOUN catch:NOUN the:DET edge:NOUN of:ADP eric:PROPN ':PUNCT s:VERB jaw:NOUN as:SCONJ he:PRON stand:VERB before:ADP the:DET stain:VERB -:PUNCT glass:NOUN window:NOUN ,:PUNCT his:PRON silhouette:NOUN stark:NOUN against:ADP the:DET golden:ADJ hue:NOUN .:PUNCT
+his:PRON eye:NOUN hold:VERB the:DET gravity:NOUN of:ADP a:DET man:NOUN who:PRON have:AUX see:VERB too:ADV much:ADV ,:PUNCT and:CCONJ yet:ADV must:AUX continue:VERB .:PUNCT
+the:DET final:ADJ image:NOUN capture:VERB scarlett:PROPN in:ADP a:DET moment:NOUN of:ADP quiet:ADJ reflection:NOUN ,:PUNCT her:PRON hand:NOUN clasp:VERB over:ADP her:PRON chest:NOUN ,:PUNCT her:PRON gaze:NOUN fix:VERB not:PART on:ADP the:DET room:NOUN ,:PUNCT but:CCONJ on:ADP something:PRON beyond:ADP —:PUNCT perhaps:ADV a:DET memory:NOUN ,:PUNCT a:DET promise:NOUN ,:PUNCT or:CCONJ a:DET future:NOUN yet:ADV to:PART be:AUX write:VERB .:PUNCT
+the:DET room:NOUN hold:VERB its:PRON breath:NOUN as:SCONJ if:SCONJ wait:VERB for:ADP the:DET next:ADJ word:NOUN ,:PUNCT the:DET next:ADJ step:NOUN ,:PUNCT the:DET next:ADJ truth:NOUN to:PART be:AUX speak:VERB .:PUNCT
+the:DET forest:NOUN thrum:VERB with:ADP tension:NOUN as:ADP a:DET line:NOUN of:ADP colonial:ADJ soldier:NOUN ,:PUNCT clothe:VERB in:ADP red:ADJ coat:NOUN and:CCONJ tricorn:ADJ hat:NOUN ,:PUNCT advance:VERB through:ADP the:DET underbrush:NOUN .:PUNCT
+their:PRON musket:NOUN gleam:VERB under:ADP the:DET dapple:VERB light:NOUN ,:PUNCT and:CCONJ the:DET smoke:NOUN from:ADP a:DET recent:ADJ volley:NOUN curl:VERB like:ADP ghostly:ADV finger:NOUN through:ADP the:DET tree:NOUN .:PUNCT
+amidst:ADP the:DET chaos:NOUN ,:PUNCT a:DET lone:ADJ figure:NOUN in:ADP a:DET fade:VERB ,:PUNCT earth:NOUN -:PUNCT toned:ADJ coat:NOUN slip:VERB between:ADP the:DET trunk:NOUN ,:PUNCT his:PRON movement:NOUN deliberate:VERB and:CCONJ silent:ADJ .:PUNCT
+he:PRON be:AUX mel:PROPN ,:PUNCT a:DET scout:NOUN with:ADP a:DET reputation:NOUN for:ADP see:VERB what:PRON other:NOUN miss:VERB .:PUNCT
+mel:PROPN press:VERB himself:PRON against:ADP the:DET bark:NOUN of:ADP a:DET massive:ADJ oak:NOUN ,:PUNCT his:PRON breath:NOUN shallow:ADJ as:SCONJ he:PRON scan:VERB the:DET battlefield:NOUN .:PUNCT
+his:PRON eye:NOUN dart:VERB ,:PUNCT catch:VERB the:DET glint:NOUN of:ADP a:DET bayonet:NOUN ,:PUNCT the:DET flicker:NOUN of:ADP a:DET lantern:NOUN ,:PUNCT the:DET sudden:ADJ stillness:NOUN where:SCONJ a:DET soldier:NOUN have:AUX just:ADV fall:VERB .:PUNCT
+he:PRON know:VERB this:DET forest:NOUN well:ADV than:ADP any:DET man:NOUN ,:PUNCT and:CCONJ he:PRON know:VERB the:DET enemy:NOUN be:AUX close:ADJ .:PUNCT
+he:PRON pull:VERB his:PRON rifle:NOUN from:ADP its:PRON strap:NOUN ,:PUNCT the:DET wood:NOUN cool:ADJ and:CCONJ familiar:ADJ in:ADP his:PRON grip:NOUN .:PUNCT
+his:PRON finger:NOUN ,:PUNCT callous:VERB from:ADP year:NOUN of:ADP gripping:ADJ weapon:NOUN ,:PUNCT move:VERB with:ADP practiced:ADJ ease:NOUN .:PUNCT
+he:PRON take:VERB aim:NOUN ,:PUNCT not:PART at:ADP the:DET advance:VERB rank:NOUN ,:PUNCT but:CCONJ at:ADP the:DET moment:NOUN before:ADP the:DET volley:NOUN .:PUNCT
+the:DET smoke:NOUN from:ADP the:DET cannon:NOUN fire:NOUN billow:VERB in:ADP the:DET distance:NOUN ,:PUNCT and:CCONJ he:PRON know:VERB the:DET moment:NOUN be:AUX upon:SCONJ he:PRON .:PUNCT
+mel:PROPN ':PUNCT s:PART eye:NOUN narrow:VERB as:SCONJ he:PRON adjust:VERB his:PRON aim:NOUN ,:PUNCT his:PRON body:NOUN tense:VERB like:ADP a:DET bowstre:VERB ready:ADJ to:PART release:VERB .:PUNCT
+he:PRON be:AUX not:PART a:DET man:NOUN of:ADP word:NOUN ,:PUNCT but:CCONJ of:ADP action:NOUN .:PUNCT
+he:PRON have:AUX see:VERB too:ADV many:ADJ man:NOUN fall:VERB to:ADP the:DET enemy:NOUN ':PUNCT s:VERB fire:NOUN to:PART be:AUX sentimental:ADJ .:PUNCT
+he:PRON be:AUX mel:PROPN ,:PUNCT and:CCONJ he:PRON be:AUX ready:ADJ .:PUNCT
+the:DET forest:NOUN breathe:VERB around:ADP he:PRON ,:PUNCT the:DET tree:NOUN whisper:VERB secret:NOUN only:ADV he:PRON could:AUX hear:VERB .:PUNCT
+he:PRON wait:VERB ,:PUNCT the:DET air:NOUN thick:ADJ with:ADP anticipation:NOUN .:PUNCT
+the:DET enemy:NOUN be:AUX come:VERB ,:PUNCT and:CCONJ he:PRON be:AUX ready:ADJ to:PART meet:VERB they:PRON .:PUNCT
+he:PRON would:AUX not:PART be:AUX the:DET one:NUM to:PART fall:VERB .:PUNCT
+he:PRON would:AUX be:AUX the:DET one:NUM to:PART strike:VERB first:ADV .:PUNCT
+the:DET tension:NOUN in:ADP the:DET elevator:NOUN be:AUX palpable:ADJ as:ADP philip:PROPN ,:PUNCT his:PRON face:NOUN a:DET mask:NOUN of:ADP weary:ADJ frustration:NOUN ,:PUNCT adjust:VERB his:PRON headphone:NOUN .:PUNCT
+he:PRON ':PUNCT s:AUX be:AUX on:ADP the:DET phone:NOUN for:ADP hour:NOUN ,:PUNCT his:PRON voice:NOUN strain:VERB with:ADP the:DET weight:NOUN of:ADP a:DET job:NOUN he:PRON never:ADV ask:VERB for:ADP .:PUNCT
+the:DET wooden:ADJ wall:NOUN echo:VERB his:PRON isolation:NOUN ,:PUNCT and:CCONJ he:PRON ':PUNCT s:VERB not:PART alone:ADJ —:PUNCT he:PRON ':PUNCT s:AUX be:AUX watch:VERB .:PUNCT
+jude:PROPN ,:PUNCT his:PRON eye:NOUN wide:ADJ with:ADP disbelief:NOUN ,:PUNCT lean:VERB against:ADP the:DET elevator:NOUN ':PUNCT s:PART edge:NOUN ,:PUNCT his:PRON hand:NOUN press:VERB to:ADP his:PRON temple:NOUN .:PUNCT
+he:PRON ':PUNCT s:AUX just:ADV hear:VERB the:DET news:NOUN that:SCONJ his:PRON brother:NOUN ,:PUNCT the:DET man:NOUN he:PRON think:VERB be:AUX untouchable:ADJ ,:PUNCT be:AUX the:DET one:NUM who:PRON ':PUNCT s:AUX be:AUX manipulate:VERB the:DET entire:ADJ system:NOUN .:PUNCT
+the:DET realization:NOUN hit:VERB he:PRON like:ADP a:DET physical:ADJ blow:NOUN .:PUNCT
+he:PRON ':PUNCT s:AUX be:AUX play:VERB the:DET part:NOUN of:ADP the:DET good:ADJ guy:NOUN ,:PUNCT but:CCONJ the:DET truth:NOUN be:AUX bury:VERB under:ADP layer:NOUN of:ADP lie:NOUN .:PUNCT
+matt:PROPN ,:PUNCT his:PRON face:NOUN a:DET picture:NOUN of:ADP concern:NOUN ,:PUNCT peer:VERB through:ADP the:DET sliver:NOUN of:ADP the:DET elevator:NOUN door:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART sure:ADJ what:PRON to:PART do:VERB .:PUNCT
+he:PRON know:VERB that:SCONJ philip:PROPN be:AUX the:DET one:NUM who:PRON ':PUNCT s:AUX be:AUX hide:VERB something:PRON ,:PUNCT and:CCONJ he:PRON ':PUNCT s:VERB worry:VERB that:SCONJ jude:PROPN might:AUX be:AUX too:ADV late:ADJ to:PART stop:VERB it:PRON .:PUNCT
+he:PRON ':PUNCT s:AUX be:AUX try:VERB to:PART get:VERB philip:PROPN to:PART talk:VERB ,:PUNCT but:CCONJ the:DET man:NOUN ':PUNCT s:PART silence:NOUN be:AUX deafen:VERB .:PUNCT
+the:DET elevator:NOUN door:VERB open:ADJ ,:PUNCT and:CCONJ the:DET two:NUM man:NOUN step:VERB out:ADP ,:PUNCT their:PRON face:NOUN a:DET mix:NOUN of:ADP relief:NOUN and:CCONJ dread:NOUN .:PUNCT
+they:PRON ':PUNCT re:ADP not:PART sure:ADJ what:PRON ':PUNCT s:AUX go:VERB to:PART happen:VERB next:ADV ,:PUNCT but:CCONJ they:PRON know:VERB that:SCONJ they:PRON have:VERB to:PART face:VERB the:DET consequence:NOUN .:PUNCT
+they:PRON ':PUNCT re:AUX not:PART go:VERB to:PART let:VERB anyone:PRON else:ADV take:VERB the:DET blame:NOUN for:ADP what:PRON ':PUNCT s:AUX happen:VERB .:PUNCT
+they:PRON stand:VERB in:ADP the:DET hallway:NOUN ,:PUNCT their:PRON shoulder:NOUN tense:ADJ with:ADP anticipation:NOUN .:PUNCT
+the:DET elevator:NOUN have:AUX be:AUX their:PRON sanctuary:NOUN ,:PUNCT but:CCONJ now:ADV it:PRON ':PUNCT s:VERB their:PRON prison:NOUN .:PUNCT
+they:PRON ':PUNCT re:AUX not:PART go:VERB to:PART let:VERB anyone:PRON else:ADV take:VERB the:DET blame:NOUN for:ADP what:PRON ':PUNCT s:AUX happen:VERB .:PUNCT
+they:PRON ':PUNCT re:AUX go:VERB to:PART face:VERB the:DET consequence:NOUN ,:PUNCT together:ADV .:PUNCT
+the:DET scene:NOUN open:VERB with:ADP cameron:PROPN ,:PUNCT her:PRON expression:NOUN a:DET mix:NOUN of:ADP concern:NOUN and:CCONJ vulnerability:NOUN ,:PUNCT hold:VERB a:DET set:NOUN of:ADP key:NOUN toward:ADP ben:PROPN .:PUNCT
+she:PRON stand:VERB on:ADP a:DET sunlit:ADJ street:NOUN ,:PUNCT her:PRON blonde:ADJ hair:NOUN catch:VERB the:DET light:NOUN ,:PUNCT as:SCONJ if:SCONJ she:PRON ’:AUX s:AUX offer:VERB something:PRON precious:ADJ yet:ADV fraught:ADJ with:ADP meaning:NOUN .:PUNCT
+ben:PROPN ,:PUNCT face:VERB she:PRON ,:PUNCT seem:VERB to:PART be:AUX in:ADP the:DET midst:NOUN of:ADP a:DET pivotal:ADJ moment:NOUN ,:PUNCT perhaps:ADV about:ADJ to:PART make:VERB a:DET decision:NOUN that:PRON will:AUX alter:VERB their:PRON life:NOUN .:PUNCT
+the:DET camera:NOUN then:ADV cut:VERB to:ADP ben:PROPN ,:PUNCT see:VERB from:ADP behind:ADV ,:PUNCT stand:VERB beside:ADP a:DET blue:ADJ car:NOUN .:PUNCT
+the:DET set:VERB shift:NOUN subtly:ADV to:ADP a:DET waterfront:NOUN parking:NOUN lot:NOUN ,:PUNCT with:ADP a:DET red:ADJ car:NOUN park:VERB nearby:ADV and:CCONJ palm:NOUN tree:NOUN frame:VERB the:DET horizon:NOUN .:PUNCT
+his:PRON posture:NOUN suggest:VERB he:PRON be:AUX lose:VERB in:ADP thought:NOUN ,:PUNCT perhaps:ADV regret:VERB or:CCONJ contemplate:VERB something:PRON significant:ADJ .:PUNCT
+he:PRON turn:VERB to:PART face:VERB the:DET camera:NOUN ,:PUNCT his:PRON expression:NOUN now:ADV one:NUM of:ADP quiet:ADJ intensity:NOUN .:PUNCT
+the:DET water:NOUN behind:ADP he:PRON reflect:VERB the:DET golden:ADJ hour:NOUN sky:NOUN ,:PUNCT and:CCONJ his:PRON simple:ADJ blue:ADJ shirt:NOUN underscore:VERB the:DET gravity:NOUN of:ADP the:DET moment:NOUN .:PUNCT
+he:PRON look:VERB like:ADP a:DET man:NOUN who:PRON ':PUNCT s:AUX just:ADV realize:VERB something:PRON crucial:ADJ —:PUNCT or:CCONJ perhaps:ADV someone:PRON he:PRON love:VERB have:AUX just:ADV leave:VERB he:PRON .:PUNCT
+a:DET close:ADJ -:PUNCT up:NOUN capture:NOUN ben:PROPN ':PUNCT s:PART face:NOUN as:SCONJ he:PRON turn:VERB to:ADP cameron:PROPN ,:PUNCT his:PRON eye:NOUN soften:VERB into:ADP a:DET smile:NOUN that:PRON carry:VERB both:DET warmth:NOUN and:CCONJ sorrow:NOUN .:PUNCT
+the:DET moment:NOUN be:AUX tender:ADJ ,:PUNCT almost:ADV intimate:ADJ ,:PUNCT as:SCONJ if:SCONJ they:PRON ':PUNCT re:AUX share:VERB a:DET secret:NOUN only:ADV they:PRON understand:VERB .:PUNCT
+the:DET final:ADJ shot:NOUN reveal:VERB they:PRON embrace:VERB on:ADP the:DET pier:NOUN ,:PUNCT back:VERB to:ADP the:DET camera:NOUN .:PUNCT
+the:DET water:NOUN stretch:VERB out:ADP before:ADP they:PRON ,:PUNCT and:CCONJ the:DET sky:NOUN above:ADV be:AUX paint:VERB with:ADP the:DET hue:NOUN of:ADP dusk:NOUN .:PUNCT
+their:PRON embrace:NOUN feel:VERB like:ADP a:DET silent:ADJ promise:NOUN —:PUNCT a:DET reconciliation:NOUN ,:PUNCT a:DET farewell:NOUN ,:PUNCT or:CCONJ perhaps:ADV a:DET beginning:NOUN .:PUNCT
+the:DET rope:NOUN barrier:NOUN behind:ADP they:PRON ,:PUNCT and:CCONJ the:DET distant:ADJ city:NOUN skyline:NOUN ,:PUNCT frame:VERB their:PRON moment:NOUN of:ADP connection:NOUN .:PUNCT
+cameron:PROPN stand:VERB alone:ADJ ,:PUNCT her:PRON posture:NOUN relax:VERB yet:ADV thoughtful:ADJ ,:PUNCT wear:VERB a:DET light:ADJ blue:ADJ jacket:NOUN and:CCONJ dark:ADJ short:NOUN .:PUNCT
+she:PRON seem:VERB to:PART be:AUX reflect:VERB on:ADP what:PRON just:ADV happen:VERB ,:PUNCT perhaps:ADV smile:VERB to:ADP herself:PRON or:CCONJ quietly:ADV mourn:VERB .:PUNCT
+ben:PROPN ,:PUNCT in:ADP his:PRON simple:ADJ blue:ADJ shirt:NOUN ,:PUNCT stand:VERB near:ADP the:DET red:ADJ car:NOUN ,:PUNCT his:PRON gaze:NOUN fix:VERB forward:ADV ,:PUNCT as:SCONJ if:SCONJ he:PRON ':PUNCT s:AUX already:ADV move:VERB on:ADP ,:PUNCT or:CCONJ perhaps:ADV wait:VERB for:ADP something:PRON more:ADJ .:PUNCT
+lin:PROPN ,:PUNCT in:ADP a:DET teal:ADJ dress:NOUN ,:PUNCT stand:VERB on:ADP a:DET balcony:NOUN ,:PUNCT her:PRON back:ADV to:ADP the:DET camera:NOUN ,:PUNCT gaze:VERB out:ADP at:ADP the:DET scene:NOUN below:ADV .:PUNCT
+she:PRON appear:VERB to:PART be:AUX observe:VERB the:DET couple:NOUN ':PUNCT s:PART moment:NOUN —:PUNCT perhaps:ADV a:DET silent:ADJ witness:NOUN to:ADP their:PRON love:NOUN ,:PUNCT or:CCONJ the:DET end:NOUN of:ADP it:PRON .:PUNCT
+the:DET scene:NOUN open:VERB in:ADP a:DET grand:ADJ ,:PUNCT dimly:ADV light:VERB hallway:NOUN ,:PUNCT where:SCONJ a:DET man:NOUN in:ADP a:DET dark:ADJ coat:NOUN stand:VERB before:ADP a:DET heavy:ADJ wooden:ADJ door:NOUN .:PUNCT
+he:PRON look:VERB startled:ADJ ,:PUNCT as:SCONJ if:SCONJ he:PRON ':PUNCT s:AUX just:ADV be:AUX interrupt:VERB .:PUNCT
+the:DET atmosphere:NOUN be:AUX tense:ADJ ,:PUNCT yet:CCONJ oddly:ADV charming:ADJ ,:PUNCT like:ADP a:DET moment:NOUN catch:VERB in:ADP the:DET quiet:ADJ before:ADP a:DET storm:NOUN .:PUNCT
+he:PRON turn:VERB ,:PUNCT his:PRON expression:NOUN shift:VERB from:ADP surprise:NOUN to:ADP something:PRON more:ADV curious:ADJ ,:PUNCT as:SCONJ he:PRON begin:VERB to:PART move:VERB .:PUNCT
+the:DET hallway:NOUN ,:PUNCT with:ADP its:PRON checkered:ADJ floor:NOUN and:CCONJ ornate:ADJ fixture:NOUN ,:PUNCT feel:VERB like:ADP a:DET stage:NOUN set:VERB for:ADP something:PRON extraordinary:ADJ .:PUNCT
+suddenly:ADV ,:PUNCT a:DET small:ADJ ,:PUNCT scruffy:ADJ dog:NOUN appear:VERB ,:PUNCT its:PRON eye:NOUN wide:ADJ and:CCONJ alert:ADJ .:PUNCT
+the:DET man:NOUN ':PUNCT s:PART attention:NOUN be:AUX immediately:ADV draw:VERB to:ADP it:PRON ,:PUNCT and:CCONJ he:PRON bend:VERB down:ADP ,:PUNCT his:PRON posture:NOUN shift:VERB from:ADP rigid:ADJ to:ADP curious:ADJ .:PUNCT
+the:DET dog:NOUN seem:VERB to:PART be:AUX the:DET center:NOUN of:ADP his:PRON newfound:ADJ focus:NOUN .:PUNCT
+he:PRON reach:VERB out:ADP ,:PUNCT gently:ADV lift:VERB the:DET dog:NOUN into:ADP the:DET air:NOUN ,:PUNCT his:PRON expression:NOUN now:ADV a:DET mix:NOUN of:ADP amusement:NOUN and:CCONJ affection:NOUN .:PUNCT
+the:DET dog:NOUN ,:PUNCT though:SCONJ small:ADJ ,:PUNCT seem:VERB to:PART be:AUX enjoy:VERB the:DET attention:NOUN ,:PUNCT its:PRON body:NOUN relax:VERB in:ADP his:PRON grasp:NOUN .:PUNCT
+the:DET man:NOUN ':PUNCT s:PART gaze:NOUN follow:VERB the:DET dog:NOUN ':PUNCT s:PART movement:NOUN ,:PUNCT his:PRON face:NOUN a:DET picture:NOUN of:ADP gentle:ADJ delight:NOUN .:PUNCT
+the:DET hallway:NOUN ,:PUNCT once:ADV still:ADV ,:PUNCT now:ADV feel:VERB alive:ADJ with:ADP the:DET quiet:ADJ energy:NOUN of:ADP this:DET unexpected:ADJ interaction:NOUN .:PUNCT
+the:DET man:NOUN stand:VERB ,:PUNCT the:DET dog:NOUN still:ADV hold:VERB aloft:ADV ,:PUNCT and:CCONJ the:DET scene:NOUN fade:VERB into:ADP a:DET moment:NOUN of:ADP pure:ADJ ,:PUNCT unscripted:ADJ joy:NOUN .:PUNCT
+the:DET hallway:NOUN ,:PUNCT once:ADV a:DET backdrop:NOUN of:ADP mystery:NOUN ,:PUNCT now:ADV feel:VERB like:ADP a:DET stage:NOUN for:ADP a:DET heartwarming:NOUN encounter:NOUN .:PUNCT
+the:DET tension:NOUN in:ADP the:DET bathroom:NOUN crackle:VERB like:ADP static:ADJ electricity:NOUN as:ADP mark:PROPN ,:PUNCT his:PRON eye:NOUN close:VERB and:CCONJ muscle:VERB taut:NOUN ,:PUNCT grip:VERB the:DET edge:NOUN of:ADP the:DET sink:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART just:ADV angry:ADJ —:PUNCT he:PRON ':PUNCT s:VERB furious:ADJ .:PUNCT
+the:DET confrontation:NOUN be:AUX personal:ADJ ,:PUNCT raw:ADJ ,:PUNCT and:CCONJ escalating:NOUN .:PUNCT
+the:DET flickering:NOUN light:NOUN above:ADP cast:VERB long:ADJ shadow:NOUN ,:PUNCT emphasize:VERB the:DET gravity:NOUN of:ADP the:DET moment:NOUN .:PUNCT
+philip:PROPN ,:PUNCT his:PRON face:NOUN contort:VERB with:ADP rage:NOUN ,:PUNCT lean:VERB in:ADV ,:PUNCT his:PRON hand:NOUN grip:VERB mark:PROPN ':PUNCT s:PART hair:NOUN with:ADP brutal:ADJ force:NOUN .:PUNCT
+the:DET sheer:ADJ intensity:NOUN of:ADP his:PRON expression:NOUN suggest:VERB a:DET man:NOUN who:PRON have:AUX reach:VERB his:PRON breaking:NOUN point:NOUN .:PUNCT
+the:DET scene:NOUN be:AUX intimate:ADJ ,:PUNCT claustrophobic:ADJ ,:PUNCT and:CCONJ emotionally:ADV charge:VERB .:PUNCT
+the:DET violence:NOUN erupt:VERB as:SCONJ mark:PROPN throw:VERB himself:PRON backward:ADV ,:PUNCT his:PRON body:NOUN slam:VERB against:ADP the:DET wall:NOUN .:PUNCT
+water:NOUN spray:NOUN from:ADP the:DET faucet:NOUN like:ADP a:DET weapon:NOUN ,:PUNCT drench:VERB the:DET space:NOUN and:CCONJ symbolize:VERB the:DET chaos:NOUN that:SCONJ ':PUNCT s:AUX be:AUX unleash:VERB .:PUNCT
+the:DET moment:NOUN be:AUX freeze:VERB in:ADP time:NOUN ,:PUNCT a:DET visceral:ADJ display:NOUN of:ADP raw:ADJ emotion:NOUN and:CCONJ physical:ADJ confrontation:NOUN .:PUNCT
+the:DET aftermath:NOUN be:AUX quiet:ADJ ,:PUNCT break:VERB only:ADV by:ADP the:DET sound:NOUN of:ADP water:NOUN dripping:ADJ .:PUNCT
+philip:PROPN ,:PUNCT now:ADV seat:VERB on:ADP the:DET floor:NOUN ,:PUNCT look:VERB up:ADP with:ADP a:DET look:NOUN of:ADP despair:NOUN ,:PUNCT his:PRON face:NOUN smear:VERB with:ADP grime:NOUN and:CCONJ exhaustion:NOUN .:PUNCT
+the:DET pink:ADJ toilet:NOUN ,:PUNCT once:ADV a:DET symbol:NOUN of:ADP domesticity:NOUN ,:PUNCT now:ADV stand:VERB as:ADP a:DET silent:ADJ witness:NOUN to:ADP the:DET storm:NOUN that:PRON just:ADV pass:VERB .:PUNCT
+mark:PROPN ,:PUNCT now:ADV stand:VERB ,:PUNCT his:PRON posture:NOUN rigid:ADJ and:CCONJ defiant:ADJ ,:PUNCT stare:NOUN down:ADP at:ADP the:DET floor:NOUN .:PUNCT
+his:PRON eye:NOUN be:AUX narrow:VERB ,:PUNCT his:PRON jaw:NOUN clench:VERB .:PUNCT
+he:PRON ':PUNCT s:AUX not:PART do:VERB .:PUNCT
+the:DET anger:NOUN hasn:NOUN ':PUNCT t:NOUN dissipate:VERB —:PUNCT it:PRON ':PUNCT s:AUX simmer:VERB beneath:ADP the:DET surface:NOUN ,:PUNCT wait:VERB for:ADP the:DET next:ADJ move:NOUN .:PUNCT
+the:DET final:ADJ shot:NOUN be:AUX a:DET close:NOUN -:PUNCT up:NOUN of:ADP mark:PROPN ':PUNCT s:PART face:NOUN ,:PUNCT his:PRON expression:NOUN unreadable:ADJ ,:PUNCT his:PRON eye:NOUN reflect:VERB the:DET dim:ADJ light:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB alone:ADJ now:ADV ,:PUNCT the:DET bathroom:NOUN quiet:ADJ ,:PUNCT the:DET tension:NOUN still:ADV hang:VERB in:ADP the:DET air:NOUN .:PUNCT
+the:DET scene:NOUN end:VERB not:PART with:ADP a:DET bang:NOUN ,:PUNCT but:CCONJ with:ADP a:DET whisper:NOUN —:PUNCT a:DET promise:NOUN of:ADP what:PRON ':PUNCT s:VERB to:PART come:VERB .:PUNCT
+the:DET tension:NOUN crackle:VERB in:ADP the:DET dimly:ADV light:VERB room:NOUN as:SCONJ stephen:PROPN stand:VERB tall:ADJ ,:PUNCT fist:NOUN clench:VERB ,:PUNCT his:PRON gaze:NOUN lock:VERB on:ADP the:DET man:NOUN seat:VERB before:ADP he:PRON .:PUNCT
+behind:ADP he:PRON ,:PUNCT the:DET frosted:ADJ glass:NOUN window:NOUN cast:VERB fractured:ADJ light:NOUN ,:PUNCT highlight:VERB the:DET gravity:NOUN of:ADP the:DET moment:NOUN .:PUNCT
+he:PRON ':PUNCT s:AUX not:PART just:ADV confront:VERB ;:PUNCT he:PRON ':PUNCT s:AUX prepare:VERB to:PART break:VERB something:PRON —:PUNCT or:CCONJ someone:PRON —:PUNCT with:ADP the:DET quiet:ADJ menace:NOUN of:ADP his:PRON stance:NOUN .:PUNCT
+he:PRON turn:VERB slightly:ADV ,:PUNCT his:PRON expression:NOUN shift:VERB from:ADP fury:NOUN to:ADP something:PRON cold:ADJ ,:PUNCT more:ADV calculate:VERB .:PUNCT
+the:DET room:NOUN feel:VERB like:ADP a:DET cage:NOUN ,:PUNCT and:CCONJ he:PRON ':PUNCT s:VERB the:DET warden:NOUN .:PUNCT
+his:PRON eye:NOUN dart:VERB ,:PUNCT scan:VERB for:ADP weakness:NOUN ,:PUNCT for:ADP an:DET opening:NOUN .:PUNCT
+the:DET man:NOUN seat:VERB doesn:PROPN ':PUNCT t:NOUN flinch:NOUN ,:PUNCT but:CCONJ his:PRON posture:NOUN suggest:VERB he:PRON ':PUNCT s:AUX brace:VERB for:ADP impact:NOUN —:PUNCT or:CCONJ bad:ADJ ,:PUNCT for:ADP betrayal:NOUN .:PUNCT
+the:DET camera:NOUN cut:VERB to:ADP a:DET close:NOUN -:PUNCT up:NOUN of:ADP the:DET seated:ADJ man:NOUN ':PUNCT s:PART face:NOUN —:PUNCT his:PRON eye:NOUN wide:ADJ ,:PUNCT his:PRON mouth:NOUN slightly:ADV open:ADJ ,:PUNCT as:SCONJ if:SCONJ he:PRON ':PUNCT s:AUX just:ADV be:AUX tell:VERB something:PRON he:PRON can:AUX ':PUNCT t:NOUN unhear:VERB .:PUNCT
+the:DET man:NOUN ':PUNCT s:PART face:NOUN be:AUX a:DET mask:NOUN of:ADP shock:NOUN and:CCONJ dread:NOUN ,:PUNCT and:CCONJ the:DET light:NOUN from:ADP the:DET window:NOUN catch:VERB the:DET tremor:NOUN in:ADP his:PRON jaw:NOUN .:PUNCT
+stephen:PROPN ':PUNCT s:PART voice:NOUN be:AUX low:ADJ ,:PUNCT almost:ADV a:DET whisper:NOUN ,:PUNCT as:SCONJ he:PRON speak:VERB .:PUNCT
+he:PRON ':PUNCT s:AUX not:PART shout:VERB .:PUNCT
+he:PRON ':PUNCT s:AUX command:VERB .:PUNCT
+the:DET man:NOUN ':PUNCT s:PART eye:NOUN dart:VERB to:ADP the:DET wall:NOUN ,:PUNCT where:SCONJ a:DET crude:ADJ drawing:NOUN of:ADP a:DET skull:NOUN and:CCONJ crossbone:NOUN be:AUX scrawl:VERB in:ADP pencil:NOUN —:PUNCT a:DET symbol:NOUN of:ADP defiance:NOUN ,:PUNCT or:CCONJ perhaps:ADV of:ADP surrender:NOUN .:PUNCT
+the:DET camera:NOUN pan:NOUN to:ADP the:DET man:NOUN in:ADP the:DET red:ADJ shirt:NOUN ,:PUNCT his:PRON back:NOUN to:ADP the:DET camera:NOUN ,:PUNCT his:PRON head:NOUN bow:VERB .:PUNCT
+he:PRON ':PUNCT s:AUX not:PART look:VERB at:ADP stephen:PROPN .:PUNCT
+he:PRON ':PUNCT s:AUX look:VERB at:ADP the:DET floor:NOUN ,:PUNCT at:ADP the:DET floorboard:NOUN ,:PUNCT at:ADP the:DET crack:NOUN in:ADP the:DET paint:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART ready:ADJ to:PART fight:VERB .:PUNCT
+he:PRON ':PUNCT s:VERB ready:ADJ to:PART run:VERB .:PUNCT
+stephen:PROPN turn:VERB his:PRON head:NOUN slowly:ADV ,:PUNCT his:PRON eye:NOUN narrow:VERB ,:PUNCT as:SCONJ if:SCONJ he:PRON ':PUNCT s:AUX see:VERB the:DET man:NOUN for:ADP the:DET first:ADJ time:NOUN —:PUNCT or:CCONJ for:ADP the:DET last:ADJ time:NOUN .:PUNCT
+the:DET room:NOUN be:AUX silent:ADJ ,:PUNCT except:SCONJ for:ADP the:DET ticking:NOUN of:ADP the:DET clock:NOUN ,:PUNCT and:CCONJ the:DET man:NOUN in:ADP the:DET red:ADJ shirt:NOUN be:AUX still:ADV ,:PUNCT still:ADV ,:PUNCT still:ADV .:PUNCT
+the:DET man:NOUN in:ADP the:DET red:ADJ shirt:NOUN lift:VERB his:PRON head:NOUN ,:PUNCT and:CCONJ for:ADP a:DET moment:NOUN ,:PUNCT the:DET room:NOUN be:AUX still:ADV ,:PUNCT and:CCONJ then:ADV —:PUNCT it:PRON ':PUNCT s:AUX go:VERB .:PUNCT
+the:DET man:NOUN in:ADP the:DET red:ADJ shirt:NOUN be:AUX go:VERB .:PUNCT
+the:DET room:NOUN be:AUX empty:ADJ .:PUNCT
+and:CCONJ stephen:PROPN be:AUX alone:ADJ ,:PUNCT stand:VERB in:ADP the:DET middle:NOUN of:ADP the:DET room:NOUN ,:PUNCT his:PRON fist:NOUN still:ADV clench:VERB ,:PUNCT his:PRON eye:NOUN still:ADV lock:VERB on:ADP the:DET empty:ADJ space:NOUN where:SCONJ the:DET man:NOUN once:ADV sit:VERB .:PUNCT
+the:DET carriage:NOUN ,:PUNCT pull:VERB by:ADP two:NUM dark:ADJ horse:NOUN ,:PUNCT glide:NOUN along:ADP the:DET gravel:NOUN path:NOUN before:ADP the:DET grand:ADJ stone:NOUN manor:NOUN ,:PUNCT its:PRON ivy:NOUN -:PUNCT clothe:VERB facade:NOUN a:DET testament:NOUN to:ADP timeless:ADJ elegance:NOUN .:PUNCT
+inside:ADV ,:PUNCT emma:PROPN sit:VERB with:ADP quiet:ADJ grace:NOUN ,:PUNCT her:PRON gaze:NOUN fix:VERB ahead:ADV ,:PUNCT while:SCONJ kate:PROPN ,:PUNCT beside:ADP she:PRON ,:PUNCT appear:VERB thoughtful:ADJ ,:PUNCT her:PRON hand:NOUN rest:VERB near:ADP her:PRON chin:NOUN .:PUNCT
+the:DET air:NOUN be:AUX thick:ADJ with:ADP anticipation:NOUN as:SCONJ they:PRON approach:VERB the:DET estate:NOUN ':PUNCT s:PART entrance:NOUN ,:PUNCT where:SCONJ the:DET driver:NOUN and:CCONJ a:DET footman:NOUN stand:VERB ready:ADJ .:PUNCT
+the:DET carriage:NOUN move:VERB through:ADP the:DET dense:ADJ ,:PUNCT shadow:VERB wood:NOUN ,:PUNCT the:DET canopy:NOUN overhead:ADV filter:VERB the:DET light:NOUN into:ADP dapple:VERB pattern:NOUN on:ADP the:DET dirt:NOUN road:NOUN .:PUNCT
+emma:PROPN and:CCONJ kate:PROPN be:AUX visible:ADJ from:ADP behind:ADV ,:PUNCT their:PRON figure:NOUN small:ADJ against:ADP the:DET tower:VERB tree:NOUN ,:PUNCT suggest:VERB a:DET journey:NOUN into:ADP the:DET unknown:ADJ .:PUNCT
+the:DET carriage:NOUN driver:NOUN ,:PUNCT mount:VERB on:ADP horseback:NOUN ,:PUNCT follow:VERB closely:ADV ,:PUNCT his:PRON silhouette:NOUN a:DET quiet:ADJ sentinel:NOUN against:ADP the:DET green:NOUN .:PUNCT
+inside:ADP the:DET carriage:NOUN ,:PUNCT emma:PROPN close:VERB her:PRON eye:NOUN ,:PUNCT perhaps:ADV in:ADP contemplation:NOUN or:CCONJ fatigue:NOUN ,:PUNCT while:SCONJ kate:PROPN watch:VERB the:DET pass:VERB scenery:NOUN with:ADP a:DET calm:ADJ ,:PUNCT observant:ADJ expression:NOUN .:PUNCT
+their:PRON clothing:NOUN ,:PUNCT modest:ADJ yet:ADV refined:ADJ ,:PUNCT speak:VERB of:ADP a:DET world:NOUN govern:VERB by:ADP propriety:NOUN and:CCONJ quiet:ADJ dignity:NOUN .:PUNCT
+the:DET carriage:NOUN now:ADV traverse:VERB open:ADJ field:NOUN under:ADP a:DET brood:VERB ,:PUNCT storm:NOUN -:PUNCT laden:ADJ sky:NOUN .:PUNCT
+a:DET rider:NOUN on:ADP horseback:NOUN ,:PUNCT perhaps:ADV a:DET guard:NOUN or:CCONJ messenger:NOUN ,:PUNCT follow:VERB behind:ADV ,:PUNCT his:PRON presence:NOUN add:VERB a:DET sense:NOUN of:ADP urgency:NOUN to:ADP the:DET journey:NOUN .:PUNCT
+the:DET landscape:NOUN stretch:VERB out:ADP ,:PUNCT wild:ADJ and:CCONJ untamed:ADJ ,:PUNCT contrast:VERB with:ADP the:DET structured:ADJ elegance:NOUN of:ADP the:DET manor:NOUN ahead:ADV .:PUNCT
+the:DET grand:ADJ manor:NOUN loom:VERB in:ADP the:DET distance:NOUN ,:PUNCT its:PRON impose:VERB silhouette:NOUN frame:VERB by:ADP perfectly:ADV trim:VERB hedge:NOUN and:CCONJ a:DET long:ADJ ,:PUNCT wind:VERB path:NOUN .:PUNCT
+the:DET carriage:NOUN approach:VERB ,:PUNCT its:PRON wheel:NOUN crunch:VERB softly:ADV on:ADP the:DET gravel:NOUN ,:PUNCT as:SCONJ if:SCONJ the:DET very:ADJ earth:NOUN be:AUX hold:VERB its:PRON breath:NOUN in:ADP anticipation:NOUN of:ADP what:PRON lie:VERB within:ADV .:PUNCT
+at:ADP the:DET manor:NOUN ':PUNCT s:PART entrance:NOUN ,:PUNCT emma:PROPN and:CCONJ kate:PROPN pause:NOUN .:PUNCT
+emma:PROPN ,:PUNCT in:ADP her:PRON brown:ADJ coat:NOUN and:CCONJ hat:NOUN ,:PUNCT turn:VERB to:PART speak:VERB with:ADP a:DET man:NOUN in:ADP a:DET dark:ADJ coat:NOUN ,:PUNCT his:PRON expression:NOUN serious:ADJ .:PUNCT
+kate:PROPN stand:VERB nearby:ADV ,:PUNCT watch:VERB the:DET exchange:NOUN with:ADP quiet:ADJ interest:NOUN ,:PUNCT her:PRON posture:NOUN relax:VERB but:CCONJ attentive:ADJ .:PUNCT
+emma:PROPN stand:VERB alone:ADJ in:ADP the:DET courtyard:NOUN ,:PUNCT her:PRON coat:NOUN and:CCONJ hat:NOUN slightly:ADV askew:ADV ,:PUNCT her:PRON gaze:NOUN fix:VERB on:ADP something:PRON beyond:ADP the:DET frame:NOUN .:PUNCT
+behind:ADP she:PRON ,:PUNCT the:DET carriage:NOUN ':PUNCT s:PART horse:NOUN stand:VERB still:ADV ,:PUNCT their:PRON dark:ADJ form:NOUN a:DET quiet:ADJ contrast:NOUN to:ADP the:DET greenery:NOUN around:ADP they:PRON .:PUNCT
+the:DET air:NOUN be:AUX still:ADV ,:PUNCT heavy:ADJ with:ADP the:DET weight:NOUN of:ADP unspoken:ADJ word:NOUN .:PUNCT
+kate:PROPN turn:VERB she:PRON back:ADV to:ADP the:DET viewer:NOUN ,:PUNCT her:PRON curly:ADJ hair:NOUN catch:VERB the:DET light:NOUN as:SCONJ she:PRON walk:VERB through:ADP the:DET manicure:VERB garden:NOUN .:PUNCT
+the:DET neatly:ADV trim:VERB hedge:NOUN line:VERB the:DET path:NOUN behind:ADP she:PRON ,:PUNCT their:PRON symmetry:NOUN a:DET silent:ADJ witness:NOUN to:ADP the:DET unfold:VERB drama:NOUN .:PUNCT
+emma:PROPN ':PUNCT s:VERB back:NOUN be:AUX turn:VERB to:ADP the:DET camera:NOUN as:SCONJ she:PRON walk:VERB ,:PUNCT her:PRON green:ADJ shawl:NOUN drape:VERB over:ADP her:PRON shoulder:NOUN .:PUNCT
+her:PRON movement:NOUN be:AUX deliberate:ADJ ,:PUNCT her:PRON step:NOUN measure:VERB ,:PUNCT as:SCONJ if:SCONJ she:PRON be:AUX follow:VERB a:DET path:NOUN she:PRON have:AUX walk:VERB many:ADJ time:NOUN before:ADV ,:PUNCT yet:CCONJ each:DET step:NOUN carry:VERB a:DET new:ADJ meaning:NOUN .:PUNCT
+the:DET scene:NOUN open:VERB with:ADP jonny:PROPN ,:PUNCT a:DET young:ADJ man:NOUN with:ADP tousled:ADJ blonde:ADJ hair:NOUN ,:PUNCT catch:VERB in:ADP a:DET moment:NOUN of:ADP quiet:ADJ intensity:NOUN .:PUNCT
+his:PRON eye:NOUN be:AUX closed:ADJ ,:PUNCT lip:NOUN part:VERB as:SCONJ if:SCONJ he:PRON ':PUNCT s:AUX about:ADJ to:PART speak:VERB or:CCONJ have:AUX just:ADV finish:VERB a:DET confession:NOUN .:PUNCT
+he:PRON wear:VERB a:DET red:ADJ shirt:NOUN under:ADP a:DET black:ADJ leather:NOUN jacket:NOUN ,:PUNCT the:DET sunlight:NOUN from:ADP a:DET window:NOUN behind:ADP he:PRON cast:VERB a:DET warm:ADJ glow:NOUN on:ADP his:PRON face:NOUN .:PUNCT
+the:DET setting:NOUN feel:VERB intimate:ADJ ,:PUNCT almost:ADV like:ADP a:DET private:ADJ room:NOUN in:ADP a:DET dimly:ADV light:VERB apartment:NOUN .:PUNCT
+the:DET camera:NOUN then:ADV cut:VERB to:ADP fisher:PROPN ,:PUNCT a:DET man:NOUN in:ADP a:DET sharp:ADJ black:ADJ suit:NOUN and:CCONJ glass:NOUN ,:PUNCT stand:VERB in:ADP front:NOUN of:ADP a:DET large:ADJ nirvana:PROPN poster:NOUN .:PUNCT
+his:PRON expression:NOUN be:AUX serious:ADJ ,:PUNCT perhaps:ADV even:ADV a:DET bit:NOUN weary:ADJ ,:PUNCT as:SCONJ he:PRON look:VERB off:ADP into:ADP the:DET distance:NOUN .:PUNCT
+the:DET room:NOUN around:ADP he:PRON be:AUX cluttered:ADJ with:ADP poster:NOUN and:CCONJ memorabilia:NOUN ,:PUNCT suggest:VERB a:DET space:NOUN that:PRON ':PUNCT s:AUX live:VERB in:ADP and:CCONJ love:VERB .:PUNCT
+he:PRON ':PUNCT s:VERB the:DET kind:NOUN of:ADP man:NOUN who:PRON carry:VERB his:PRON thought:NOUN like:ADP a:DET weight:NOUN ,:PUNCT but:CCONJ his:PRON presence:NOUN be:AUX undeniable:ADJ .:PUNCT
+the:DET mood:NOUN shift:NOUN as:SCONJ we:PRON see:VERB fisher:PROPN again:ADV ,:PUNCT now:ADV with:ADP a:DET more:ADV intense:ADJ look:NOUN on:ADP his:PRON face:NOUN .:PUNCT
+his:PRON eye:NOUN be:AUX wide:ADJ ,:PUNCT his:PRON mouth:NOUN slightly:ADV open:ADJ as:SCONJ if:SCONJ he:PRON ':PUNCT s:AUX about:ADJ to:PART say:VERB something:PRON important:ADJ .:PUNCT
+the:DET lighting:NOUN be:AUX dimmer:NOUN here:ADV ,:PUNCT and:CCONJ the:DET background:NOUN be:AUX dark:ADJ ,:PUNCT make:VERB his:PRON expression:NOUN more:ADV dramatic:ADJ .:PUNCT
+he:PRON seem:VERB to:PART be:AUX in:ADP the:DET middle:NOUN of:ADP a:DET conversation:NOUN ,:PUNCT perhaps:ADV one:NUM that:PRON ':PUNCT s:AUX turn:VERB emotional:ADJ .:PUNCT
+jonny:PROPN be:AUX now:ADV face:VERB fisher:PROPN ,:PUNCT and:CCONJ their:PRON eye:NOUN lock:VERB .:PUNCT
+the:DET tension:NOUN between:ADP they:PRON be:AUX palpable:ADJ .:PUNCT
+jonny:PROPN ':PUNCT s:PART expression:NOUN be:AUX one:NUM of:ADP concern:NOUN ,:PUNCT perhaps:ADV even:ADV fear:VERB .:PUNCT
+he:PRON ':PUNCT s:AUX listen:VERB intently:ADV ,:PUNCT his:PRON body:NOUN slightly:ADV lean:VERB forward:ADV .:PUNCT
+the:DET room:NOUN be:AUX still:ADV dim:ADJ ,:PUNCT but:CCONJ the:DET focus:NOUN be:AUX now:ADV on:ADP their:PRON interaction:NOUN ,:PUNCT the:DET weight:NOUN of:ADP the:DET moment:NOUN hang:VERB in:ADP the:DET air:NOUN .:PUNCT
+fisher:PROPN ':PUNCT s:PART expression:NOUN soften:VERB slightly:ADV ,:PUNCT but:CCONJ his:PRON eye:NOUN remain:VERB intense:ADJ .:PUNCT
+he:PRON ':PUNCT s:VERB still:ADV in:ADP the:DET same:ADJ spot:NOUN ,:PUNCT the:DET nirvana:PROPN poster:NOUN behind:ADP he:PRON ,:PUNCT but:CCONJ now:ADV he:PRON seem:VERB to:PART be:AUX speak:VERB ,:PUNCT his:PRON mouth:NOUN open:ADJ as:SCONJ if:SCONJ he:PRON ':PUNCT s:AUX explain:VERB something:PRON .:PUNCT
+the:DET room:NOUN be:AUX quiet:ADJ ,:PUNCT the:DET only:ADJ sound:NOUN be:AUX their:PRON breathing:NOUN ,:PUNCT and:CCONJ the:DET weight:NOUN of:ADP the:DET conversation:NOUN be:AUX almost:ADV tangible:ADJ .:PUNCT
+jonny:PROPN ':PUNCT s:PART face:NOUN be:AUX now:ADV turn:VERB away:ADV ,:PUNCT but:CCONJ his:PRON posture:NOUN suggest:VERB he:PRON ':PUNCT s:AUX still:ADV listen:VERB .:PUNCT
+the:DET light:NOUN from:ADP the:DET window:NOUN be:AUX still:ADV cast:VERB a:DET warm:ADJ glow:NOUN on:ADP his:PRON face:NOUN ,:PUNCT but:CCONJ now:ADV it:PRON ':PUNCT s:VERB more:ADV subdued:ADJ ,:PUNCT as:SCONJ if:SCONJ the:DET moment:NOUN have:AUX become:VERB more:ADV serious:ADJ .:PUNCT
+the:DET room:NOUN be:AUX still:ADV quiet:ADJ ,:PUNCT and:CCONJ the:DET tension:NOUN between:ADP they:PRON be:AUX still:ADV palpable:ADJ ,:PUNCT but:CCONJ now:ADV it:PRON ':PUNCT s:VERB a:DET different:ADJ kind:NOUN of:ADP tension:NOUN ,:PUNCT one:NUM that:PRON ':PUNCT s:VERB almost:ADV emotional:ADJ .:PUNCT
+the:DET scene:NOUN open:VERB with:ADP a:DET red:ADJ lamborghini:PROPN ,:PUNCT its:PRON door:NOUN wide:ADV open:ADJ ,:PUNCT as:SCONJ jim:PROPN ,:PUNCT in:ADP a:DET blue:ADJ jumpsuit:NOUN and:CCONJ red:ADJ glove:NOUN ,:PUNCT leap:VERB from:ADP the:DET driver:NOUN ':PUNCT s:PART seat:NOUN with:ADP arm:NOUN raise:VERB in:ADP triumph:NOUN .:PUNCT
+behind:ADP he:PRON ,:PUNCT a:DET group:NOUN of:ADP uniformed:ADJ man:NOUN stand:VERB near:ADP the:DET grand:ADJ entrance:NOUN of:ADP a:DET snow:NOUN -:PUNCT dust:VERB mansion:NOUN ,:PUNCT their:PRON expression:NOUN a:DET mix:NOUN of:ADP awe:NOUN and:CCONJ confusion:NOUN .:PUNCT
+the:DET car:NOUN ':PUNCT s:PART interior:NOUN be:AUX litter:VERB with:ADP debris:NOUN ,:PUNCT suggest:VERB a:DET chaotic:ADJ ,:PUNCT high:ADJ -:PUNCT stake:NOUN moment:NOUN .:PUNCT
+jim:PROPN ,:PUNCT still:ADV in:ADP his:PRON jumpsuit:NOUN ,:PUNCT now:ADV hold:VERB a:DET wad:NOUN of:ADP cash:NOUN ,:PUNCT his:PRON face:NOUN light:VERB with:ADP glee:NOUN as:SCONJ he:PRON gesture:VERB triumphantly:ADV .:PUNCT
+beside:ADP he:PRON ,:PUNCT jeff:PROPN ,:PUNCT clothe:VERB in:ADP a:DET golden:ADJ jacket:NOUN and:CCONJ sunglass:NOUN ,:PUNCT smile:VERB broadly:ADV ,:PUNCT clearly:ADV enjoy:VERB the:DET spectacle:NOUN .:PUNCT
+their:PRON camaraderie:NOUN be:AUX palpable:ADJ ,:PUNCT as:SCONJ if:SCONJ they:PRON ’:AUX ve:AUX just:ADV pull:VERB off:ADP a:DET heist:NOUN that:SCONJ ':PUNCT s:VERB far:ADV more:ADV entertaining:ADJ than:SCONJ it:PRON be:AUX dangerous:ADJ .:PUNCT
+the:DET camera:NOUN pan:NOUN to:ADP the:DET mansion:NOUN ':PUNCT s:PART grand:ADJ staircase:NOUN ,:PUNCT where:SCONJ the:DET two:NUM man:NOUN be:AUX now:ADV see:VERB descend:VERB ,:PUNCT their:PRON laughter:NOUN echo:VERB off:ADP the:DET marble:NOUN .:PUNCT
+jim:PROPN ':PUNCT s:VERB fluffy:ADJ white:ADJ boot:NOUN contrast:VERB with:ADP the:DET snowy:ADJ ground:NOUN ,:PUNCT while:SCONJ jeff:PROPN ':PUNCT s:PART golden:ADJ jacket:NOUN catch:VERB the:DET light:NOUN .:PUNCT
+a:DET uniformed:ADJ man:NOUN stand:VERB at:ADP the:DET bottom:NOUN ,:PUNCT observe:VERB they:PRON with:ADP a:DET bemused:ADJ expression:NOUN ,:PUNCT while:SCONJ other:NOUN mill:VERB about:ADP ,:PUNCT some:DET carry:VERB bag:NOUN and:CCONJ other:NOUN just:ADV watch:VERB .:PUNCT
+inside:ADV ,:PUNCT the:DET scene:NOUN shift:NOUN to:ADP a:DET luxurious:ADJ bedroom:NOUN .:PUNCT
+jim:PROPN and:CCONJ jeff:PROPN be:AUX now:ADV lounge:VERB in:ADP match:VERB white:PROPN bathrobes:PROPN ,:PUNCT their:PRON foot:NOUN prop:VERB up:ADP on:ADP a:DET nightstand:NOUN .:PUNCT
+the:DET room:NOUN be:AUX elegantly:ADV appoint:VERB ,:PUNCT with:ADP ornate:ADJ curtain:NOUN and:CCONJ a:DET tray:NOUN of:ADP snack:NOUN between:ADP they:PRON .:PUNCT
+they:PRON appear:VERB utterly:ADV relaxed:ADJ ,:PUNCT as:SCONJ if:SCONJ they:PRON ’:AUX ve:AUX just:ADV escape:VERB a:DET world:NOUN of:ADP chaos:NOUN and:CCONJ be:AUX now:ADV enjoy:VERB the:DET fruit:NOUN of:ADP their:PRON labor:NOUN .:PUNCT
+jim:PROPN be:AUX now:ADV alone:ADJ ,:PUNCT seat:VERB on:ADP the:DET bed:NOUN ,:PUNCT his:PRON eye:NOUN close:VERB as:SCONJ he:PRON wipe:VERB his:PRON nose:NOUN with:ADP a:DET tissue:NOUN .:PUNCT
+his:PRON expression:NOUN be:AUX one:NUM of:ADP pure:ADJ contentment:NOUN ,:PUNCT as:SCONJ if:SCONJ he:PRON ':PUNCT s:AUX finally:ADV find:VERB peace:NOUN after:ADP a:DET wild:ADJ night:NOUN .:PUNCT
+jeff:PROPN ,:PUNCT though:SCONJ not:PART visible:ADJ ,:PUNCT be:AUX imply:VERB to:PART be:AUX nearby:ADV ,:PUNCT share:VERB in:ADP the:DET quiet:ADJ moment:NOUN of:ADP relaxation:NOUN .:PUNCT
+jim:PROPN ,:PUNCT once:ADV again:ADV in:ADP his:PRON blue:ADJ jumpsuit:NOUN ,:PUNCT stand:VERB atop:ADP the:DET red:ADJ lamborghini:PROPN ,:PUNCT arm:NOUN raise:VERB as:SCONJ if:SCONJ he:PRON ':PUNCT s:AUX about:ADJ to:PART celebrate:VERB another:DET triumph:NOUN .:PUNCT
+the:DET car:NOUN ':PUNCT s:PART door:NOUN be:AUX still:ADV open:ADJ ,:PUNCT and:CCONJ the:DET snow:NOUN continue:VERB to:PART fall:VERB ,:PUNCT add:VERB to:ADP the:DET sense:NOUN of:ADP drama:NOUN and:CCONJ excitement:NOUN .:PUNCT
+jeff:PROPN lounge:VERB on:ADP the:DET bed:NOUN ,:PUNCT his:PRON white:ADJ robe:NOUN slightly:ADV askew:ADV ,:PUNCT as:SCONJ he:PRON sip:VERB from:ADP a:DET glass:NOUN .:PUNCT
+his:PRON relaxed:ADJ posture:NOUN and:CCONJ contented:ADJ smile:NOUN suggest:VERB he:PRON ':PUNCT s:AUX thoroughly:ADV enjoy:VERB the:DET moment:NOUN ,:PUNCT the:DET result:NOUN of:ADP their:PRON share:VERB adventure:NOUN .:PUNCT
+the:DET room:NOUN be:AUX still:ADV ,:PUNCT the:DET only:ADJ movement:NOUN the:DET gentle:ADJ sway:NOUN of:ADP the:DET curtain:NOUN .:PUNCT
+the:DET night:NOUN be:AUX crisp:ADJ and:CCONJ still:ADV ,:PUNCT the:DET snow:NOUN crunch:VERB softly:ADV underfoot:VERB as:SCONJ jim:PROPN and:CCONJ jeff:PROPN gather:VERB around:ADP the:DET crackling:NOUN fire:NOUN .:PUNCT
+the:DET glow:NOUN of:ADP the:DET flame:NOUN dance:VERB across:ADP their:PRON face:NOUN as:SCONJ they:PRON stand:VERB by:ADP the:DET picnic:NOUN table:NOUN ,:PUNCT the:DET distant:ADJ light:NOUN of:ADP the:DET town:NOUN twinkle:VERB like:ADP star:NOUN against:ADP the:DET dark:NOUN .:PUNCT
+jim:PROPN ,:PUNCT ever:ADV the:DET stoic:ADJ one:NOUN ,:PUNCT have:VERB a:DET look:NOUN of:ADP quiet:ADJ determination:NOUN ,:PUNCT while:SCONJ jeff:PROPN seem:VERB more:ADV animate:VERB ,:PUNCT perhaps:ADV even:ADV a:DET little:ADJ restless:NOUN .:PUNCT
+the:DET tension:NOUN between:ADP they:PRON be:AUX palpable:ADJ .:PUNCT
+jeff:PROPN suddenly:ADV lunge:VERB forward:ADV ,:PUNCT grab:VERB jim:PROPN by:ADP the:DET shoulder:NOUN ,:PUNCT his:PRON eye:NOUN wide:ADJ with:ADP urgency:NOUN .:PUNCT
+jim:PROPN didn:NOUN ':PUNCT t:NOUN flinch:NOUN ;:PUNCT instead:ADV ,:PUNCT he:PRON lean:VERB back:ADV ,:PUNCT his:PRON expression:NOUN unreadable:ADJ .:PUNCT
+the:DET firelight:NOUN catch:VERB the:DET sweat:NOUN on:ADP jeff:PROPN ':PUNCT s:PART brow:NOUN ,:PUNCT highlight:VERB his:PRON desperation:NOUN .:PUNCT
+jeff:PROPN ':PUNCT s:PART grip:NOUN tighten:VERB ,:PUNCT and:CCONJ with:ADP a:DET sudden:ADJ ,:PUNCT forceful:ADJ motion:NOUN ,:PUNCT he:PRON throw:VERB jim:PROPN onto:ADP the:DET picnic:NOUN table:NOUN .:PUNCT
+jim:PROPN land:VERB with:ADP a:DET thud:NOUN ,:PUNCT his:PRON body:NOUN sprawl:VERB across:ADP the:DET wooden:ADJ surface:NOUN .:PUNCT
+the:DET firelight:NOUN flicker:VERB ,:PUNCT cast:VERB long:ADJ shadow:NOUN that:PRON seem:VERB to:PART stretch:VERB and:CCONJ twist:VERB around:ADP they:PRON .:PUNCT
+jeff:PROPN stand:VERB over:ADP he:PRON ,:PUNCT his:PRON face:NOUN a:DET mask:NOUN of:ADP raw:ADJ emotion:NOUN .:PUNCT
+he:PRON didn:NOUN ':PUNCT t:NOUN hesitate:VERB ,:PUNCT and:CCONJ with:ADP a:DET swift:ADJ ,:PUNCT decisive:ADJ movement:NOUN ,:PUNCT he:PRON pin:VERB jim:PROPN down:ADP .:PUNCT
+the:DET fire:NOUN crackle:VERB on:ADP ,:PUNCT illuminate:VERB the:DET scene:NOUN with:ADP an:DET almost:ADV theatrical:ADJ glow:NOUN ,:PUNCT as:SCONJ if:SCONJ the:DET very:ADJ night:NOUN itself:PRON be:AUX witness:VERB their:PRON struggle:NOUN .:PUNCT
+they:PRON stand:VERB in:ADP silence:NOUN ,:PUNCT the:DET fire:NOUN cast:VERB their:PRON shadow:NOUN into:ADP the:DET snow:NOUN .:PUNCT
+the:DET light:NOUN in:ADP the:DET distance:NOUN seem:VERB to:ADP pulse:NOUN ,:PUNCT as:SCONJ if:SCONJ the:DET town:NOUN itself:PRON be:AUX hold:VERB its:PRON breath:NOUN .:PUNCT
+jim:PROPN ':PUNCT s:PART eye:NOUN meet:VERB jeff:PROPN ':PUNCT s:PROPN ,:PUNCT and:CCONJ for:ADP a:DET moment:NOUN ,:PUNCT there:PRON be:VERB no:PRON more:ADJ word:NOUN need:VERB .:PUNCT
+the:DET night:NOUN be:AUX thick:ADJ with:ADP unspoken:ADJ truth:NOUN ,:PUNCT the:DET fire:NOUN a:DET silent:ADJ witness:NOUN to:ADP the:DET unfold:VERB drama:NOUN .:PUNCT
+the:DET tension:NOUN thicken:VERB as:ADP harrison:PROPN ,:PUNCT bind:VERB tightly:ADV with:ADP rope:NOUN against:ADP a:DET stone:NOUN wall:NOUN ,:PUNCT meet:VERB the:DET cold:ADJ gaze:NOUN of:ADP an:DET old:ADJ man:NOUN with:ADP a:DET white:ADJ beard:NOUN and:CCONJ a:DET knitted:ADJ cap:NOUN .:PUNCT
+their:PRON face:NOUN ,:PUNCT illuminate:VERB by:ADP the:DET dim:ADJ glow:NOUN of:ADP a:DET single:ADJ bulb:NOUN ,:PUNCT convey:VERB the:DET gravity:NOUN of:ADP their:PRON predicament:NOUN .:PUNCT
+the:DET setting:NOUN ,:PUNCT a:DET crumble:VERB dungeon:NOUN with:ADP ornate:ADJ carving:NOUN ,:PUNCT suggest:VERB a:DET trap:NOUN lay:VERB by:ADP force:NOUN far:ADV more:ADV sinister:NOUN than:ADP mere:ADJ curiosity:NOUN .:PUNCT
+the:DET scene:NOUN shift:NOUN to:ADP a:DET tense:ADJ standoff:NOUN .:PUNCT
+two:NUM man:NOUN in:ADP military:ADJ uniform:NOUN ,:PUNCT their:PRON gun:NOUN train:VERB with:ADP lethal:ADJ precision:NOUN ,:PUNCT stand:VERB ready:ADJ for:ADP action:NOUN .:PUNCT
+one:NUM of:ADP they:PRON ,:PUNCT a:DET wiry:ADJ figure:NOUN with:ADP a:DET determined:ADJ expression:NOUN ,:PUNCT scan:VERB the:DET room:NOUN as:SCONJ if:SCONJ anticipate:VERB the:DET next:ADJ move:NOUN .:PUNCT
+behind:ADP they:PRON ,:PUNCT the:DET room:NOUN ':PUNCT s:PART arch:NOUN and:CCONJ cluttered:ADJ equipment:NOUN hint:NOUN at:ADP a:DET clandestine:ADJ operation:NOUN ,:PUNCT perhaps:ADV a:DET secret:ADJ war:NOUN room:NOUN or:CCONJ a:DET hidden:ADJ bunker:NOUN .:PUNCT
+a:DET sudden:ADJ blaze:NOUN erupt:NOUN ,:PUNCT cast:VERB fiery:ADJ orange:NOUN light:NOUN across:ADP the:DET room:NOUN .:PUNCT
+harrison:PROPN ,:PUNCT now:ADV in:ADP a:DET moment:NOUN of:ADP desperate:ADJ action:NOUN ,:PUNCT shield:VERB his:PRON face:NOUN as:ADP flame:NOUN lick:NOUN at:ADP the:DET stone:NOUN wall:NOUN .:PUNCT
+his:PRON opponent:NOUN ,:PUNCT a:DET stoic:ADJ man:NOUN in:ADP uniform:NOUN ,:PUNCT crouch:NOUN low:ADJ ,:PUNCT eye:NOUN fix:VERB on:ADP the:DET inferno:NOUN ,:PUNCT his:PRON body:NOUN tense:ADJ with:ADP anticipation:NOUN .:PUNCT
+the:DET inferno:ADJ intensifie:NOUN ,:PUNCT swallow:VERB the:DET room:NOUN in:ADP its:PRON roaring:ADJ embrace:NOUN .:PUNCT
+soldier:NOUN scramble:VERB for:ADP cover:NOUN ,:PUNCT their:PRON movement:NOUN frantic:ADJ as:SCONJ they:PRON try:VERB to:PART navigate:VERB the:DET chaos:NOUN .:PUNCT
+a:DET chandelier:NOUN hang:VERB precariously:ADV above:ADV ,:PUNCT its:PRON candle:NOUN -:PUNCT like:ADJ light:NOUN flicker:VERB as:SCONJ the:DET fire:NOUN grow:VERB .:PUNCT
+the:DET scene:NOUN be:AUX one:NUM of:ADP pure:ADJ adrenaline:NOUN ,:PUNCT a:DET battle:NOUN not:PART just:ADV for:ADP survival:NOUN but:CCONJ for:ADP the:DET secret:NOUN hide:VERB within:ADP the:DET flame:NOUN .:PUNCT
+the:DET chaos:NOUN peak:VERB as:SCONJ the:DET room:NOUN collapse:VERB under:ADP the:DET weight:NOUN of:ADP the:DET fire:NOUN .:PUNCT
+soldier:NOUN ,:PUNCT include:VERB harrison:PROPN ,:PUNCT be:AUX force:VERB to:PART take:VERB cover:NOUN behind:ADP stone:NOUN pillar:NOUN and:CCONJ crumble:VERB arch:NOUN ,:PUNCT their:PRON face:NOUN twist:VERB in:ADP fear:NOUN and:CCONJ determination:NOUN .:PUNCT
+the:DET sound:NOUN of:ADP crackling:NOUN flame:NOUN and:CCONJ the:DET distant:ADJ echo:NOUN of:ADP gunfire:NOUN add:VERB to:ADP the:DET urgency:NOUN of:ADP the:DET moment:NOUN .:PUNCT
+harrison:PROPN ,:PUNCT now:ADV free:ADJ from:ADP his:PRON bond:NOUN ,:PUNCT stride:VERB purposefully:ADV through:ADP the:DET smoke:NOUN -:PUNCT fill:VERB room:NOUN ,:PUNCT clutch:VERB a:DET heavy:ADJ leather:NOUN satchel:NOUN .:PUNCT
+his:PRON hat:NOUN be:AUX askew:ADJ ,:PUNCT his:PRON expression:NOUN resolute:NOUN .:PUNCT
+behind:ADP he:PRON ,:PUNCT the:DET remnant:NOUN of:ADP the:DET room:NOUN ':PUNCT s:PART chaos:NOUN be:AUX visible:ADJ ,:PUNCT a:DET testament:NOUN to:ADP the:DET struggle:NOUN he:PRON have:AUX just:ADV survive:VERB .:PUNCT
+he:PRON move:VERB with:ADP the:DET confidence:NOUN of:ADP a:DET man:NOUN who:PRON know:VERB the:DET stake:NOUN —:PUNCT and:CCONJ the:DET cost:NOUN of:ADP victory:NOUN .:PUNCT
+robert:PROPN lounge:NOUN in:ADP his:PRON dimly:ADV light:VERB apartment:NOUN ,:PUNCT foot:NOUN prop:VERB up:ADP on:ADP the:DET desk:NOUN ,:PUNCT eye:NOUN fix:VERB on:ADP the:DET flickering:NOUN television:NOUN screen:NOUN .:PUNCT
+a:DET box:NOUN of:ADP popcorn:NOUN rest:NOUN beside:ADP he:PRON ,:PUNCT and:CCONJ he:PRON ':PUNCT s:AUX clearly:ADV lose:VERB in:ADP the:DET world:NOUN of:ADP the:DET show:NOUN .:PUNCT
+the:DET room:NOUN be:AUX cozy:ADJ ,:PUNCT clutter:VERB with:ADP poster:NOUN and:CCONJ a:DET glowing:ADJ lamp:NOUN that:PRON cast:VERB a:DET warm:ADJ hue:NOUN over:ADP the:DET scene:NOUN .:PUNCT
+he:PRON seem:VERB utterly:ADV absorb:VERB ,:PUNCT as:SCONJ if:SCONJ the:DET screen:NOUN ':PUNCT s:NOUN glow:NOUN be:AUX the:DET only:ADJ thing:NOUN keep:VERB he:PRON ground:VERB .:PUNCT
+the:DET scene:NOUN shift:NOUN to:ADP brian:PROPN ,:PUNCT stand:VERB alone:ADV in:ADP a:DET dimly:ADV light:VERB bar:NOUN ,:PUNCT talk:VERB into:ADP a:DET payphone:NOUN .:PUNCT
+the:DET red:ADJ glow:NOUN from:ADP the:DET phone:NOUN ':PUNCT s:PART cord:NOUN illuminate:VERB his:PRON face:NOUN as:SCONJ he:PRON speak:VERB ,:PUNCT his:PRON expression:NOUN thoughtful:ADJ .:PUNCT
+the:DET bar:NOUN be:AUX alive:ADJ with:ADP soft:ADJ chatter:NOUN and:CCONJ the:DET clink:NOUN of:ADP glass:NOUN ,:PUNCT but:CCONJ brian:PROPN seem:VERB to:PART be:AUX in:ADP his:PRON own:ADJ world:NOUN ,:PUNCT perhaps:ADV recount:VERB a:DET story:NOUN or:CCONJ seek:VERB solace:NOUN in:ADP a:DET forget:VERB connection:NOUN .:PUNCT
+robert:PROPN be:AUX back:ADV ,:PUNCT now:ADV on:ADP the:DET phone:NOUN ,:PUNCT his:PRON posture:NOUN relax:VERB but:CCONJ attentive:ADJ .:PUNCT
+he:PRON ':PUNCT s:AUX still:ADV lounge:VERB ,:PUNCT but:CCONJ the:DET television:NOUN be:AUX now:ADV show:VERB a:DET different:ADJ program:NOUN —:PUNCT perhaps:ADV a:DET rerun:NOUN or:CCONJ a:DET different:ADJ channel:NOUN —:PUNCT and:CCONJ his:PRON expression:NOUN suggest:VERB he:PRON ':PUNCT s:AUX enjoy:VERB the:DET interplay:NOUN of:ADP medium:NOUN .:PUNCT
+the:DET room:NOUN remain:VERB unchanged:ADJ ,:PUNCT a:DET sanctuary:NOUN of:ADP comfort:NOUN and:CCONJ distraction:NOUN .:PUNCT
+brian:PROPN be:AUX now:ADV seat:VERB at:ADP a:DET table:NOUN ,:PUNCT the:DET candlelight:NOUN cast:VERB a:DET soft:ADJ glow:NOUN on:ADP his:PRON face:NOUN as:SCONJ he:PRON look:VERB up:ADP ,:PUNCT perhaps:ADV startle:VERB or:CCONJ intrigue:VERB by:ADP something:PRON off:ADP -:PUNCT camera:NOUN .:PUNCT
+the:DET table:NOUN be:AUX set:VERB with:ADP food:NOUN and:CCONJ drink:NOUN ,:PUNCT hint:VERB at:ADP a:DET quiet:ADJ dinner:NOUN or:CCONJ a:DET casual:ADJ gathering:NOUN .:PUNCT
+his:PRON expression:NOUN be:AUX one:NUM of:ADP gentle:ADJ surprise:NOUN ,:PUNCT as:SCONJ if:SCONJ he:PRON ':PUNCT s:AUX just:ADV catch:VERB a:DET glimpse:NOUN of:ADP something:PRON unexpected:ADJ .:PUNCT
+robert:PROPN be:AUX now:ADV stand:VERB ,:PUNCT perhaps:ADV after:ADP finish:VERB his:PRON meal:NOUN ,:PUNCT his:PRON hand:NOUN gesture:VERB as:SCONJ he:PRON speak:VERB with:ADP someone:PRON off:ADP -:PUNCT camera:NOUN .:PUNCT
+the:DET candle:NOUN flicker:VERB beside:ADP he:PRON ,:PUNCT add:VERB a:DET touch:NOUN of:ADP warmth:NOUN to:ADP the:DET scene:NOUN .:PUNCT
+his:PRON expression:NOUN be:AUX animate:VERB ,:PUNCT suggest:VERB he:PRON ':PUNCT s:VERB in:ADP the:DET middle:NOUN of:ADP a:DET lively:ADJ conversation:NOUN or:CCONJ perhaps:ADV share:VERB a:DET story:NOUN .:PUNCT
+brian:PROPN be:AUX now:ADV seat:VERB again:ADV ,:PUNCT this:DET time:NOUN at:ADP a:DET table:NOUN ,:PUNCT his:PRON hand:NOUN rest:VERB on:ADP the:DET table:NOUN as:SCONJ he:PRON listen:VERB intently:ADV .:PUNCT
+the:DET candlelight:NOUN continue:VERB to:PART cast:VERB a:DET warm:ADJ glow:NOUN ,:PUNCT and:CCONJ his:PRON expression:NOUN be:AUX one:NUM of:ADP quiet:ADJ focus:NOUN ,:PUNCT as:SCONJ if:SCONJ he:PRON ':PUNCT s:AUX listen:VERB to:ADP something:PRON important:ADJ or:CCONJ deeply:ADV personal:ADJ .:PUNCT
+robert:PROPN be:AUX now:ADV seat:VERB ,:PUNCT his:PRON gaze:NOUN fix:VERB on:ADP something:PRON in:ADP front:NOUN of:ADP he:PRON ,:PUNCT perhaps:ADV a:DET screen:NOUN or:CCONJ a:DET piece:NOUN of:ADP paper:NOUN .:PUNCT
+the:DET room:NOUN be:AUX quiet:ADJ ,:PUNCT and:CCONJ the:DET candlelight:NOUN cast:VERB a:DET soft:ADJ glow:NOUN on:ADP his:PRON face:NOUN ,:PUNCT suggest:VERB he:PRON ':PUNCT s:VERB in:ADP deep:ADJ thought:NOUN or:CCONJ perhaps:ADV prepare:VERB to:PART make:VERB a:DET decision:NOUN .:PUNCT
+jennifer:PROPN be:AUX now:ADV seat:VERB ,:PUNCT her:PRON hand:NOUN rest:VERB on:ADP the:DET table:NOUN as:SCONJ she:PRON listen:VERB intently:ADV .:PUNCT
+the:DET candlelight:NOUN cast:VERB a:DET soft:ADJ glow:NOUN on:ADP her:PRON face:NOUN ,:PUNCT and:CCONJ her:PRON expression:NOUN be:AUX one:NUM of:ADP quiet:ADJ focus:NOUN ,:PUNCT as:SCONJ if:SCONJ she:PRON ':PUNCT s:AUX listen:VERB to:ADP something:PRON important:ADJ or:CCONJ deeply:ADV personal:ADJ .:PUNCT
+harrison:PROPN ,:PUNCT the:DET intrepid:ADJ adventurer:NOUN ,:PUNCT settle:VERB into:ADP a:DET sun:NOUN -:PUNCT dapple:VERB street:NOUN café:NOUN in:ADP a:DET bustling:ADJ moroccan:ADJ marketplace:NOUN ,:PUNCT his:PRON fedora:NOUN cast:VERB a:DET shadow:NOUN over:ADP his:PRON weary:ADJ but:CCONJ determined:ADJ face:NOUN as:SCONJ he:PRON sip:VERB from:ADP a:DET ceramic:ADJ cup:NOUN .:PUNCT
+the:DET scent:NOUN of:ADP spice:NOUN and:CCONJ warm:ADJ bread:NOUN fill:VERB the:DET air:NOUN ,:PUNCT mingle:VERB with:ADP the:DET clatter:NOUN of:ADP distant:ADJ cart:NOUN and:CCONJ the:DET murmur:NOUN of:ADP local:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART here:ADV for:ADP leisure:NOUN —:PUNCT he:PRON ':PUNCT s:VERB on:ADP a:DET mission:NOUN ,:PUNCT his:PRON gaze:NOUN fix:VERB on:ADP something:PRON just:ADV beyond:ADP the:DET frame:NOUN ,:PUNCT his:PRON hand:NOUN rest:VERB near:ADP his:PRON revolver:NOUN as:SCONJ if:SCONJ ready:ADJ for:ADP anything:PRON .:PUNCT
+he:PRON ':PUNCT s:AUX join:VERB by:ADP a:DET mysterious:ADJ figure:NOUN on:ADP a:DET vintage:ADJ motorcycle:NOUN ,:PUNCT a:DET man:NOUN with:ADP a:DET beard:NOUN and:CCONJ a:DET blue:ADJ headscarf:NOUN ,:PUNCT who:PRON rid:VERB through:ADP the:DET narrow:ADJ alleyways:ADV like:ADP a:DET silent:ADJ guardian:NOUN of:ADP the:DET night:NOUN .:PUNCT
+the:DET dust:NOUN swirl:VERB around:ADP he:PRON as:SCONJ he:PRON pause:VERB ,:PUNCT scan:VERB the:DET street:NOUN ,:PUNCT his:PRON presence:NOUN both:CCONJ impose:VERB and:CCONJ oddly:ADV familiar:ADJ .:PUNCT
+harrison:PROPN ':PUNCT s:PART eye:NOUN flicker:ADJ toward:ADP he:PRON ,:PUNCT a:DET silent:ADJ acknowledgment:NOUN of:ADP share:VERB purpose:NOUN .:PUNCT
+the:DET scene:NOUN shift:NOUN to:ADP a:DET crowded:ADJ ,:PUNCT arch:VERB café:NOUN where:SCONJ harrison:PROPN be:AUX now:ADV engage:VERB in:ADP tense:ADJ conversation:NOUN with:ADP vic:PROPN ,:PUNCT who:PRON sit:VERB across:ADP from:ADP he:PRON ,:PUNCT sip:VERB from:ADP a:DET glass:NOUN of:ADP dark:ADJ liquid:NOUN .:PUNCT
+vic:PROPN ':PUNCT s:PART expression:NOUN be:AUX grave:ADJ ,:PUNCT his:PRON tie:NOUN slightly:ADV askew:ADV ,:PUNCT suggest:VERB the:DET gravity:NOUN of:ADP their:PRON discussion:NOUN .:PUNCT
+around:ADP they:PRON ,:PUNCT patron:NOUN in:ADP traditional:ADJ garb:NOUN sip:VERB tea:NOUN and:CCONJ smoke:NOUN hookah:NOUN ,:PUNCT oblivious:ADJ to:ADP the:DET secret:NOUN be:AUX exchange:VERB .:PUNCT
+harrison:PROPN lean:VERB in:ADV ,:PUNCT his:PRON voice:NOUN low:ADJ and:CCONJ urgent:ADJ ,:PUNCT his:PRON brow:NOUN furrow:VERB as:SCONJ he:PRON press:VERB a:DET point:NOUN with:ADP his:PRON hand:NOUN .:PUNCT
+vic:PROPN ':PUNCT s:VERB face:NOUN tighten:NOUN ,:PUNCT his:PRON eye:NOUN narrow:VERB as:SCONJ he:PRON listen:VERB ,:PUNCT the:DET weight:NOUN of:ADP their:PRON mission:NOUN hang:VERB thick:ADJ in:ADP the:DET air:NOUN .:PUNCT
+the:DET café:NOUN ':PUNCT s:PART warm:ADJ light:NOUN glow:VERB around:ADP they:PRON ,:PUNCT cast:VERB long:ADJ shadow:NOUN that:PRON seem:VERB to:PART echo:VERB their:PRON tension:NOUN .:PUNCT
+as:SCONJ the:DET conversation:NOUN reach:VERB its:PRON climax:NOUN ,:PUNCT harrison:PROPN ':PUNCT s:PART gaze:NOUN lock:NOUN with:ADP vic:PROPN ':PUNCT s:NOUN ,:PUNCT their:PRON eye:NOUN meet:VERB in:ADP a:DET silent:ADJ understanding:NOUN .:PUNCT
+the:DET camera:NOUN linger:VERB on:ADP their:PRON face:NOUN ,:PUNCT the:DET tension:NOUN palpable:ADJ ,:PUNCT the:DET stake:NOUN high:ADV .:PUNCT
+the:DET café:NOUN ':PUNCT s:PART patron:NOUN continue:VERB their:PRON life:NOUN ,:PUNCT but:CCONJ for:ADP these:DET two:NUM ,:PUNCT the:DET world:NOUN have:AUX narrow:VERB to:ADP this:DET moment:NOUN ,:PUNCT this:DET decision:NOUN ,:PUNCT this:DET path:NOUN ahead:ADV .:PUNCT
+the:DET snow:NOUN -:PUNCT laden:ADJ tunnel:NOUN glow:VERB with:ADP an:DET eerie:ADJ blue:ADJ light:NOUN as:ADP danny:PROPN ,:PUNCT small:ADJ and:CCONJ determined:ADJ ,:PUNCT trudge:NOUN forward:ADV .:PUNCT
+he:PRON ':PUNCT s:AUX lose:VERB ,:PUNCT or:CCONJ perhaps:ADV search:VERB ,:PUNCT through:ADP the:DET frozen:ADJ maze:NOUN that:PRON feel:VERB like:ADP a:DET live:VERB thing:NOUN .:PUNCT
+the:DET silence:NOUN be:AUX thick:ADJ ,:PUNCT break:VERB only:ADV by:ADP his:PRON footstep:NOUN crunch:VERB on:ADP the:DET snow:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART alone:ADJ —:PUNCT the:DET darkness:NOUN seem:VERB to:PART watch:VERB he:PRON ,:PUNCT and:CCONJ he:PRON ':PUNCT s:VERB aware:ADJ of:ADP the:DET unseen:ADJ presence:NOUN that:PRON lurk:VERB just:ADV beyond:ADP the:DET icy:ADJ wall:NOUN .:PUNCT
+he:PRON pause:VERB ,:PUNCT breathless:NOUN ,:PUNCT as:SCONJ the:DET cold:ADJ seep:NOUN into:ADP his:PRON bone:NOUN .:PUNCT
+the:DET tunnel:NOUN ':PUNCT s:PART wall:NOUN shimmer:NOUN with:ADP frost:NOUN ,:PUNCT and:CCONJ for:ADP a:DET moment:NOUN ,:PUNCT he:PRON feel:VERB the:DET weight:NOUN of:ADP something:PRON ancient:ADJ and:CCONJ malevolent:ADJ press:VERB in:ADP .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART afraid:ADJ —:PUNCT he:PRON ':PUNCT s:VERB curious:ADJ .:PUNCT
+he:PRON ':PUNCT s:AUX draw:VERB deeply:ADV into:ADP the:DET snow:NOUN ,:PUNCT where:SCONJ the:DET light:NOUN dim:VERB and:CCONJ the:DET air:NOUN grow:VERB colder:ADJ .:PUNCT
+he:PRON crawl:VERB ,:PUNCT his:PRON small:ADJ body:NOUN low:ADJ to:ADP the:DET ground:NOUN ,:PUNCT as:SCONJ if:SCONJ try:VERB to:PART disappear:VERB into:ADP the:DET snow:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART alone:ADJ —:PUNCT the:DET tunnel:NOUN ':PUNCT s:PART wall:NOUN seem:VERB to:PART close:VERB in:ADV ,:PUNCT and:CCONJ he:PRON ':PUNCT s:VERB aware:ADJ of:ADP the:DET unseen:ADJ presence:NOUN that:PRON lurk:VERB just:ADV beyond:ADP the:DET icy:ADJ wall:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART afraid:ADJ —:PUNCT he:PRON ':PUNCT s:VERB curious:ADJ .:PUNCT
+he:PRON ':PUNCT s:AUX draw:VERB deeply:ADV into:ADP the:DET snow:NOUN ,:PUNCT where:SCONJ the:DET light:NOUN dim:VERB and:CCONJ the:DET air:NOUN grow:VERB colder:ADJ .:PUNCT
+the:DET scene:NOUN shift:NOUN —:PUNCT now:ADV ,:PUNCT in:ADP a:DET warm:ADJ ,:PUNCT red:ADJ -:PUNCT light:VERB hallway:NOUN ,:PUNCT jack:PROPN stand:VERB in:ADP a:DET robe:NOUN ,:PUNCT hold:VERB a:DET knife:NOUN .:PUNCT
+his:PRON face:NOUN be:AUX twist:VERB with:ADP rage:NOUN and:CCONJ fear:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART alone:ADJ —:PUNCT the:DET red:ADJ wall:NOUN seem:VERB to:PART watch:VERB he:PRON ,:PUNCT and:CCONJ he:PRON ':PUNCT s:VERB aware:ADJ of:ADP the:DET unseen:ADJ presence:NOUN that:PRON lurk:VERB just:ADV beyond:ADP the:DET icy:ADJ wall:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART afraid:ADJ —:PUNCT he:PRON ':PUNCT s:VERB curious:ADJ .:PUNCT
+he:PRON ':PUNCT s:AUX draw:VERB deeply:ADV into:ADP the:DET snow:NOUN ,:PUNCT where:SCONJ the:DET light:NOUN dim:VERB and:CCONJ the:DET air:NOUN grow:VERB colder:ADJ .:PUNCT
+the:DET hallway:NOUN be:AUX empty:ADJ except:SCONJ for:ADP the:DET red:ADJ wall:NOUN and:CCONJ the:DET ornate:ADJ elevator:NOUN door:NOUN .:PUNCT
+jack:PROPN ':PUNCT s:PART presence:NOUN be:AUX feel:VERB —:PUNCT his:PRON rage:NOUN and:CCONJ fear:NOUN be:AUX palpable:ADJ .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART alone:ADJ —:PUNCT the:DET red:ADJ wall:NOUN seem:VERB to:PART watch:VERB he:PRON ,:PUNCT and:CCONJ he:PRON ':PUNCT s:VERB aware:ADJ of:ADP the:DET unseen:ADJ presence:NOUN that:PRON lurk:VERB just:ADV beyond:ADP the:DET icy:ADJ wall:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART afraid:ADJ —:PUNCT he:PRON ':PUNCT s:VERB curious:ADJ .:PUNCT
+he:PRON ':PUNCT s:AUX draw:VERB deeply:ADV into:ADP the:DET snow:NOUN ,:PUNCT where:SCONJ the:DET light:NOUN dim:VERB and:CCONJ the:DET air:NOUN grow:VERB cold:ADJ .:PUNCT
+shelley:PROPN stand:VERB in:ADP the:DET doorway:NOUN ,:PUNCT her:PRON face:NOUN freeze:VERB in:ADP terror:NOUN .:PUNCT
+she:PRON hold:VERB a:DET knife:NOUN ,:PUNCT her:PRON eye:NOUN wide:ADJ with:ADP fear:NOUN .:PUNCT
+the:DET red:ADJ wall:NOUN behind:ADP her:PRON glow:NOUN like:ADP a:DET warning:NOUN .:PUNCT
+she:PRON ':PUNCT s:VERB not:PART alone:ADJ —:PUNCT the:DET red:ADJ wall:NOUN seem:VERB to:PART watch:VERB she:PRON ,:PUNCT and:CCONJ she:PRON ':PUNCT s:VERB aware:ADJ of:ADP the:DET unseen:ADJ presence:NOUN that:PRON lurk:VERB just:ADV beyond:ADP the:DET icy:ADJ wall:NOUN .:PUNCT
+she:PRON ':PUNCT s:VERB not:PART afraid:ADJ —:PUNCT she:PRON ':PUNCT s:VERB curious:ADJ .:PUNCT
+she:PRON ':PUNCT s:AUX draw:VERB deeply:ADV into:ADP the:DET snow:NOUN ,:PUNCT where:SCONJ the:DET light:NOUN dim:VERB and:CCONJ the:DET air:NOUN grow:VERB colder:ADJ .:PUNCT
+danny:PROPN ,:PUNCT the:DET child:NOUN ,:PUNCT look:VERB up:ADP from:ADP the:DET snow:NOUN ,:PUNCT his:PRON face:NOUN illuminate:VERB by:ADP the:DET blue:ADJ light:NOUN .:PUNCT
+his:PRON eye:NOUN be:AUX wide:ADJ with:ADP fear:NOUN ,:PUNCT but:CCONJ also:ADV with:ADP wonder:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART alone:ADJ —:PUNCT the:DET tunnel:NOUN ':PUNCT s:PART wall:NOUN seem:VERB to:PART close:VERB in:ADV ,:PUNCT and:CCONJ he:PRON ':PUNCT s:VERB aware:ADJ of:ADP the:DET unseen:ADJ presence:NOUN that:PRON lurk:VERB just:ADV beyond:ADP the:DET icy:ADJ wall:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART afraid:ADJ —:PUNCT he:PRON ':PUNCT s:VERB curious:ADJ .:PUNCT
+he:PRON ':PUNCT s:AUX draw:VERB deeply:ADV into:ADP the:DET snow:NOUN ,:PUNCT where:SCONJ the:DET light:NOUN dim:VERB and:CCONJ the:DET air:NOUN grow:VERB colder:ADJ .:PUNCT
+jack:PROPN ':PUNCT s:PART face:NOUN be:AUX twist:VERB with:ADP rage:NOUN and:CCONJ fear:NOUN ,:PUNCT his:PRON eye:NOUN wide:ADJ and:CCONJ his:PRON mouth:NOUN open:ADJ in:ADP a:DET scream:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART alone:ADJ —:PUNCT the:DET red:ADJ wall:NOUN seem:VERB to:PART watch:VERB he:PRON ,:PUNCT and:CCONJ he:PRON ':PUNCT s:VERB aware:ADJ of:ADP the:DET unseen:ADJ presence:NOUN that:PRON lurk:VERB just:ADV beyond:ADP the:DET icy:ADJ wall:NOUN .:PUNCT
+he:PRON ':PUNCT s:VERB not:PART afraid:ADJ —:PUNCT he:PRON ':PUNCT s:VERB curious:ADJ .:PUNCT
+he:PRON ':PUNCT s:AUX draw:VERB deeply:ADV into:ADP the:DET snow:NOUN ,:PUNCT where:SCONJ the:DET light:NOUN dim:VERB and:CCONJ the:DET air:NOUN grow:VERB cold:ADJ .:PUNCT
+shelley:PROPN stand:VERB in:ADP the:DET doorway:NOUN ,:PUNCT her:PRON face:NOUN freeze:VERB in:ADP terror:NOUN .:PUNCT
+she:PRON hold:VERB a:DET knife:NOUN ,:PUNCT her:PRON eye:NOUN wide:ADJ with:ADP fear:NOUN .:PUNCT
+the:DET red:ADJ wall:NOUN behind:ADP her:PRON glow:NOUN like:ADP a:DET warning:NOUN .:PUNCT
+she:PRON ':PUNCT s:VERB not:PART alone:ADJ —:PUNCT the:DET red:ADJ wall:NOUN seem:VERB to:PART watch:VERB she:PRON ,:PUNCT and:CCONJ she:PRON ':PUNCT s:VERB aware:ADJ of:ADP the:DET unseen:ADJ presence:NOUN that:PRON lurk:VERB just:ADV beyond:ADP the:DET icy:ADJ wall:NOUN .:PUNCT
+she:PRON ':PUNCT s:VERB not:PART afraid:ADJ —:PUNCT she:PRON ':PUNCT s:VERB curious:ADJ .:PUNCT
+she:PRON ':PUNCT s:AUX draw:VERB deeply:ADV into:ADP the:DET snow:NOUN ,:PUNCT where:SCONJ the:DET light:NOUN dim:VERB and:CCONJ the:DET air:NOUN grow:VERB colder:ADJ .:PUNCT
+the:DET dimly:ADV light:VERB operating:NOUN room:NOUN hum:NOUN with:ADP tension:NOUN as:SCONJ the:DET surgical:ADJ team:NOUN prepare:VERB for:ADP what:PRON could:AUX be:AUX a:DET life:NOUN -:PUNCT alter:VERB procedure:NOUN .:PUNCT
+donald:PROPN ,:PUNCT the:DET lead:NOUN surgeon:NOUN ,:PUNCT stand:VERB with:ADP his:PRON hand:NOUN clasp:VERB near:ADP his:PRON face:NOUN ,:PUNCT eye:NOUN fix:VERB on:ADP the:DET patient:NOUN beneath:ADP the:DET sterile:ADJ light:NOUN ,:PUNCT his:PRON expression:NOUN a:DET mix:NOUN of:ADP focus:NOUN and:CCONJ quiet:ADJ dread:NOUN .:PUNCT
+beside:ADP he:PRON ,:PUNCT elliott:PROPN adjust:VERB a:DET surgical:ADJ instrument:NOUN with:ADP practiced:ADJ precision:NOUN ,:PUNCT his:PRON movement:NOUN deliberate:VERB as:SCONJ he:PRON steady:VERB the:DET field:NOUN .:PUNCT
+the:DET room:NOUN be:AUX alive:ADJ with:ADP the:DET soft:ADJ glow:NOUN of:ADP overhead:ADJ lamp:NOUN and:CCONJ the:DET faint:ADJ clink:NOUN of:ADP surgical:ADJ tool:NOUN ,:PUNCT each:PRON shadow:VERB by:ADP the:DET gravity:NOUN of:ADP the:DET moment:NOUN .:PUNCT
+the:DET scene:NOUN widen:VERB to:PART reveal:VERB the:DET full:ADJ scope:NOUN of:ADP the:DET operation:NOUN ::PUNCT a:DET dozen:NOUN medical:ADJ professional:NOUN ,:PUNCT all:PRON in:ADP white:ADJ gown:NOUN and:CCONJ mask:NOUN ,:PUNCT move:VERB in:ADP perfect:ADJ harmony:NOUN around:ADP the:DET patient:NOUN .:PUNCT
+their:PRON hand:NOUN ,:PUNCT gloved:ADJ and:CCONJ steady:ADJ ,:PUNCT hover:ADV over:ADP the:DET surgical:ADJ site:NOUN ,:PUNCT each:DET one:NOUN a:DET part:NOUN of:ADP a:DET complex:ADJ ,:PUNCT silent:ADJ ballet:NOUN .:PUNCT
+the:DET sterile:ADJ atmosphere:NOUN be:AUX break:VERB only:ADV by:ADP the:DET occasional:ADJ murmur:NOUN of:ADP a:DET nurse:NOUN or:CCONJ the:DET soft:ADJ click:NOUN of:ADP a:DET scalpel:NOUN .:PUNCT
+the:DET patient:NOUN lie:VERB still:ADV ,:PUNCT their:PRON body:NOUN a:DET canvas:NOUN for:ADP the:DET surgeon:NOUN ':PUNCT expertise:NOUN .:PUNCT
+a:DET close:ADJ -:PUNCT up:NOUN capture:VERB the:DET surgeon:NOUN ':PUNCT s:PART hand:NOUN as:SCONJ they:PRON delicately:ADV maneuver:VERB a:DET scalpel:NOUN through:ADP the:DET tissue:NOUN .:PUNCT
+the:DET light:NOUN from:ADP the:DET overhead:ADJ lamp:NOUN illuminate:VERB the:DET incision:NOUN ,:PUNCT cast:VERB sharp:ADJ shadow:NOUN that:PRON emphasize:VERB the:DET precision:NOUN require:VERB .:PUNCT
+the:DET patient:NOUN ':PUNCT s:PART skin:NOUN glisten:VERB with:ADP a:DET faint:ADJ sheen:NOUN of:ADP sweat:NOUN and:CCONJ blood:NOUN ,:PUNCT a:DET testament:NOUN to:ADP the:DET intensity:NOUN of:ADP the:DET moment:NOUN .:PUNCT
+the:DET surgeon:NOUN ':PUNCT s:PART focus:NOUN be:AUX absolute:ADJ ,:PUNCT every:DET movement:NOUN calculate:VERB and:CCONJ control:VERB .:PUNCT
+the:DET camera:NOUN shift:NOUN to:ADP a:DET woman:NOUN in:ADP the:DET surgical:ADJ team:NOUN ,:PUNCT her:PRON face:NOUN half:ADV -:PUNCT hide:VERB by:ADP her:PRON mask:NOUN ,:PUNCT eye:NOUN narrow:VERB in:ADP concentration:NOUN .:PUNCT
+her:PRON expression:NOUN be:AUX one:NUM of:ADP unwavere:VERB determination:NOUN ,:PUNCT her:PRON hand:NOUN steady:ADJ as:SCONJ she:PRON assist:VERB the:DET lead:NOUN surgeon:NOUN .:PUNCT
+the:DET dim:ADJ glow:NOUN of:ADP the:DET surgical:ADJ light:NOUN cast:VERB long:ADJ shadow:NOUN across:ADP her:PRON face:NOUN ,:PUNCT highlight:VERB the:DET intensity:NOUN of:ADP the:DET moment:NOUN .:PUNCT
+the:DET scene:NOUN return:VERB to:ADP the:DET broad:ADJ view:NOUN ,:PUNCT where:SCONJ the:DET surgical:ADJ team:NOUN continue:VERB their:PRON work:NOUN .:PUNCT
+donald:PROPN lean:VERB over:ADP the:DET patient:NOUN ,:PUNCT his:PRON posture:NOUN bend:VERB in:ADP concentration:NOUN ,:PUNCT his:PRON finger:NOUN trace:VERB the:DET contours:NOUN of:ADP the:DET incision:NOUN .:PUNCT
+elliott:PROPN stand:VERB beside:ADP he:PRON ,:PUNCT his:PRON hand:NOUN poise:VERB to:PART assist:VERB ,:PUNCT his:PRON eye:NOUN fix:VERB on:ADP the:DET surgical:ADJ site:NOUN .:PUNCT
+the:DET room:NOUN be:AUX alive:ADJ with:ADP the:DET quiet:ADJ hum:NOUN of:ADP the:DET surgical:ADJ team:NOUN ':PUNCT s:VERB focus:VERB effort:NOUN ,:PUNCT each:DET movement:NOUN a:DET testament:NOUN to:ADP their:PRON skill:NOUN and:CCONJ dedication:NOUN .:PUNCT

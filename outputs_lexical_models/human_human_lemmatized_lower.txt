@@ -1,0 +1,122 @@
+harrison:PROPN and:CCONJ sean:PROPN be:AUX in:ADP a:DET bind:NOUN and:CCONJ have:AUX be:AUX tie:VERB together:ADV .:PUNCT
+the:DET other:ADJ man:NOUN in:ADP the:DET room:NOUN be:AUX hold:VERB their:PRON gun:NOUN out:ADP .:PUNCT
+suddenly:ADV ,:PUNCT there:PRON be:VERB a:DET blind:VERB flash:NOUN of:ADP light:NOUN .:PUNCT
+all:PRON of:ADP the:DET building:NOUN be:AUX up:ADV in:ADP flame:NOUN .:PUNCT
+the:DET people:NOUN be:AUX try:VERB to:PART get:VERB away:ADV from:ADP the:DET fire:NOUN .:PUNCT
+harrison:PROPN and:CCONJ sean:PROPN manage:VERB to:PART get:VERB away:ADV .:PUNCT
+jonah:PROPN be:AUX struggle:VERB to:ADP breath:NOUN and:CCONJ lie:VERB down:ADP on:ADP his:PRON living:NOUN room:NOUN floor:NOUN .:PUNCT
+gasp:VERB for:ADP air:NOUN he:PRON try:VERB to:PART loosen:VERB his:PRON tie:NOUN .:PUNCT
+margot:PROPN hear:VERB jonah:PROPN struggle:VERB and:CCONJ rush:VERB to:ADP his:PRON aid:NOUN .:PUNCT
+you:PRON can:AUX see:VERB the:DET panic:NOUN in:ADP jonah:PROPN 's:PART face:NOUN as:SCONJ he:PRON struggle:VERB to:PART breathe:VERB .:PUNCT
+leonardo:PROPN be:AUX also:ADV have:VERB difficulty:NOUN breathe:VERB and:CCONJ end:VERB up:ADP on:ADP his:PRON floor:NOUN gasp:VERB for:ADP air:NOUN .:PUNCT
+jim:PROPN and:CCONJ jeff:PROPN be:AUX drink:VERB and:CCONJ eat:VERB marshmallow:NOUN at:ADP their:PRON own:ADJ campfire:NOUN .:PUNCT
+while:SCONJ they:PRON be:AUX dance:VERB together:ADV .:PUNCT
+jim:PROPN admit:VERB that:SCONJ he:PRON have:VERB an:DET affair:NOUN with:ADP jeff:PROPN 's:PART girlfriend:NOUN .:PUNCT
+jeff:PROPN start:VERB to:PART choke:VERB jim:PROPN .:PUNCT
+jim:PROPN tell:VERB jeff:PROPN that:SCONJ he:PRON would:AUX never:ADV do:VERB it:PRON again:ADV .:PUNCT
+they:PRON both:PRON talk:VERB it:PRON over:ADP afterwards:ADV .:PUNCT
+jim:PROPN blame:VERB jeff:PROPN 's:PART girl:NOUN for:ADP take:VERB advantage:NOUN of:ADP he:PRON .:PUNCT
+harrison:PROPN be:AUX play:VERB with:ADP his:PRON monkey:NOUN while:SCONJ think:VERB about:ADP what:PRON to:PART do:AUX in:ADP a:DET very:ADV difficult:ADJ situation:NOUN .:PUNCT
+vic:PROPN drive:VERB by:ADP with:ADP his:PRON bike:NOUN and:CCONJ he:PRON look:VERB very:ADV bound:ADJ to:PART find:VERB trouble:NOUN .:PUNCT
+harrison:PROPN be:AUX be:AUX confront:VERB by:ADP paul:PROPN and:CCONJ a:DET man:NOUN who:PRON want:VERB he:PRON to:PART follow:VERB they:PRON .:PUNCT
+see:VERB he:PRON do:AUX not:PART have:VERB a:DET choice:NOUN he:PRON follow:VERB they:PRON .:PUNCT
+paul:PROPN try:VERB to:PART convince:VERB harrison:PROPN to:PART join:VERB he:PRON in:ADP something:PRON harrison:PROPN consider:VERB evil:ADJ and:CCONJ unethical:ADJ .:PUNCT
+robert:PROPN be:AUX hang:VERB out:ADP in:ADP his:PRON room:NOUN watch:VERB the:DET television:NOUN .:PUNCT
+his:PRON friend:NOUN ,:PUNCT brian:PROPN ,:PUNCT call:VERB he:PRON to:PART ask:VERB he:PRON about:ADP some:DET girl:NOUN advice:NOUN .:PUNCT
+robert:PROPN be:AUX happy:ADJ to:PART give:VERB he:PRON advice:NOUN ,:PUNCT since:SCONJ he:PRON be:AUX good:ADJ with:ADP the:DET lady:NOUN .:PUNCT
+brian:PROPN want:VERB to:PART know:VERB how:SCONJ he:PRON should:AUX ask:VERB out:ADP jennifer:PROPN ,:PUNCT his:PRON crush:NOUN .:PUNCT
+robert:PROPN give:VERB he:PRON some:DET idea:NOUN and:CCONJ brian:PROPN felt:AUX inspire:VERB to:PART go:VERB approach:VERB she:PRON .:PUNCT
+who:PRON do:AUX not:PART like:VERB snow:NOUN in:ADP this:DET world:NOUN it:PRON be:AUX the:DET same:ADJ for:ADP danny:PROPN look:VERB to:PART play:VERB with:ADP snow:NOUN even:ADV late:ADJ night:NOUN .:PUNCT
+jack:PROPN danny:PROPN 's:PART father:NOUN get:VERB out:ADP of:ADP his:PRON house:NOUN to:PART bring:VERB danny:PROPN back:ADV as:SCONJ it:PRON be:AUX dangerous:ADJ to:PART stay:VERB in:ADP the:DET wood:NOUN at:ADP night:NOUN .:PUNCT
+danny:PROPN see:VERB his:PRON father:NOUN jack:PROPN look:VERB for:ADP he:PRON try:VERB to:PART hide:VERB so:SCONJ that:SCONJ he:PRON could:AUX play:VERB a:DET little:ADJ more:ADJ .:PUNCT
+on:ADP the:DET other:ADJ hand:NOUN at:ADP jack:PROPN 's:PART house:NOUN shelley:PROPN his:PRON wife:NOUN be:AUX all:ADV alone:ADJ .:PUNCT
+shelley:PROPN start:VERB to:PART hear:VERB some:DET knock:VERB sound:NOUN come:VERB from:ADP the:DET wardrobe:NOUN she:PRON wonder:VERB whether:SCONJ it:PRON be:AUX a:DET thief:NOUN or:CCONJ something:PRON and:CCONJ grab:VERB a:DET knife:NOUN .:PUNCT
+the:DET sound:NOUN keep:VERB on:ADP increase:VERB shelley:PROPN turn:VERB pale:NOUN .:PUNCT
+a:DET little:ADJ blood:NOUN start:VERB to:PART appear:VERB through:ADP the:DET gap:NOUN between:ADP the:DET wardrobe:NOUN .:PUNCT
+shelley:NOUN without:ADP any:DET idea:NOUN of:ADP what:PRON be:AUX go:VERB on:ADP be:AUX leave:VERB traumatize:VERB .:PUNCT
+it:PRON be:AUX another:DET night:NOUN of:ADP booze:VERB and:CCONJ live:VERB it:PRON up:ADP .:PUNCT
+jeremy:PROPN be:AUX talk:VERB crap:NOUN to:ADP a:DET fellow:ADJ customer:NOUN at:ADP the:DET bar:NOUN .:PUNCT
+christian:ADJ look:VERB up:ADP and:CCONJ see:VERB the:DET most:ADV beautiful:ADJ woman:NOUN he:PRON have:AUX ever:ADV see:VERB .:PUNCT
+more:ADV beautiful:ADJ than:ADP his:PRON wife:NOUN amy:PROPN .:PUNCT
+jennifer:PROPN be:AUX off:ADV talk:VERB to:ADP some:PRON of:ADP the:DET girl:NOUN in:ADP the:DET bar:NOUN .:PUNCT
+tell:VERB they:PRON how:SCONJ she:PRON find:VERB jack:PROPN to:PART be:AUX so:ADV attractive:ADJ .:PUNCT
+amy:PROPN and:CCONJ her:PRON friend:NOUN be:AUX discuss:VERB why:SCONJ they:PRON feel:VERB christian:PROPN be:AUX be:AUX unfaithful:ADJ .:PUNCT
+stephen:PROPN and:CCONJ kevin:PROPN be:AUX talk:VERB about:ADP what:PRON they:PRON should:AUX have:AUX for:ADP dinner:NOUN .:PUNCT
+gabriel:PROPN be:AUX really:ADV hop:VERB for:ADP some:DET pizza:NOUN .:PUNCT
+gabriel:PROPN have:VERB pizza:NOUN last:ADJ night:NOUN so:ADV he:PRON be:AUX not:PART in:ADP the:DET mood:NOUN for:ADP that:PRON .:PUNCT
+kevin:PROPN suggest:VERB they:PRON have:VERB a:DET nice:ADJ salad:NOUN .:PUNCT
+gabriel:PROPN and:CCONJ benicio:PROPN think:VERB that:PRON be:AUX ridiculous:ADJ .:PUNCT
+every:PRON leave:VERB hungry:ADJ for:ADP the:DET night:NOUN .:PUNCT
+donald:PROPN ,:PUNCT elliot:PROPN and:CCONJ sally:PROPN be:AUX perform:VERB an:DET operation:NOUN .:PUNCT
+it:PRON be:AUX a:DET huge:ADJ operation:NOUN and:CCONJ they:PRON be:AUX all:ADV very:ADV focused:ADJ .:PUNCT
+the:DET operation:NOUN be:AUX replace:VERB a:DET man:NOUN 's:PART damage:VERB intestine:NOUN .:PUNCT
+the:DET intestine:NOUN be:AUX not:PART work:VERB because:SCONJ the:DET man:NOUN get:AUX slash:VERB in:ADP the:DET abdomen:NOUN .:PUNCT
+after:ADP over:ADP 15:NUM hour:NOUN of:ADP surgery:NOUN ,:PUNCT they:PRON be:AUX finish:VERB and:CCONJ they:PRON all:PRON give:VERB a:DET sigh:NOUN of:ADP relief:NOUN .:PUNCT
+barry:PROPN be:AUX the:DET sheriff:NOUN and:CCONJ he:PRON aim:VERB his:PRON gun:NOUN .:PUNCT
+jeff:PROPN hold:VERB his:PRON hand:NOUN up:ADP and:CCONJ ask:VERB the:DET sheriff:NOUN not:PART to:PART shoot:VERB .:PUNCT
+barry:PROPN aim:VERB his:PRON gun:NOUN and:CCONJ prepare:VERB to:PART shoot:VERB .:PUNCT
+although:SCONJ jeff:PROPN aim:VERB his:PRON gun:NOUN at:ADP barry:PROPN ,:PUNCT barry:PROPN be:AUX able:ADJ to:PART shoot:VERB first:ADV .:PUNCT
+barry:PROPN hit:VERB jeff:PROPN with:ADP a:DET bullet:NOUN and:CCONJ jeff:PROPN start:VERB to:PART fall:VERB off:ADP his:PRON horse:NOUN .:PUNCT
+barry:PROPN put:VERB his:PRON gun:NOUN away:ADV as:SCONJ it:PRON seem:VERB that:SCONJ jeff:PROPN be:AUX not:PART threaten:VERB he:PRON anymore:ADV .:PUNCT
+jeff:PROPN lie:VERB on:ADP the:DET ground:NOUN in:ADP pain:NOUN as:SCONJ he:PRON wait:VERB for:SCONJ barry:PROPN to:PART arrest:VERB he:PRON .:PUNCT
+jack:PROPN have:AUX just:ADV arrive:VERB in:ADP his:PRON hotel:NOUN after:ADP a:DET long:ADJ day:NOUN of:ADP travel:VERB .:PUNCT
+jack:PROPN get:VERB into:ADP the:DET elevator:NOUN ,:PUNCT but:CCONJ he:PRON notice:VERB a:DET noise:NOUN outside:ADV ,:PUNCT in:ADP the:DET hallway:NOUN .:PUNCT
+he:PRON look:VERB and:CCONJ it:PRON be:AUX a:DET small:ADJ dog:NOUN that:PRON be:AUX lose:VERB .:PUNCT
+the:DET dog:NOUN look:VERB at:ADP jack:PROPN ,:PUNCT as:SCONJ if:SCONJ he:PRON want:VERB to:PART be:AUX pet:VERB .:PUNCT
+jack:PROPN approach:VERB the:DET small:ADJ dog:NOUN cautiously:ADV .:PUNCT
+he:PRON pick:VERB up:ADP the:DET dog:NOUN ,:PUNCT but:CCONJ it:PRON start:VERB to:PART urinate:VERB on:ADP jack:PROPN !:PUNCT .:PUNCT
+after:ADP have:VERB some:DET relationship:NOUN issue:NOUN cameron:PROPN think:VERB it:PRON would:AUX be:AUX good:ADJ to:PART give:VERB back:ADP the:DET car:NOUN ben:PROPN give:VERB she:PRON .:PUNCT
+ben:PROPN take:VERB the:DET key:NOUN and:CCONJ walk:VERB away:ADV but:CCONJ begin:VERB to:PART reevaluate:VERB their:PRON relationship:NOUN .:PUNCT
+after:ADP some:DET thought:NOUN ben:PROPN realize:VERB it:PRON would:AUX be:AUX good:ADJ if:SCONJ they:PRON try:VERB to:PART work:VERB out:ADP their:PRON problem:NOUN and:CCONJ turn:VERB around:ADV .:PUNCT
+once:SCONJ he:PRON turn:VERB around:ADP cameron:PROPN came:AUX rush:VERB in:ADV since:SCONJ she:PRON be:AUX so:ADV happy:ADJ that:SCONJ ben:PROPN do:AUX not:PART give:VERB up:ADP on:ADP their:PRON relationship:NOUN .:PUNCT
+they:PRON finally:ADV be:AUX embrace:VERB each:DET other:ADJ with:ADP a:DET strong:ADJ passion:NOUN and:CCONJ they:PRON be:AUX on:ADP their:PRON way:NOUN to:ADP create:VERB an:DET even:ADV strong:ADJ relationship:NOUN .:PUNCT
+shia:PROPN be:AUX in:ADP the:DET interrogation:NOUN room:NOUN try:VERB to:PART explain:VERB his:PRON case:NOUN with:ADP the:DET police:NOUN .:PUNCT
+billy:PROPN be:AUX not:PART buy:VERB his:PRON excuse:NOUN of:ADP how:SCONJ he:PRON do:AUX not:PART commit:VERB the:DET crime:NOUN .:PUNCT
+shia:PROPN be:AUX adamant:ADJ that:SCONJ he:PRON be:AUX innocent:ADJ and:CCONJ want:VERB to:PART talk:VERB to:ADP his:PRON lawyer:NOUN .:PUNCT
+meanwhile:ADV michelle:PROPN be:AUX out:ADV with:ADP her:PRON friend:NOUN enjoy:VERB a:DET drink:NOUN at:ADP a:DET bar:NOUN .:PUNCT
+they:PRON be:AUX have:VERB a:DET good:ADJ time:NOUN talk:VERB about:ADP old:ADJ time:NOUN .:PUNCT
+jim:PROPN park:VERB his:PRON red:ADJ sport:NOUN car:NOUN outside:ADP of:ADP the:DET hotel:NOUN when:SCONJ he:PRON arrive:VERB .:PUNCT
+he:PRON storm:VERB out:ADP of:ADP the:DET car:NOUN and:CCONJ show:VERB everyone:PRON how:SCONJ much:ADJ money:NOUN he:PRON have:VERB !:PUNCT .:PUNCT
+he:PRON then:ADV go:VERB into:ADP the:DET hotel:NOUN as:SCONJ if:SCONJ he:PRON own:VERB it:PRON .:PUNCT
+he:PRON spend:VERB all:DET day:NOUN with:ADP jeff:PROPN ,:PUNCT his:PRON brother:NOUN ,:PUNCT eat:VERB and:CCONJ laugh:VERB while:SCONJ watch:VERB tv:NOUN .:PUNCT
+he:PRON then:ADV watch:VERB a:DET sad:ADJ movie:NOUN that:PRON make:VERB he:PRON cry:VERB .:PUNCT
+philip:PROPN ,:PUNCT jude:PROPN and:CCONJ matt:PROPN be:AUX play:VERB with:ADP their:PRON new:ADJ headset:NOUN .:PUNCT
+they:PRON have:VERB a:DET fascination:NOUN with:ADP headset:NOUN and:CCONJ would:AUX always:ADV buy:VERB the:DET late:ADJ model:NOUN .:PUNCT
+today:NOUN ,:PUNCT they:PRON be:AUX test:VERB out:ADP the:DET audio:NOUN of:ADP the:DET headset:NOUN .:PUNCT
+everything:PRON be:AUX go:VERB great:ADJ until:SCONJ matt:PROPN tell:VERB they:PRON he:PRON have:VERB to:PART go:VERB .:PUNCT
+his:PRON wife:NOUN be:AUX angry:ADJ at:ADP he:PRON for:ADP waste:VERB so:ADV much:ADJ money:NOUN on:ADP new:ADJ headset:NOUN and:CCONJ be:AUX throw:VERB a:DET fit:NOUN so:ADV matt:PROPN have:VERB to:PART go:VERB and:CCONJ calm:VERB she:PRON down:ADP .:PUNCT
+a:DET soldier:NOUN dress:VERB in:ADP british:ADJ red:ADJ army:NOUN garment:NOUN be:AUX take:VERB a:DET direct:ADJ hit:NOUN in:ADP a:DET skirmish:ADJ ,:PUNCT slowly:ADV fall:VERB backwards:ADV .:PUNCT
+the:DET entire:ADJ group:NOUN of:ADP british:ADJ soldier:NOUN be:AUX try:VERB to:PART respond:VERB to:ADP the:DET attack:NOUN by:ADP unseen:ADJ assailant:NOUN ,:PUNCT who:PRON use:VERB the:DET advantage:NOUN of:ADP narrow:ADJ pathway:NOUN in:ADP the:DET wood:NOUN ,:PUNCT to:PART return:VERB fire:NOUN .:PUNCT
+the:DET lone:PROPN attacker:NOUN skirt:NOUN between:ADP tree:NOUN to:PART change:VERB his:PRON angle:NOUN of:ADP attack:NOUN and:CCONJ gain:VERB a:DET further:ADJ advantage:NOUN over:ADP the:DET slow:ADJ british:ADJ troop:NOUN .:PUNCT
+having:AUX change:VERB his:PRON position:NOUN to:ADP another:DET angle:NOUN ,:PUNCT he:PRON take:VERB aim:NOUN at:ADP another:DET soldier:NOUN .:PUNCT
+pass:VERB he:PRON by:ADP as:ADP part:NOUN of:ADP the:DET group:NOUN of:ADP english:ADJ soldier:NOUN .:PUNCT
+the:DET result:NOUN of:ADP this:DET confrontation:NOUN be:AUX costly:ADJ for:ADP the:DET english:ADJ force:NOUN ,:PUNCT as:SCONJ several:ADJ of:ADP their:PRON soldier:NOUN be:AUX lie:VERB dead:ADJ on:ADP the:DET floor:NOUN ,:PUNCT strike:VERB down:ADP by:ADP a:DET single:ADJ attacker:NOUN who:PRON have:AUX remain:VERB well:ADV hide:VERB in:ADP the:DET wood:NOUN .:PUNCT
+the:DET carriage:NOUN arrive:VERB to:ADP the:DET house:NOUN .:PUNCT
+it:PRON pick:VERB up:ADP emma:PROPN and:CCONJ kate:PROPN from:ADP their:PRON home:NOUN .:PUNCT
+emma:PROPN and:CCONJ kate:PROPN be:AUX sit:VERB in:ADP silence:NOUN for:ADP the:DET all:DET ride:NOUN .:PUNCT
+they:PRON be:AUX pass:VERB by:ADP beautiful:ADJ scenery:NOUN .:PUNCT
+finally:ADV they:PRON have:AUX arrive:VERB .:PUNCT
+hugh:PROPN be:AUX already:ADV wait:VERB for:ADP they:PRON .:PUNCT
+he:PRON be:AUX very:ADV happy:ADJ to:PART meet:VERB kate:PROPN again:ADV .:PUNCT
+emma:PROPN be:AUX a:DET little:ADJ worried:ADJ about:ADP her:PRON daughter:NOUN .:PUNCT
+kate:PROPN take:VERB a:DET walk:NOUN in:ADP the:DET garden:NOUN of:ADP hugh:PROPN ,:PUNCT it:PRON be:AUX absolutely:ADV stunning:ADJ .:PUNCT
+the:DET man:NOUN look:VERB at:ADP the:DET woman:NOUN through:ADP the:DET door:NOUN ,:PUNCT and:CCONJ think:VERB about:ADP what:PRON have:AUX happen:VERB to:ADP poor:ADJ scarlett:PROPN .:PUNCT
+natalie:PROPN hear:VERB someone:PRON at:ADP the:DET door:NOUN and:CCONJ peer:VERB over:ADP .:PUNCT
+scarlett:PROPN look:VERB at:ADP the:DET man:NOUN and:CCONJ think:VERB of:ADP what:PRON horrible:ADJ thing:NOUN he:PRON have:AUX do:VERB .:PUNCT
+the:DET man:NOUN walk:VERB in:ADV and:CCONJ say:VERB he:PRON would:AUX like:VERB to:PART apologize:VERB for:ADP the:DET mishap:NOUN early:ADV .:PUNCT
+he:PRON begin:VERB to:PART walk:VERB away:ADV in:ADP dismay:NOUN .:PUNCT
+natalie:PROPN ask:VERB scarlett:PROPN if:SCONJ she:PRON be:AUX okay:ADJ and:CCONJ can:AUX tell:VERB she:PRON all:PRON that:PRON have:AUX happen:VERB .:PUNCT
+scarlett:PROPN look:VERB with:ADP a:DET blank:ADJ stare:NOUN and:CCONJ say:VERB she:PRON must:AUX leave:VERB now:ADV .:PUNCT
+the:DET evil:ADJ king:NOUN eric:PROPN make:VERB his:PRON way:NOUN down:ADP the:DET hall:NOUN to:PART confront:VERB the:DET woman:NOUN .:PUNCT
+jonny:PROPN need:VERB people:NOUN to:PART join:VERB his:PRON chess:NOUN club:NOUN .:PUNCT
+tim:PROPN think:VERB about:ADP join:VERB but:CCONJ he:PRON be:AUX not:PART sure:ADJ .:PUNCT
+fisher:PROPN figure:VERB it:PRON would:AUX be:AUX fun:ADJ to:PART do:VERB but:CCONJ only:ADV if:SCONJ tim:PROPN join:VERB .:PUNCT
+fisher:PROPN ask:VERB tim:PROPN if:SCONJ he:PRON know:VERB what:PRON a:DET pawn:NOUN or:CCONJ a:DET rook:NOUN be:AUX .:PUNCT
+tim:PROPN be:AUX very:ADV confused:ADJ .:PUNCT
+fisher:PROPN look:VERB jonny:PROPN in:ADP the:DET eye:NOUN and:CCONJ tell:VERB he:PRON he:PRON would:AUX not:PART join:VERB the:DET club:NOUN .:PUNCT
+mark:PROPN be:AUX dunk:VERB jeff:PROPN 's:PART head:NOUN in:ADP the:DET toilet:NOUN .:PUNCT
+he:PRON be:AUX do:VERB that:PRON over:ADV and:CCONJ over:ADV again:ADV until:SCONJ jeff:PROPN be:AUX cough:VERB and:CCONJ promise:VERB to:PART behave:VERB .:PUNCT
+mark:PROPN dunk:VERB he:PRON one:NUM last:ADJ time:NOUN .:PUNCT
+jeff:PROPN be:AUX cough:VERB up:ADP the:DET toilet:NOUN water:NOUN .:PUNCT
+he:PRON feel:VERB exhausted:ADJ and:CCONJ have:VERB trouble:NOUN get:VERB up:ADP from:ADP the:DET floor:NOUN .:PUNCT
+mark:PROPN threaten:VERB to:PART do:VERB it:PRON again:ADV if:SCONJ jeff:PROPN will:AUX not:PART behave:VERB .:PUNCT
